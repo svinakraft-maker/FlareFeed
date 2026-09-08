@@ -1,6 +1,6 @@
 # profile-title: VLESS
 # profile-update-interval: 1
-# Date/Time: 2026-09-08 / 22:39 (Moscow)
+# Date/Time: 2026-09-08 / 23:17 (Moscow)
 # Количество: 145
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=viper-21.moriarty-web.com&type=tcp#🌐 ping_173ms speed_18.9Mbps
 vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.251:443?security=none&type=tcp&headerType=http&path=%2F&host=store.steampowered.com&packetEncoding=xudp&encryption=none#🌐 ping_108ms speed_18.8Mbps
