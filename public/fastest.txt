@@ -1,9 +1,15 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-09-08 / 14:47 (Moscow)
-# Количество: 5
-vless://50414e45-4c5f-5a45-5553-bb2d0bc74f3c@104.16.155.170:2083?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Fbb2d0bc74f3c&host=ez-e46ef3.ezaccess16b9d1f.workers.dev&packetEncoding=xudp&sni=ez-e46ef3.ezaccess16b9d1f.workers.dev&fp=chrome&encryption=none#ping_167ms_speed_26.3Mbps
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22224?encryption=none&security=none&type=tcp#ping_99ms_speed_19.7Mbps
-vless://e0440582-5959-422c-8bb2-d086f4959c2d@222.167.245.141:443?type=tcp&security=reality&sni=example.com&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&flow=xtls-rprx-vision#ping_145ms_speed_18.0Mbps
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?security=tls&type=tcp&packetEncoding=xudp&sni=viper-21.moriarty-web.com&fp=firefox&flow=xtls-rprx-vision#ping_169ms_speed_17.8Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@84.38.185.149:9889?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=qq&encryption=none#ping_192ms_speed_11.8Mbps
+# Date/Time: 2026-09-08 / 15:50 (Moscow)
+# Количество: 11
+vless://b1df4a81-1c94-4ab8-b297-e8684a6d1719@104.17.6.9:2083?encryption=none&security=tls&sni=orange-dust-89ff.honeymohammadhassan.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#ping_184ms_speed_25.4Mbps
+vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#ping_179ms_speed_21.8Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22222?encryption=none&security=none&type=tcp#ping_103ms_speed_19.2Mbps
+vless://b2511367-2f48-43db-af61-01869ddfef00@69.46.46.254:443?path=%2Fws%2Fvless%2Fb2511367-2f48-43db-af61-01869ddfef00%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=app-45d95a-0b79bb-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=app-45d95a-0b79bb-production.up.railway.app#ping_249ms_speed_18.6Mbps
+vless://69d8dc73-20ff-4241-bdd8-a9d6d07553b6@91.107.179.8:15003?security=none&type=tcp&packetEncoding=xudp#ping_121ms_speed_16.9Mbps
+vless://4f6a7bf6-71df-4697-b691-ffdd4323411a@217.60.100.83:443?flow=xtls-rprx-vision&fp=firefox&pbk=OECEXjkKytnmX6qxzAvC9tE9QAQqNuWRBblAmbRnYWY&security=reality&sid=fe2e437f64f2da7a&sni=ign.com&type=tcp#ping_4194ms_speed_16.1Mbps
+vless://e666041f-8a25-4f05-812d-a5984e748497@82.47.169.33:2096?path=%2F&security=&encryption=none&type=ws#ping_490ms_speed_15.6Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22223?encryption=none&security=none&type=tcp#ping_108ms_speed_12.4Mbps
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@200.165.226.238:443?flow=xtls-rprx-vision&fp=firefox&pbk=zN2kp0eoCXJ3JfOxpwGCdV8AL8XHDvoBPqUVgjZDJjc&security=reality&sid=f12a18e217c4f744&sni=sw.contentdl.com&type=tcp#ping_186ms_speed_10.5Mbps
+vless://e666041f-8a25-4f05-812d-a5984e748497@45.91.138.67:2096?path=%2F&security=&encryption=none&type=ws#ping_1441ms_speed_3.9Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9891?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&encryption=none&fp=ios#ping_2717ms
