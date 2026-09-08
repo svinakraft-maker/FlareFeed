@@ -1,9 +1,9 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-09-08 / 13:44 (Moscow)
+# Date/Time: 2026-09-08 / 14:47 (Moscow)
 # Количество: 5
-vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@solitary-mountain-996f.223-38e.workers.dev:8880?type=ws&sni=solitary-mountain-996f.223-38e.workers.dev#ping_160ms_speed_19.4Mbps
-vless://e0440582-5959-422c-8bb2-d086f4959c2d@87.251.69.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#ping_187ms_speed_14.8Mbps
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@213.21.250.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fn0RLpDpJr5BJvYeX8W7OgGYoW4nARJ6jZg-sWIAozA&security=reality&sni=api.sream-rutube.shop&type=tcp#ping_153ms_speed_12.8Mbps
-vless://e0440582-5959-422c-8bb2-d086f4959c2d@130.17.7.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#ping_215ms_speed_10.9Mbps
-vless://f2d2907c-1d74-43eb-8fd2-fc55dfd92427@194.26.229.207:2200?type=ws&path=%2Fv1&host=rzd.ru#ping_54ms
+vless://50414e45-4c5f-5a45-5553-bb2d0bc74f3c@104.16.155.170:2083?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Fbb2d0bc74f3c&host=ez-e46ef3.ezaccess16b9d1f.workers.dev&packetEncoding=xudp&sni=ez-e46ef3.ezaccess16b9d1f.workers.dev&fp=chrome&encryption=none#ping_167ms_speed_26.3Mbps
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.152.249:22224?encryption=none&security=none&type=tcp#ping_99ms_speed_19.7Mbps
+vless://e0440582-5959-422c-8bb2-d086f4959c2d@222.167.245.141:443?type=tcp&security=reality&sni=example.com&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&flow=xtls-rprx-vision#ping_145ms_speed_18.0Mbps
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.226.173:443?security=tls&type=tcp&packetEncoding=xudp&sni=viper-21.moriarty-web.com&fp=firefox&flow=xtls-rprx-vision#ping_169ms_speed_17.8Mbps
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@84.38.185.149:9889?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&fp=qq&encryption=none#ping_192ms_speed_11.8Mbps
