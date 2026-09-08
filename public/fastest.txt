@@ -1,18 +1,10 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-09-08 / 11:34 (Moscow)
-# Количество: 14
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@88.119.176.134:443?flow=xtls-rprx-vision&fp=firefox&pbk=QPGdBjmycK5eA6rV4-sKsNUn8VyK-NCWHw3jO5SJ6C4&security=reality&sid=2b1e40fbb1362f77&sni=lit.lizard.surf&type=tcp#ping_104ms_speed_44.3Mbps
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.149.192:443?security=tls&type=ws&path=%2F%3Fed&host=powered-by-surena.configfarsi695fd42d43c58.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi695fd42d43c58.workers.dev&fp=chrome&encryption=none#ping_123ms_speed_38.9Mbps
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@45.145.40.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=bEyseuYLi3GTDy48DYi0yiPjrc8sFiRK6F6LsyxHV3s&security=reality&sni=dvcvx.cloudvk.cc&type=tcp#ping_134ms_speed_19.0Mbps
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@151.243.150.155:443?security=reality&encryption=none&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ded1.cloudvk.cc#ping_743ms_speed_17.9Mbps
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@196.240.109.117:443?flow=xtls-rprx-vision&fp=firefox&pbk=_MNu7iYAsOWPHNojVZIpfmjuUgsUIHYlmJ1UWjCgI3U&security=reality&sid=4a45359303431969&sni=arturito.nxxzxaw.beer&type=tcp#ping_224ms_speed_17.8Mbps
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@arturito.nxxzxaw.beer:443?flow=xtls-rprx-vision&fp=edge&headertype=none&pbk=_MNu7iYAsOWPHNojVZIpfmjuUgsUIHYlmJ1UWjCgI3U&security=reality&sid=4a45359303431969&sni=arturito.nxxzxaw.beer&type=tcp#ping_224ms_speed_16.4Mbps
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@159.195.242.180:443?flow=xtls-rprx-vision&fp=firefox&pbk=tzOeyllk2VtPXZ_BJ2lOZcGtsnn41ZHBa9dE6s9sFiQ&security=reality&sid=c8c75aaf699259b4&sni=at2.tsumshop.org&type=tcp#ping_180ms_speed_15.5Mbps
-vless://02f3a6a2-289e-4026-8e26-616d47e0914f@143.246.223.149:443?flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=molderson.loozerp.wiki&type=tcp#ping_260ms_speed_11.6Mbps
-vless://64f24902-ce5d-4939-926a-cbe7969505ff@151.243.150.24:443?flow=xtls-rprx-vision&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&security=reality&sni=ded1ghg.cloudvk.cc&type=tcp#ping_135ms_speed_9.8Mbps
-vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIzMS43Ny44Ljk3IiwicG9ydCI6IjExMCIsImlkIjoiOGU5Njg3ZmMtYTNhNy00MTRhLTg2NzYtOGUyMTM2Nzk3Y2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=#ping_372ms_speed_5.3Mbps
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@95.213.184.165:9895?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=chrome#ping_176ms_speed_2.1Mbps
-vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@104.21.67.181:443?security=tls&type=ws&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&host=7-m20.be434a1f-0c04-40c9-a43a-87cc7d7da502.kdns.fr&packetEncoding=xudp&sni=7-m20.be434a1f-0c04-40c9-a43a-87cc7d7da502.kdns.fr&fp=chrome#ping_635ms
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@149.154.68.213:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg&security=reality&sid=7505bfa3b6b933e6&sni=defaultenginedimly.rivetpress.me&type=raw#ping_4880ms
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@80.90.185.80:9892?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&fp=qq&encryption=none#ping_3111ms
+# Date/Time: 2026-09-08 / 12:40 (Moscow)
+# Количество: 6
+vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@2.27.168.39:443?flow=xtls-rprx-vision&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&security=reality&sni=vcxzzvn.cloudvk.cc&type=tcp#ping_196ms_speed_21.2Mbps
+vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?security=tls&type=ws&path=%2Fvolexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#ping_196ms_speed_17.4Mbps
+vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#ping_113ms_speed_16.8Mbps
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.214.165:443?security=tls&type=ws&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&host=5-backend-infra-m20.g000g.ccwu.cc&packetEncoding=xudp&sni=5-backend-infra-m20.g000g.ccwu.cc&fp=chrome#ping_564ms_speed_5.9Mbps
+vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.17.106.48:2053?security=tls&type=ws&path=%2Fdownload%2Fv3%2Finstaller-x64.bin&host=us.105794.xyz&packetEncoding=xudp&sni=us.105794.xyz&fp=chrome&encryption=none#ping_4474ms
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9882?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=chrome#ping_5309ms
