@@ -1,10 +1,9 @@
 # profile-title: FASTEST 100
 # profile-update-interval: 1
-# Date/Time: 2026-09-08 / 12:40 (Moscow)
-# Количество: 6
-vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@2.27.168.39:443?flow=xtls-rprx-vision&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&security=reality&sni=vcxzzvn.cloudvk.cc&type=tcp#ping_196ms_speed_21.2Mbps
-vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?security=tls&type=ws&path=%2Fvolexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#ping_196ms_speed_17.4Mbps
-vless://fd4b654f-9ae2-42c5-977b-6aa54e8e9a83@91.99.50.192:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#ping_113ms_speed_16.8Mbps
-vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.214.165:443?security=tls&type=ws&path=%2F8qMLgNapWf6SBxo8fhQlVPYO&host=5-backend-infra-m20.g000g.ccwu.cc&packetEncoding=xudp&sni=5-backend-infra-m20.g000g.ccwu.cc&fp=chrome#ping_564ms_speed_5.9Mbps
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.17.106.48:2053?security=tls&type=ws&path=%2Fdownload%2Fv3%2Finstaller-x64.bin&host=us.105794.xyz&packetEncoding=xudp&sni=us.105794.xyz&fp=chrome&encryption=none#ping_4474ms
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.131.255.31:9882?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=chrome#ping_5309ms
+# Date/Time: 2026-09-08 / 13:44 (Moscow)
+# Количество: 5
+vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@solitary-mountain-996f.223-38e.workers.dev:8880?type=ws&sni=solitary-mountain-996f.223-38e.workers.dev#ping_160ms_speed_19.4Mbps
+vless://e0440582-5959-422c-8bb2-d086f4959c2d@87.251.69.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#ping_187ms_speed_14.8Mbps
+vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@213.21.250.193:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fn0RLpDpJr5BJvYeX8W7OgGYoW4nARJ6jZg-sWIAozA&security=reality&sni=api.sream-rutube.shop&type=tcp#ping_153ms_speed_12.8Mbps
+vless://e0440582-5959-422c-8bb2-d086f4959c2d@130.17.7.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=example.com&type=tcp#ping_215ms_speed_10.9Mbps
+vless://f2d2907c-1d74-43eb-8fd2-fc55dfd92427@194.26.229.207:2200?type=ws&path=%2Fv1&host=rzd.ru#ping_54ms
