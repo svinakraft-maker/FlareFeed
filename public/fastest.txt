@@ -1,11 +1,12 @@
 # profile-title: FASTEST
 # profile-update-interval: 1
-# Date/Time: 2026-09-09 / 12:01 (Moscow)
-# Количество: 7
-vless://04eb0e21-135d-4a0b-a22d-40a4e059d7f9@23.137.249.110:37470?encryption=none&security=tls&sni=23.137.249.110&alpn=h2, http/1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#0001 | 🇳🇱 Netherlands | [148ms22.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://94248dca-e56b-424a-9232-401178a4f8f9@104.143.223.58:2085?type=grpc&mode=multi&serviceName=vless#0002 | 🇦🇪 United Arab Emirates | [118ms21.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?security=none&type=ws&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&host=cold-bush-a762.lidrezvpn.workers.dev&packetEncoding=xudp#0003 | 🌐 Unknown | [112ms20.9mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#0004 | 🇸🇪 Sweden | [96ms19.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://50414e45-4c5f-5a45-5553-4017ea8bea78@104.18.80.149:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4017ea8bea78%2Floc-4&host=zeus-panel-mvtum1.mahdiharchegani.workers.dev&packetEncoding=xudp&sni=zeus-panel-mvtum1.mahdiharchegani.workers.dev&fp=unsafe&encryption=none#0005 | 🇺🇿 Uzbekistan | [1039ms3.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8b92dfff-ddfd-4a37-841d-6f7bf7ab43b6@14.137.238.193:10000?&type=tcp&headerType=none&path=%2F#0006 | 🇯🇵 Japan | [557ms2.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#0007 | 🇮🇳 India | [656ms2.2mbps] | 🏴 Black | TG: @FlareFeedtg
+# Date/Time: 2026-09-09 / 12:55 (Moscow)
+# Количество: 8
+vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?security=none&type=ws&path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560&host=cold-bush-a762.lidrezvpn.workers.dev&packetEncoding=xudp#0001 | 🌐 Unknown | [112ms20.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://251e9d36-3eec-474f-9eb8-fe508e28ced6@spser1.mechanicir.ir:53719?type=tcp&security=reality&sni=play-fe.googleapis.com&fp=chrome&pbk=9XG-o5CJH3_h4x6FDeGs-JsE1LzyJSyw5d-xi6LvVTc&sid=5d1caa44e652126d#0002 | 🇩🇪 Germany | [192ms11.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://0dd9bd66-b041-4fb6-86ce-5357b3eb6ae8@ff13741198843a8f.portalcode.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=edge&type=tcp&sni=play-apps-features.googleusercontent.com&sid=1bfe954cb07fb70a#0003 | 🇮🇹 Italy | [200ms9.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://fe1d6e16-d6ed-4f93-a44c-bea0750b68db@185.87.24.7:2085?type=grpc&mode=multi&serviceName=vless#0004 | 🇹🇷 Turkey | [416ms6.8mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#0005 | 🇺🇸 United States | [260ms6.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.133.167:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#0006 | 🇸🇬 Singapore | [1033ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://50414e45-4c5f-5a45-5553-4017ea8bea78@104.18.80.149:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F4017ea8bea78%2Floc-4&host=zeus-panel-mvtum1.mahdiharchegani.workers.dev&packetEncoding=xudp&sni=zeus-panel-mvtum1.mahdiharchegani.workers.dev&fp=unsafe&encryption=none#0007 | 🇺🇿 Uzbekistan | [1039ms3.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560&sni=nat11.outsidemyheart.space&type=ws#0008 | 🇯🇵 Japan | [1253ms2.4mbps] | 🏴 Black | TG: @FlareFeedtg
