@@ -1,16 +1,10 @@
 # profile-title: FASTEST
 # profile-update-interval: 1
-# Date/Time: 2026-09-10 / 17:59 (Moscow)
-# Количество: 12
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.20:22224?encryption=none&security=none&type=tcp#0001 | 🇫🇷 France | [163ms16.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.20:22223?encryption=none&security=none&type=tcp#0002 | 🇫🇷 France | [105ms15.1mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#0003 | 🇧🇷 Brazil | [460ms4.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@186b6f53-tla000-tvb36r-1qwom.hk3.hyhuawei.com:443?type=tcp&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#0004 | 🇭🇰 Hong Kong | [665ms3.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b@b83281e0-tlheo0-tvvhcz-tl32.hk3.hyhuawei.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4#0005 | 🇭🇰 Hong Kong | [1673ms3.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@9ed08d0c-tlheo0-tvb36r-1qwom.hk3.hyhuawei.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4#0006 | 🇭🇰 Hong Kong | [676ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8bb68d04-6973-11ee-b518-f23c9164ca5d@71b26306-tl4g00-tl42r3-1o8ak.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#0007 | 🇭🇰 Hong Kong | [676ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@0deecae9-tl4g00-tls5or-6gn6.hk3.hyhuawei.com:443?fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&security=reality&sni=updates.cdn-apple.com&type=tcp#0008 | 🇭🇰 Hong Kong | [702ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@a1a748ee-tlheo0-tls5or-6gn6.hk3.hyhuawei.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4#0009 | 🇭🇰 Hong Kong | [1660ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://6fb79584-30b8-4888-b358-98f7ef6b8697@node-nl.usel.pro:443?security=reality&encryption=none&pbk=BTCZ0hMhV10H818mbm54EQdU0s3qQXMtY4Hl67dFA18&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=manager.turbotest.openmesh.cloud#0010 | 🌐 Unknown | [1436ms2.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.253.20:22222?encryption=none&amp;security=none&amp;type=tcp#0011 | 🇫🇷 France | [152ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=%2F&type=raw#0012 | 🇳🇱 Netherlands | [1493ms1.3mbps] | 🏴 Black | TG: @FlareFeedtg
+# Date/Time: 2026-09-10 / 18:53 (Moscow)
+# Количество: 6
+vless://74a0f651-a5ce-50b0-8161-94eaf4fbdf43@69.46.46.111:443?path=%2Fws%2FTcrcrctc&security=tls&alpn=http%2F1.1&encryption=none&host=cloud-532da3-167e8c-production.up.railway.app&fp=chrome&type=ws&sni=cloud-532da3-167e8c-production.up.railway.app#0001 | 🇳🇱 Netherlands | [648ms15.4mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206cU12Sm1DYk1kdUtVb2VIcQ@66.245.207.70:8388#0002 | 🇮🇹 Italy | [108ms4.6mbps] | 🏴 Black | TG: @FlareFeedtg
+socks5://:@5.255.99.75:1080#0003 | 🇳🇱 Netherlands | [2264ms3.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&security=reality&sni=pool.dataroute.biz&spx=%2F&type=raw#0004 | 🇳🇱 Netherlands | [1493ms1.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://b511876c-e048-4653-a7e0-f3dc53f8a04f@103.83.86.31:8080?path=%2F&security=none&encryption=none&type=ws#0005 | 🇹🇷 Turkey | [1765ms0.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://h1zpi8ggoy88cc5l@193.148.253.210:2053?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=193.148.253.210&fp=chrome&ech=AGL+DQBeAAAgACDrJP/dVWMeomRtbuW9WXn79BFt4p/19elnElm1w9uwKAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA8xOTMuMTQ4LjI1My4yMTAAAA==&type=ws&allowInsecure=0&sni=193.148.253.210#0006 | 🌐 Unknown | [4191ms0.6mbps] | 🏴 Black | TG: @FlareFeedtg
