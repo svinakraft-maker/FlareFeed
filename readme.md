@@ -34,6 +34,13 @@
 ```text
 https://vless.svinakraft.workers.dev/podpiska.txt
 ```
+# 🛡️TOP 500 SECURE — топ защищённых
+Отсортировано по качеству (Reality+XHTTP+TLS). **Для LTE** — список от сильных DPI анализов.
+
+```text
+https://vless.svinakraft.workers.dev/Top500.txt
+```
+
 ## 📱 MOBILE — топ быстрых
 Отсортировано по качеству (минимальный пинг + максимальная скорость). **Для телефона и Happ** — лёгкий список, не тормозит импорт.
 
