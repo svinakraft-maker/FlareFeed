@@ -1,7 +1,7 @@
 # profile-title: VLESS
-# profile-update-interval: 1
-# Date/Time: 2026-09-13 / 13:32 (Moscow)
-# Количество: 466
+# profile-update-interval: 30
+# Date/Time: 2026-09-13 / 13:44 (Moscow)
+# Count: 466
 vless://d7c94b82-657a-4bb7-9b24-2ae566669835@193.160.208.165:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VOH-uvr0p7vaPpF5i3QKj6_lZL8JeDEezWTnIuA1HwI&sid=694ee64512cfcbef&sni=nalog.ru#0001 | 🇷🇺 Russia | [1248ms93.4mbps] | 🏴 Black | TG: @FlareFeedtg
 vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.88.168:8880?packetEncoding=xudp&type=ws&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=fragrant-surf-4797.496-345.workers.dev#0002 | 🇺🇸 United States | [114ms75.9mbps] | 🏴 Black | TG: @FlareFeedtg
 vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@172.64.80.1:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=tight-star-08eb.331-729.workers.dev&packetEncoding=xudp&encryption=none#0003 | 🇯🇵 Japan | [114ms65.1mbps] | 🏴 Black | TG: @FlareFeedtg
