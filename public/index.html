@@ -4,209 +4,975 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#ff6a00">
+<meta name="description" content="FlareFeed — автоматически обновляющиеся подписки VLESS / VMess / Trojan / Shadowsocks / Hysteria2 / TUIC для обхода блокировок.">
 <title>FlareFeed — подписки для обхода блокировок</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ctext y='26' font-size='26'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource-variable/unbounded/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource-variable/inter/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource-variable/jetbrains-mono/index.css">
 <style>
-:root{--bg:#060606;--panel:#0e0e0e;--panel2:#151515;--line:rgba(255,255,255,.08);--orange:#ff6a00;--orange2:#ffa040;--white:#fff;--muted:#a3a3a3;--mono:'JetBrains Mono',ui-monospace,Consolas,monospace}
+:root{
+  --bg:#050506;--panel:#0c0c0f;--panel2:#141419;--panel3:#1b1b22;
+  --line:rgba(255,255,255,.09);--line2:rgba(255,255,255,.16);
+  --orange:#ff6a00;--orange2:#ffa040;--amber:#ffd08a;
+  --white:#fff;--muted:#9c9ca6;--muted2:#6e6e78;
+  --ok:#3ddc84;--bad:#ff5f56;
+  --mono:'JetBrains Mono Variable','JetBrains Mono',ui-monospace,Consolas,monospace;
+  --disp:'Unbounded Variable','Unbounded',system-ui,sans-serif;
+  --body:'Inter Variable','Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  --r:22px;--ease:cubic-bezier(.2,.75,.2,1);
+}
 *{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--white);font-family:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;overflow-x:hidden}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--white);font-family:var(--body);overflow-x:hidden;line-height:1.5;-webkit-font-smoothing:antialiased}
 ::selection{background:var(--orange);color:#000}
-body::before{content:"";position:fixed;inset:0;z-index:-2;background:radial-gradient(700px 420px at 85% -10%,rgba(255,106,0,.16),transparent 60%),radial-gradient(900px 520px at 5% 110%,rgba(255,106,0,.09),transparent 60%)}
-body::after{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(rgba(255,255,255,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.03) 1px,transparent 1px);background-size:56px 56px;-webkit-mask-image:radial-gradient(ellipse at 50% 0%,#000 25%,transparent 75%);mask-image:radial-gradient(ellipse at 50% 0%,#000 25%,transparent 75%)}
-.wrap{max-width:1160px;margin:0 auto;padding:0 24px}
-header{display:flex;justify-content:space-between;align-items:center;padding:26px 0}
-.logo{font-weight:900;font-size:20px;letter-spacing:-.02em;display:flex;align-items:center;gap:8px}
-.logo b{color:var(--orange)}
-.logo .bolt{filter:drop-shadow(0 0 12px rgba(255,106,0,.8))}
-.status{display:flex;align-items:center;gap:9px;font-family:var(--mono);font-size:12px;color:var(--muted);border:1px solid var(--line);padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.03)}
-.dot{width:8px;height:8px;border-radius:50%;background:var(--orange);box-shadow:0 0 0 0 rgba(255,106,0,.6);animation:pulse 1.6s infinite}
-@keyframes pulse{70%{box-shadow:0 0 0 10px rgba(255,106,0,0)}100%{box-shadow:0 0 0 0 rgba(255,106,0,0)}}
-.hero{position:relative;padding:64px 0 30px}
-.glow{position:absolute;width:560px;height:560px;right:-160px;top:-140px;z-index:-1;background:radial-gradient(circle,rgba(255,106,0,.25),transparent 60%);filter:blur(12px);animation:float 9s ease-in-out infinite}
-@keyframes float{50%{transform:translateY(34px)}}
-.live{display:inline-flex;align-items:center;gap:9px;font-family:var(--mono);font-size:12px;letter-spacing:.18em;color:var(--orange);border:1px solid rgba(255,106,0,.45);background:rgba(255,106,0,.08);padding:8px 16px;border-radius:999px;margin-bottom:26px}
-h1{font-size:clamp(60px,11vw,132px);font-weight:900;letter-spacing:-.045em;line-height:.92}
-h1 span{background:linear-gradient(180deg,var(--orange2),var(--orange));-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 0 34px rgba(255,106,0,.45))}
-.sub{color:var(--muted);font-size:clamp(16px,2vw,20px);margin:22px 0 30px;max-width:640px;line-height:1.6}
-.tags{display:flex;flex-wrap:wrap;gap:10px}
-.tag{font-family:var(--mono);font-size:12px;color:#fff;border:1px solid var(--line);background:rgba(255,255,255,.04);padding:9px 16px;border-radius:999px;transition:.3s}
-.tag:hover{border-color:rgba(255,106,0,.6);color:var(--orange2)}
-.mq{margin:56px 0 0;border-block:1px solid var(--line);padding:15px 0;overflow:hidden;background:rgba(255,255,255,.02)}
-.mq-track{display:flex;width:max-content;animation:mq 26s linear infinite}
-.mq span{font-family:var(--mono);font-size:13px;letter-spacing:.35em;color:var(--muted);padding:0 26px;white-space:nowrap}
+a{color:inherit}
+button{font-family:inherit;cursor:pointer}
+button,a{-webkit-tap-highlight-color:rgba(255,106,0,.35)}
+section[id],div[id].shead{scroll-margin-top:96px}
+
+/* ---------- ambient ---------- */
+body::before{content:"";position:fixed;inset:-10%;z-index:-4;pointer-events:none;
+  background:
+   radial-gradient(760px 460px at 84% -8%,rgba(255,106,0,.20),transparent 62%),
+   radial-gradient(900px 560px at 2% 108%,rgba(255,106,0,.11),transparent 60%),
+   radial-gradient(600px 500px at 50% 50%,rgba(120,60,255,.06),transparent 70%);
+  animation:breathe 16s ease-in-out infinite}
+@keyframes breathe{50%{transform:scale(1.08) translateY(-14px);opacity:.85}}
+#grid{position:fixed;inset:0;z-index:-2;pointer-events:none;
+  background:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);
+  background-size:60px 60px;
+  -webkit-mask-image:radial-gradient(ellipse 90% 70% at 50% 0%,#000 20%,transparent 78%);
+  mask-image:radial-gradient(ellipse 90% 70% at 50% 0%,#000 20%,transparent 78%)}
+#particles{position:fixed;inset:0;z-index:-3;pointer-events:none}
+#grain{position:fixed;inset:0;z-index:80;pointer-events:none!important;opacity:.05;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E")}
+#spot{position:fixed;top:0;left:0;width:560px;height:560px;z-index:-1;pointer-events:none!important;border-radius:50%;
+  background:radial-gradient(circle,rgba(255,106,0,.13),rgba(255,106,0,.05) 40%,transparent 68%);
+  mix-blend-mode:screen;opacity:0;transition:opacity .5s;will-change:transform}
+#progress{position:fixed;top:0;left:0;height:2px;width:100%;transform-origin:0 50%;transform:scaleX(0);z-index:100;pointer-events:none!important;
+  background:linear-gradient(90deg,#ff6a00,#ffd08a,#ff6a00);box-shadow:0 0 14px rgba(255,106,0,.8)}
+
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+
+/* ---------- header ---------- */
+header{position:sticky;top:0;z-index:70;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  background:linear-gradient(180deg,rgba(5,5,6,.92),rgba(5,5,6,.55));border-bottom:1px solid transparent;transition:border-color .4s,background .4s}
+header.stuck{border-bottom-color:var(--line);background:rgba(5,5,6,.9)}
+.hin{max-width:1180px;margin:0 auto;padding:14px 24px;display:flex;align-items:center;gap:18px;justify-content:space-between}
+.logo{font-family:var(--disp);font-weight:800;font-size:19px;letter-spacing:-.03em;display:flex;align-items:center;gap:9px;text-decoration:none;flex:none}
+.logo b{background:linear-gradient(90deg,var(--orange),var(--amber));-webkit-background-clip:text;background-clip:text;color:transparent}
+.bolt{width:30px;height:30px;display:grid;place-items:center;border-radius:9px;font-size:15px;
+  background:radial-gradient(circle at 30% 20%,rgba(255,160,64,.35),rgba(255,106,0,.12));
+  border:1px solid rgba(255,106,0,.4);box-shadow:0 0 22px rgba(255,106,0,.35);animation:boltpulse 3s ease-in-out infinite}
+@keyframes boltpulse{50%{box-shadow:0 0 34px rgba(255,106,0,.6)}}
+nav{display:flex;gap:4px;margin-left:auto}
+nav a{font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;color:var(--muted);text-decoration:none;padding:9px 13px;border-radius:999px;transition:.25s}
+nav a:hover,nav a.active{color:#fff;background:rgba(255,106,0,.16)}
+.status{display:flex;align-items:center;gap:9px;font-family:var(--mono);font-size:11px;letter-spacing:.08em;color:var(--muted);
+  border:1px solid var(--line);padding:8px 14px;border-radius:999px;background:rgba(255,255,255,.03);flex:none;white-space:nowrap}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--ok);box-shadow:0 0 0 0 rgba(61,220,132,.6);animation:pulse 1.8s infinite;flex:none}
+@keyframes pulse{70%{box-shadow:0 0 0 9px rgba(61,220,132,0)}100%{box-shadow:0 0 0 0 rgba(61,220,132,0)}}
+#burger{display:none;width:42px;height:42px;border-radius:12px;border:1px solid var(--line);background:rgba(255,255,255,.04);
+  align-items:center;justify-content:center;flex-direction:column;gap:4px}
+#burger i{display:block;width:17px;height:2px;background:#fff;border-radius:2px;transition:.3s var(--ease)}
+#burger.on i:nth-child(1){transform:translateY(6px) rotate(45deg)}
+#burger.on i:nth-child(2){opacity:0}
+#burger.on i:nth-child(3){transform:translateY(-6px) rotate(-45deg)}
+#mnav{display:none;position:fixed;left:14px;right:14px;top:74px;z-index:69;padding:14px;border-radius:20px;
+  border:1px solid var(--line);background:rgba(12,12,15,.97);backdrop-filter:blur(16px);box-shadow:0 30px 70px rgba(0,0,0,.7);
+  opacity:0;transform:translateY(-12px);pointer-events:none;transition:.3s var(--ease)}
+#mnav.open{opacity:1;transform:none;pointer-events:auto}
+#mnav a{display:block;font-family:var(--mono);font-size:13px;letter-spacing:.1em;color:#dcdce4;text-decoration:none;padding:14px 16px;border-radius:12px}
+#mnav a:active,#mnav a:hover{background:rgba(255,106,0,.14);color:#fff}
+
+/* ---------- hero ---------- */
+.hero{position:relative;padding:64px 0 40px;display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:52px;align-items:center}
+.glow{position:absolute;width:620px;height:620px;right:-200px;top:-180px;z-index:-1;pointer-events:none!important;
+  background:radial-gradient(circle,rgba(255,106,0,.28),transparent 62%);filter:blur(14px);animation:float 10s ease-in-out infinite}
+@keyframes float{50%{transform:translateY(36px) scale(1.05)}}
+.live{display:inline-flex;align-items:center;gap:10px;font-family:var(--mono);font-size:11.5px;letter-spacing:.2em;color:var(--orange2);
+  border:1px solid rgba(255,106,0,.4);background:linear-gradient(90deg,rgba(255,106,0,.14),rgba(255,106,0,.04));
+  padding:9px 17px;border-radius:999px;margin-bottom:28px}
+h1{font-family:var(--disp);font-size:clamp(52px,9.4vw,118px);font-weight:800;letter-spacing:-.05em;line-height:.9}
+h1 .l1{display:block;color:#fff;text-shadow:0 0 60px rgba(255,255,255,.12)}
+h1 .l2{display:block;background:linear-gradient(100deg,#ff5a00,#ffa040 35%,#ffe3b8 50%,#ffa040 65%,#ff5a00);
+  background-size:250% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;
+  animation:shine 6s linear infinite;filter:drop-shadow(0 0 40px rgba(255,106,0,.45))}
+@keyframes shine{to{background-position:250% 0}}
+.sub{color:var(--muted);font-size:clamp(15px,1.6vw,18.5px);margin:24px 0 28px;max-width:560px;line-height:1.7}
+.sub b{color:#e8e8ee;font-weight:600}
+.tags{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:32px}
+.tag{font-family:var(--mono);font-size:11.5px;color:#dcdce4;border:1px solid var(--line);background:rgba(255,255,255,.04);
+  padding:9px 15px;border-radius:999px;transition:.3s}
+.tag:hover{border-color:rgba(255,106,0,.6);color:var(--orange2);transform:translateY(-2px)}
+.cta{display:flex;flex-wrap:wrap;gap:12px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font-family:var(--mono);font-size:12.5px;font-weight:700;
+  letter-spacing:.1em;padding:15px 24px;border-radius:14px;border:1px solid transparent;text-decoration:none;
+  transition:transform .3s var(--ease),box-shadow .3s,background .3s,border-color .3s;position:relative;overflow:hidden}
+.btn-p{background:linear-gradient(180deg,var(--orange2),var(--orange));color:#0a0500;box-shadow:0 12px 38px rgba(255,106,0,.34)}
+.btn-p:hover{transform:translateY(-3px);box-shadow:0 18px 48px rgba(255,106,0,.5)}
+.btn-p::after{content:"";position:absolute;inset:0;pointer-events:none!important;
+  background:linear-gradient(100deg,transparent 30%,rgba(255,255,255,.5) 50%,transparent 70%);transform:translateX(-130%);transition:transform .8s}
+.btn-p:hover::after{transform:translateX(130%)}
+.btn-g{border-color:var(--line2);color:#fff;background:rgba(255,255,255,.04)}
+.btn-g:hover{border-color:rgba(255,106,0,.6);background:rgba(255,106,0,.1);transform:translateY(-3px)}
+
+.term-wrap{position:relative}
+.term{position:relative;border:1px solid var(--line);border-radius:20px;overflow:hidden;
+  background:linear-gradient(180deg,rgba(22,22,28,.96),rgba(9,9,12,.98));
+  box-shadow:0 40px 90px rgba(0,0,0,.7),0 0 90px rgba(255,106,0,.09);
+  transform:perspective(1400px) rotateY(-7deg) rotateX(3deg);transition:transform .8s var(--ease)}
+.term-wrap:hover .term{transform:perspective(1400px) rotateY(-2deg) rotateX(1deg)}
+.term::before{content:"";position:absolute;inset:0;pointer-events:none!important;z-index:3;
+  background:repeating-linear-gradient(180deg,rgba(255,255,255,.028) 0 1px,transparent 1px 3px)}
+.tbar{display:flex;align-items:center;gap:8px;padding:13px 16px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.03);position:relative;z-index:2}
+.tl{width:11px;height:11px;border-radius:50%}
+.tl.r{background:#ff5f56}.tl.y{background:#ffbd2e}.tl.g{background:#27c93f}
+.ttitle{margin-left:10px;font-family:var(--mono);font-size:11px;color:var(--muted2);letter-spacing:.1em}
+.tbody{padding:18px 18px 22px;font-family:var(--mono);font-size:12px;line-height:1.95;min-height:264px;color:#c9c9d4;word-break:break-all;position:relative;z-index:2}
+.tbody .c{color:var(--orange2)}
+.tbody .k{color:#7ee0a8}
+.tbody .m{color:var(--muted2)}
+.tbody .u{color:#ffbe7d}
+.cursor{display:inline-block;width:8px;height:15px;background:var(--orange);vertical-align:-2px;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.tbadge{position:absolute;right:-10px;bottom:-18px;display:flex;align-items:center;gap:9px;font-family:var(--mono);font-size:11px;letter-spacing:.12em;
+  padding:11px 16px;border-radius:14px;background:linear-gradient(180deg,var(--panel3),var(--panel));border:1px solid rgba(255,106,0,.35);
+  box-shadow:0 18px 46px rgba(0,0,0,.6);z-index:4;pointer-events:none}
+.tbadge b{color:var(--orange2)}
+
+/* ---------- marquee ---------- */
+.mq{margin:64px 0 0;border-block:1px solid var(--line);padding:16px 0;overflow:hidden;position:relative;pointer-events:none;
+  background:linear-gradient(90deg,rgba(255,106,0,.05),rgba(255,255,255,.02),rgba(255,106,0,.05));
+  -webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent);
+  mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.mq-track{display:flex;width:max-content;animation:mq 34s linear infinite}
+.mq span{font-family:var(--mono);font-size:13px;letter-spacing:.34em;color:var(--muted);padding:0 26px;white-space:nowrap}
 .mq span b{color:var(--orange)}
 @keyframes mq{to{transform:translateX(-50%)}}
-.shead{display:flex;align-items:center;gap:16px;margin:64px 0 24px}
-.shead .idx{font-family:var(--mono);color:var(--orange);font-size:13px;letter-spacing:.2em}
-.shead h3{font-size:clamp(24px,3vw,34px);font-weight:800;letter-spacing:-.02em}
-.shead::after{content:"";flex:1;height:1px;background:var(--line)}
+
+/* ---------- stats ---------- */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin-top:26px;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--line)}
+.stat{background:linear-gradient(180deg,var(--panel2),var(--panel));padding:26px 22px;transition:background .4s}
+.stat:hover{background:linear-gradient(180deg,#1e1a17,var(--panel))}
+.stat .n{font-family:var(--disp);font-size:clamp(26px,3.4vw,38px);font-weight:800;letter-spacing:-.03em;
+  background:linear-gradient(180deg,#fff,#ffb066);-webkit-background-clip:text;background-clip:text;color:transparent}
+.stat .l{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;color:var(--muted);margin-top:8px;text-transform:uppercase}
+
+/* ---------- sections ---------- */
+.shead{display:flex;align-items:center;gap:16px;margin:86px 0 26px}
+.shead .idx{font-family:var(--mono);color:var(--orange);font-size:12px;letter-spacing:.22em;
+  border:1px solid rgba(255,106,0,.35);border-radius:8px;padding:6px 10px;background:rgba(255,106,0,.07);flex:none}
+.shead h3{font-family:var(--disp);font-size:clamp(21px,3vw,31px);font-weight:700;letter-spacing:-.03em}
+.shead::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line2),transparent)}
+
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
-.card{position:relative;background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:22px;padding:26px;overflow:hidden;transition:transform .35s,border-color .35s,box-shadow .35s}
-.card:hover{transform:translateY(-6px);border-color:rgba(255,106,0,.55);box-shadow:0 20px 60px rgba(0,0,0,.6),0 0 44px rgba(255,106,0,.12)}
-.card::before{content:"";position:absolute;inset:0 0 auto 0;height:2px;background:linear-gradient(90deg,transparent,var(--orange),transparent);opacity:0;transition:.35s}
+.card{position:relative;background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:var(--r);
+  padding:28px;overflow:hidden;transition:transform .5s var(--ease),border-color .4s,box-shadow .4s,opacity .7s var(--ease);transform-style:preserve-3d}
+.card:hover{border-color:rgba(255,106,0,.5);box-shadow:0 26px 70px rgba(0,0,0,.66),0 0 60px rgba(255,106,0,.13)}
+.card::before{content:"";position:absolute;inset:0 0 auto 0;height:2px;pointer-events:none!important;z-index:3;
+  background:linear-gradient(90deg,transparent,var(--orange),var(--amber),transparent);opacity:0;transition:.4s}
 .card:hover::before{opacity:1}
-.card .top{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
-.emoji{font-size:34px}
-.badge{font-family:var(--mono);font-size:11px;letter-spacing:.12em;color:#000;background:var(--orange);padding:6px 11px;border-radius:7px;font-weight:700}
-.badge.ghost{background:transparent;color:var(--orange);border:1px solid rgba(255,106,0,.5)}
-.card h2{font-size:26px;font-weight:800;letter-spacing:-.02em}
-.card p{color:var(--muted);font-size:14px;line-height:1.65;margin:8px 0 20px;min-height:66px}
-.linkrow{display:flex;gap:10px;align-items:stretch}
-.url{flex:1;display:flex;align-items:center;font-family:var(--mono);font-size:12px;color:#ffb066;background:#0a0a0a;border:1px solid var(--line);border-radius:12px;padding:13px 15px;text-decoration:none;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;transition:border-color .3s}
-.url:hover{border-color:rgba(255,106,0,.55)}
-.copy{font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:.12em;border:none;cursor:pointer;border-radius:12px;padding:0 20px;background:var(--orange);color:#000;transition:.25s}
-.copy:hover{background:var(--orange2)}
-.copy.ok{background:#fff}
-.mirror{border:1px solid var(--line);border-radius:22px;background:linear-gradient(180deg,var(--panel2),var(--panel));padding:28px}
-.mirror .note{color:var(--muted);font-size:14px;line-height:1.6;margin-bottom:8px}
-.mirror .note b{color:var(--orange2)}
-.mrow{padding:18px 0;border-top:1px solid var(--line)}
-.mrow:first-of-type{border-top:none}
-.mlabel{font-family:var(--mono);font-size:12px;letter-spacing:.18em;color:var(--muted);margin-bottom:10px}
-.mlabel b{color:#fff}
+.card::after{content:"";position:absolute;inset:-1px;pointer-events:none!important;opacity:0;transition:opacity .4s;border-radius:inherit;z-index:0;
+  background:radial-gradient(340px circle at var(--mx,50%) var(--my,0%),rgba(255,106,0,.17),transparent 65%)}
+.card:hover::after{opacity:1}
+.cbody{position:relative;z-index:2}
+.card .top{display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;gap:12px}
+.emoji{width:56px;height:56px;display:grid;place-items:center;font-size:27px;border-radius:16px;flex:none;
+  background:radial-gradient(circle at 30% 20%,rgba(255,160,64,.22),rgba(255,106,0,.06));border:1px solid rgba(255,106,0,.28);
+  box-shadow:0 10px 30px rgba(0,0,0,.4)}
+.badge{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;color:#0a0500;background:linear-gradient(180deg,var(--amber),var(--orange));
+  padding:7px 12px;border-radius:8px;font-weight:700;white-space:nowrap;box-shadow:0 6px 20px rgba(255,106,0,.3)}
+.badge.ghost{background:transparent;color:var(--orange2);border:1px solid rgba(255,106,0,.45);box-shadow:none}
+.card h2{font-family:var(--disp);font-size:23px;font-weight:700;letter-spacing:-.03em}
+.card p{color:var(--muted);font-size:14px;line-height:1.7;margin:10px 0 18px;min-height:70px}
+.meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+.chip{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;color:var(--muted);border:1px solid var(--line);
+  background:rgba(255,255,255,.03);padding:5px 10px;border-radius:7px}
+.linkrow{display:flex;gap:10px;align-items:stretch;position:relative;z-index:5}
+.url{flex:1;min-width:0;display:flex;align-items:center;font-family:var(--mono);font-size:11.5px;color:#ffb066;
+  background:#08080a;border:1px solid var(--line);border-radius:13px;padding:14px 15px;text-decoration:none;overflow:hidden;
+  white-space:nowrap;text-overflow:ellipsis;transition:.3s}
+.url:hover{border-color:rgba(255,106,0,.55);color:var(--amber);background:#0d0a08}
+.copy{font-family:var(--mono);font-size:11.5px;font-weight:700;letter-spacing:.12em;border:none;border-radius:13px;flex:none;
+  padding:14px 20px;background:linear-gradient(180deg,var(--orange2),var(--orange));color:#0a0500;transition:.25s;white-space:nowrap;position:relative;z-index:6}
+.copy:hover{filter:brightness(1.12);transform:translateY(-2px);box-shadow:0 10px 26px rgba(255,106,0,.34)}
+.copy:active{transform:translateY(0) scale(.97)}
+.copy.ok{background:#fff;color:#000}
+
+/* ---------- mirror panel ---------- */
+.mirror{border:1px solid var(--line);border-radius:var(--r);background:linear-gradient(180deg,var(--panel2),var(--panel));padding:30px;position:relative;overflow:hidden}
+.mirror::before{content:"";position:absolute;top:-120px;right:-80px;width:320px;height:320px;border-radius:50%;pointer-events:none!important;
+  background:radial-gradient(circle,rgba(255,106,0,.16),transparent 68%);filter:blur(6px)}
+.mirror>*{position:relative;z-index:2}
+.mirror .note{color:var(--muted);font-size:14.5px;line-height:1.7;margin-bottom:10px;max-width:760px}
+.mirror .note b{color:var(--orange2);font-weight:600}
+.mrow{padding:20px 0;border-top:1px solid var(--line)}
+.mrow:first-of-type{border-top:none;margin-top:16px}
+.mlabel{font-family:var(--mono);font-size:11.5px;letter-spacing:.18em;color:var(--muted2);margin-bottom:11px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.mlabel b{color:#fff;letter-spacing:.1em}
+.mlabel .pill{font-size:10px;letter-spacing:.12em;color:var(--ok);border:1px solid rgba(61,220,132,.35);background:rgba(61,220,132,.08);padding:3px 9px;border-radius:999px}
+
 .mgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:20px}
-.mblock{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:22px;padding:22px}
-.mblock h4{font-size:17px;margin-bottom:6px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-.mblock h4 .mfname{font-family:var(--mono);font-size:11px;color:var(--muted);font-weight:400}
-.mline{display:flex;gap:8px;align-items:center;padding:9px 0;border-top:1px solid var(--line)}
-.mline .mname{flex:none;width:118px;font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.06em}
-.mline a{flex:1;font-family:var(--mono);font-size:11px;color:#ffb066;text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.mline a:hover{color:var(--orange2)}
-.mline .copy{padding:7px 14px;font-size:11px;border-radius:9px}
-.hint{color:var(--muted);font-size:13px;line-height:1.6;margin:-8px 0 20px}
-.hint b{color:var(--orange2)}
-footer{margin:84px 0 44px;text-align:center;color:var(--muted)}
-footer .big{color:#fff;font-weight:800;font-size:clamp(18px,2.4vw,26px);margin-bottom:12px;letter-spacing:-.01em}
-footer .big b{color:var(--orange)}
-footer .small{font-family:var(--mono);font-size:12px;letter-spacing:.14em}
-#toast{position:fixed;left:50%;bottom:28px;transform:translate(-50%,20px);background:#fff;color:#000;font-family:var(--mono);font-size:13px;font-weight:700;padding:13px 22px;border-radius:12px;opacity:0;pointer-events:none;transition:.3s;box-shadow:0 10px 44px rgba(255,106,0,.4);z-index:99;max-width:92vw;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-#toast.show{opacity:1;transform:translate(-50%,0)}
-.reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
-.reveal.in{opacity:1;transform:none}
-@media(max-width:560px){.linkrow{flex-direction:column}.copy{padding:13px}.card p{min-height:0}.mline{flex-wrap:wrap}.mline .mname{width:100%}.mline a{width:100%;flex:none;white-space:normal;word-break:break-all}.mline .copy{width:100%}}
+.mblock{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:var(--r);padding:24px;
+  position:relative;overflow:hidden;transition:border-color .4s,transform .4s}
+.mblock:hover{border-color:rgba(255,255,255,.18);transform:translateY(-4px)}
+.bhead{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px}
+.mblock h4{font-family:var(--disp);font-size:15.5px;font-weight:700;display:flex;gap:10px;align-items:center;flex-wrap:wrap;letter-spacing:-.02em}
+.mblock h4 .mfname{font-family:var(--mono);font-size:10.5px;color:var(--muted2);font-weight:400;letter-spacing:.06em}
+.checkall{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--muted);background:rgba(255,255,255,.04);
+  border:1px solid var(--line);border-radius:9px;padding:8px 12px;transition:.25s;white-space:nowrap;flex:none}
+.checkall:hover{color:#fff;border-color:rgba(255,106,0,.5);background:rgba(255,106,0,.12)}
+.checkall.busy{opacity:.5;pointer-events:none}
+.mline{display:flex;gap:9px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.mline .mname{flex:none;width:126px;font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em;display:flex;align-items:center;gap:7px;min-width:0}
+.mline .mname span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sdot{width:8px;height:8px;border-radius:50%;background:#3a3a44;flex:none;transition:.3s;border:none;padding:0;cursor:pointer}
+.sdot.loading{background:var(--amber);animation:blink .8s steps(1) infinite}
+.sdot.ok{background:var(--ok);box-shadow:0 0 10px rgba(61,220,132,.7)}
+.sdot.bad{background:var(--bad);box-shadow:0 0 10px rgba(255,95,86,.6)}
+.mline a{flex:1;min-width:0;font-family:var(--mono);font-size:10.5px;color:#ffb066;text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;transition:color .25s}
+.mline a:hover{color:var(--amber);text-decoration:underline}
+.mline .copy{padding:9px 13px;font-size:10px;border-radius:9px;letter-spacing:.1em}
+.hint{color:var(--muted);font-size:13.5px;line-height:1.75;margin:-6px 0 20px;max-width:920px}
+.hint b{color:var(--orange2);font-weight:600}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;color:var(--muted2);margin:-6px 0 22px}
+.legend i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+
+/* ---------- steps ---------- */
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px}
+.step{position:relative;border:1px solid var(--line);border-radius:var(--r);padding:28px 26px;overflow:hidden;
+  background:linear-gradient(180deg,var(--panel2),var(--panel));transition:.4s var(--ease)}
+.step:hover{transform:translateY(-6px);border-color:rgba(255,106,0,.45);box-shadow:0 22px 60px rgba(0,0,0,.55)}
+.step .num{font-family:var(--disp);font-size:50px;font-weight:800;line-height:1;letter-spacing:-.05em;
+  color:transparent;-webkit-text-stroke:1.5px rgba(255,106,0,.55);margin-bottom:16px;transition:.4s}
+.step:hover .num{-webkit-text-stroke-color:var(--orange);text-shadow:0 0 34px rgba(255,106,0,.45)}
+.step h4{font-family:var(--disp);font-size:16.5px;font-weight:700;letter-spacing:-.02em;margin-bottom:9px}
+.step p{color:var(--muted);font-size:13.5px;line-height:1.7}
+.step code{font-family:var(--mono);font-size:12px;color:var(--amber);background:rgba(255,106,0,.09);padding:2px 6px;border-radius:6px}
+
+/* ---------- faq ---------- */
+.faq{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:linear-gradient(180deg,var(--panel2),var(--panel))}
+.faq-item{border-top:1px solid var(--line)}
+.faq-item:first-child{border-top:none}
+.faq-q{width:100%;display:flex;align-items:center;justify-content:space-between;gap:18px;text-align:left;
+  background:transparent;border:none;color:#fff;font-family:var(--body);font-size:15.5px;font-weight:600;padding:22px 26px;transition:.3s}
+.faq-q:hover{background:rgba(255,106,0,.07);color:var(--amber)}
+.faq-ic{flex:none;width:28px;height:28px;border-radius:9px;border:1px solid var(--line);display:grid;place-items:center;
+  font-family:var(--mono);font-size:15px;color:var(--orange2);transition:.4s var(--ease);background:rgba(255,255,255,.03)}
+.faq-item.open .faq-ic{transform:rotate(135deg);background:var(--orange);color:#000;border-color:transparent}
+.faq-a{display:grid;grid-template-rows:0fr;transition:grid-template-rows .45s var(--ease)}
+.faq-item.open .faq-a{grid-template-rows:1fr}
+.faq-a>div{overflow:hidden}
+.faq-a p{color:var(--muted);font-size:14px;line-height:1.8;padding:0 26px 24px;max-width:840px}
+.faq-a p b{color:var(--orange2);font-weight:600}
+
+/* ---------- footer ---------- */
+footer{margin:92px 0 0;border-top:1px solid var(--line);padding:56px 0 44px;text-align:center;position:relative;overflow:hidden}
+footer::before{content:"";position:absolute;left:50%;bottom:-220px;width:760px;height:420px;transform:translateX(-50%);pointer-events:none!important;
+  background:radial-gradient(ellipse,rgba(255,106,0,.2),transparent 65%)}
+footer .big{font-family:var(--disp);color:#fff;font-weight:700;font-size:clamp(18px,2.6vw,29px);margin-bottom:16px;letter-spacing:-.03em;position:relative}
+footer .big b{background:linear-gradient(90deg,var(--orange),var(--amber));-webkit-background-clip:text;background-clip:text;color:transparent}
+footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--muted2);line-height:2;position:relative}
+.flinks{display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin:22px 0 26px;position:relative}
+.flinks a,.flinks button{font-family:var(--mono);font-size:11px;letter-spacing:.1em;color:var(--muted);text-decoration:none;
+  border:1px solid var(--line);border-radius:999px;padding:10px 17px;transition:.3s;background:rgba(255,255,255,.02);cursor:pointer}
+.flinks a:hover,.flinks button:hover{color:#0a0500;background:var(--orange);border-color:transparent;transform:translateY(-2px)}
+
+/* ---------- toast ---------- */
+#toast{position:fixed;left:50%;bottom:30px;transform:translate(-50%,26px) scale(.96);background:#fff;color:#000;
+  font-family:var(--mono);font-size:12.5px;font-weight:700;letter-spacing:.04em;padding:14px 24px;border-radius:14px;
+  opacity:0;pointer-events:none;transition:.35s var(--ease);box-shadow:0 18px 60px rgba(255,106,0,.45);z-index:120;
+  max-width:92vw;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#toast.show{opacity:1;transform:translate(-50%,0) scale(1)}
+
+/* ---------- reveal ---------- */
+.reveal{opacity:0;--enter:30px;transition:opacity .85s var(--ease),transform .85s var(--ease)}
+.reveal.in{opacity:1;--enter:0px}
+.reveal:not(.card){transform:translateY(var(--enter))}
+.card{transform:perspective(1000px) rotateX(var(--rx,0deg)) rotateY(var(--ry,0deg)) translateY(calc(var(--ty,0px) + var(--enter,0px)))}
+.card:hover{--ty:-8px}
+
+@media(max-width:1000px){
+  .hero{grid-template-columns:1fr;gap:46px;padding-top:44px}
+  .term{transform:none}
+  .term-wrap:hover .term{transform:none}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  nav{display:none}
+  #burger{display:flex}
+  #mnav{display:block}
+}
+@media(max-width:600px){
+  .wrap{padding:0 18px}
+  .hin{padding:12px 18px;gap:10px}
+  .status{font-size:9.5px;padding:7px 10px;letter-spacing:.04em}
+  .logo{font-size:17px}
+  .linkrow{flex-direction:column}
+  .copy{padding:15px;width:100%}
+  .card p{min-height:0}
+  .mline{flex-wrap:wrap}
+  .mline .mname{width:100%}
+  .mline a{width:100%;flex:none;white-space:normal;word-break:break-all}
+  .mline .copy{width:100%}
+  .mirror,.mblock{padding:22px 18px}
+  .tbody{font-size:11px;min-height:236px}
+  .faq-q{font-size:14.5px;padding:19px 18px}
+  .faq-a p{padding:0 18px 20px}
+  .tbadge{right:0}
+}
+@media(prefers-reduced-motion:reduce){
+  *{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+  html{scroll-behavior:auto}
+}
 </style>
+<noscript><style>.reveal{opacity:1!important;transform:none!important}</style></noscript>
 </head>
 <body>
-<div class="wrap">
-<header>
-<div class="logo"><span class="bolt">⚡</span>FLARE<b>FEED</b></div>
-<div class="status"><span class="dot"></span>LIVE · ~1 HOUR AUTO-UPDATE</div>
+<div id="progress"></div>
+<div id="grid"></div>
+<canvas id="particles"></canvas>
+<div id="spot"></div>
+<div id="grain"></div>
+
+<header id="hdr">
+  <div class="hin">
+    <a class="logo" href="#top"><span class="bolt">⚡</span>FLARE<b>FEED</b></a>
+    <nav id="nav">
+      <a href="#subs">ПОДПИСКИ</a>
+      <a href="#ru">RU ЗЕРКАЛО</a>
+      <a href="#world">МИР</a>
+      <a href="#how">КАК</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <div class="status"><span class="dot"></span>LIVE · ~1H</div>
+    <button id="burger" type="button" aria-label="Меню" aria-expanded="false"><i></i><i></i><i></i></button>
+  </div>
 </header>
-<section class="hero">
-<div class="glow"></div>
-<div class="live"><span class="dot"></span>ОНЛАЙН · ОБНОВЛЕНИЕ ~КАЖДЫЙ ЧАС</div>
-<h1>FLARE<span>FEED</span></h1>
-<p class="sub">Автоматически обновляющиеся подписки для обхода блокировок. Одна ссылка — десятки рабочих серверов.</p>
-<div class="tags">
-<span class="tag">⚡ Авто-обновление ~1 час</span>
-<span class="tag">🛡 VLESS · VMess · Trojan · SS · Hy2 · TUIC</span>
-<span class="tag">🛡️ Top 500 Secure</span>
-<span class="tag">RU Зеркало на Gitverse</span>
+<div id="mnav">
+  <a href="#subs">ПОДПИСКИ</a>
+  <a href="#ru">RU ЗЕРКАЛО</a>
+  <a href="#world">ЗЕРКАЛА МИРА</a>
+  <a href="#how">КАК ПОДКЛЮЧИТЬ</a>
+  <a href="#faq">FAQ</a>
 </div>
-</section>
+
+<div class="wrap" id="top">
+  <section class="hero">
+    <div class="glow"></div>
+    <div>
+      <div class="live reveal"><span class="dot"></span>ОНЛАЙН · ОБНОВЛЕНИЕ ~КАЖДЫЙ ЧАС</div>
+      <h1 class="reveal"><span class="l1">FLARE</span><span class="l2">FEED</span></h1>
+      <p class="sub reveal">Автоматически обновляющиеся подписки для обхода блокировок. <b>Одна ссылка — сотни рабочих серверов.</b> Без регистрации, без кэша, без лишних слов.</p>
+      <div class="tags reveal">
+        <span class="tag">⚡ Авто-обновление ~1 час</span>
+        <span class="tag">🛰 VLESS · VMess · Trojan · SS · Hy2 · TUIC</span>
+        <span class="tag">🛡️ Top 500 Secure · Reality</span>
+        <span class="tag">🇷🇺 Зеркало на Gitverse</span>
+      </div>
+      <div class="cta reveal">
+        <button class="btn btn-p" type="button" id="ctaCopy">⧉ СКОПИРОВАТЬ MOBILE</button>
+        <a class="btn btn-g" href="#subs">ВСЕ ПОДПИСКИ ↓</a>
+      </div>
+    </div>
+
+    <div class="term-wrap reveal">
+      <div class="term">
+        <div class="tbar">
+          <span class="tl r"></span><span class="tl y"></span><span class="tl g"></span>
+          <span class="ttitle">flarefeed — fastest.txt — live</span>
+        </div>
+        <div class="tbody" id="term"></div>
+      </div>
+      <div class="tbadge"><span class="dot"></span>NO-CACHE · <b>MD5 VERIFIED</b></div>
+    </div>
+  </section>
 </div>
+
 <div class="mq"><div class="mq-track">
-<span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b></span>
-<span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b></span>
+  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
+  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
 </div></div>
+
 <div class="wrap">
-<div class="shead reveal"><span class="idx">01 //</span><h3>Подписки</h3></div>
-<div class="grid">
-<article class="card reveal">
-<div class="top"><span class="emoji">🌐</span><span class="badge">PC / POWER</span></div>
-<h2>ALL</h2>
-<p>Полный список всех рабочих серверов. Для ПК и мощных клиентов.</p>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://vless.svinakraft.workers.dev/podpiska.txt">https://vless.svinakraft.workers.dev/podpiska.txt</a>
-<button class="copy" data-url="https://vless.svinakraft.workers.dev/podpiska.txt">COPY</button>
+  <div class="stats reveal" id="stats">
+    <div class="stat"><div class="n"><span data-count="1">1</span> ч</div><div class="l">интервал обновления</div></div>
+    <div class="stat"><div class="n"><span data-count="500">500</span>+</div><div class="l">серверов в топе</div></div>
+    <div class="stat"><div class="n"><span data-count="6">6</span></div><div class="l">протоколов</div></div>
+    <div class="stat"><div class="n"><span data-count="10">10</span></div><div class="l">источников / зеркал</div></div>
+  </div>
+
+  <div class="shead reveal" id="subs"><span class="idx">01 //</span><h3>Подписки</h3></div>
+  <div class="grid">
+    <article class="card reveal">
+      <div class="cbody">
+        <div class="top"><span class="emoji">🌐</span><span class="badge">PC / POWER</span></div>
+        <h2>ALL</h2>
+        <p>Полный список всех рабочих серверов. Для ПК и мощных клиентов.</p>
+        <div class="meta"><span class="chip">максимум узлов</span><span class="chip">все протоколы</span><span class="chip">.txt</span></div>
+        <div class="linkrow">
+          <a class="url" target="_blank" rel="noopener" href="https://vless.svinakraft.workers.dev/podpiska.txt">https://vless.svinakraft.workers.dev/podpiska.txt</a>
+          <button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/podpiska.txt">COPY</button>
+        </div>
+      </div>
+    </article>
+
+    <article class="card reveal">
+      <div class="cbody">
+        <div class="top"><span class="emoji">📱</span><span class="badge">TOP 100</span></div>
+        <h2>MOBILE</h2>
+        <p>Отсортировано по качеству (минимальный пинг + максимальная скорость). Для телефона и Happ — лёгкий список, не тормозит импорт.</p>
+        <div class="meta"><span class="chip">низкий пинг</span><span class="chip">быстрый импорт</span><span class="chip">Happ</span></div>
+        <div class="linkrow">
+          <a class="url" target="_blank" rel="noopener" href="https://vless.svinakraft.workers.dev/fastest.txt">https://vless.svinakraft.workers.dev/fastest.txt</a>
+          <button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/fastest.txt">COPY</button>
+        </div>
+      </div>
+    </article>
+
+    <article class="card reveal">
+      <div class="cbody">
+        <div class="top"><span class="emoji">🛡️</span><span class="badge ghost">DPI-FREE</span></div>
+        <h2>TOP 500 SECURE</h2>
+        <p>Топ защищённых прокси: только VLESS Reality (XHTTP / gRPC / TCP), TLS и QUIC. Без insecure-конфигов — DPI не за что зацепиться.</p>
+        <div class="meta"><span class="chip">Reality</span><span class="chip">TLS / QUIC</span><span class="chip">анти-DPI</span></div>
+        <div class="linkrow">
+          <a class="url" target="_blank" rel="noopener" href="https://vless.svinakraft.workers.dev/Top500.txt">https://vless.svinakraft.workers.dev/Top500.txt</a>
+          <button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/Top500.txt">COPY</button>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <div class="shead reveal" id="ru"><span class="idx">02 //</span><h3>RU зеркало на Gitverse</h3></div>
+  <div class="mirror reveal">
+    <p class="note">Резервные ссылки на российском Gitverse. Работают <b>без Cloudflare и GitHub</b> — отдаются напрямую через raw-API. Спасают, когда основной домен недоступен у вашего провайдера.</p>
+    <div class="mrow">
+      <div class="mlabel"><b>ALL</b> // ЗЕРКАЛО <span class="pill">RU</span></div>
+      <div class="linkrow">
+        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt</a>
+        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">COPY</button>
+      </div>
+    </div>
+    <div class="mrow">
+      <div class="mlabel"><b>MOBILE</b> // ТОП-100 · ЗЕРКАЛО <span class="pill">RU</span></div>
+      <div class="linkrow">
+        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt</a>
+        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">COPY</button>
+      </div>
+    </div>
+    <div class="mrow">
+      <div class="mlabel"><b>TOP 500 SECURE</b> // ЗЕРКАЛО <span class="pill">RU</span></div>
+      <div class="linkrow">
+        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt</a>
+        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">COPY</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="shead reveal" id="world"><span class="idx">03 //</span><h3>Зеркала по всему миру</h3></div>
+  <p class="hint reveal">Если основная ссылка не открывается — бери любое зеркало: содержимое файлов идентично (<b>проверено по md5 с VPS</b>). Мёртвые зеркала (statically, ghproxy.com, gitmirror, hubp) в список не включены.</p>
+  <div class="legend reveal">
+    <span><i style="background:#3ddc84"></i>хост отвечает</span>
+    <span><i style="background:#ff5f56"></i>нет ответа из вашей сети</span>
+    <span><i style="background:#3a3a44"></i>не проверено</span>
+  </div>
+  <div class="mgrid reveal" id="mirrors"></div>
+
+  <div class="shead reveal" id="how"><span class="idx">04 //</span><h3>Как подключиться</h3></div>
+  <div class="steps">
+    <div class="step reveal">
+      <div class="num">01</div>
+      <h4>Скопируй ссылку</h4>
+      <p>Нажми <b>COPY</b> на нужной подписке. Для телефона начни с <code>fastest.txt</code> — он лёгкий и импортируется мгновенно.</p>
+    </div>
+    <div class="step reveal">
+      <div class="num">02</div>
+      <h4>Вставь в клиент</h4>
+      <p>В приложении выбери «Подписка» → «Добавить» → «Из буфера обмена». Клиент сам подтянет весь список серверов.</p>
+    </div>
+    <div class="step reveal">
+      <div class="num">03</div>
+      <h4>Подключись</h4>
+      <p>Включи туннель и выбери узел с минимальным пингом. Список обновится сам — достаточно нажать «обновить подписку».</p>
+    </div>
+  </div>
+  <div class="tags reveal" style="margin-top:22px">
+    <span class="tag">📲 Happ</span><span class="tag">📲 v2rayTun</span><span class="tag">📲 Streisand</span>
+    <span class="tag">💻 v2rayN</span><span class="tag">💻 NekoBox</span><span class="tag">💻 Husi</span><span class="tag">🍏 Shadowrocket</span>
+  </div>
+
+  <div class="shead reveal" id="faq"><span class="idx">05 //</span><h3>Вопросы</h3></div>
+  <div class="faq reveal" id="faqBox">
+    <div class="faq-item open">
+      <button class="faq-q" type="button">Что вообще такое «подписка»? <span class="faq-ic">+</span></button>
+      <div class="faq-a"><div><p>Это обычный текстовый файл со списком серверов (по одному конфигу на строку). Клиент читает файл по ссылке и сам добавляет все узлы. Вам не нужно копировать ключи вручную — <b>одна ссылка заменяет сотни конфигов</b>, и она же автоматически подтягивает свежие серверы.</p></div></div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-q" type="button">Как часто обновляется список? <span class="faq-ic">+</span></button>
+      <div class="faq-a"><div><p>Примерно <b>раз в час</b>. Точное время обновления и количество рабочих серверов всегда пишутся в шапке самого файла — откройте ссылку в браузере и посмотрите первые строки. Кэширование отключено, поэтому вы всегда получаете актуальную версию.</p></div></div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-q" type="button">Чем MOBILE отличается от ALL? <span class="faq-ic">+</span></button>
+      <div class="faq-a"><div><p><b>ALL</b> — максимально полный список, хорош для ПК и мощных клиентов. <b>MOBILE</b> — топ-100, отсортированный по пингу и скорости: меньше весит, быстрее импортируется и не подвешивает мобильные приложения вроде Happ. <b>TOP 500 SECURE</b> — только защищённые транспорты (Reality, TLS, QUIC), без insecure-конфигов.</p></div></div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-q" type="button">Ссылка не открывается. Что делать? <span class="faq-ic">+</span></button>
+      <div class="faq-a"><div><p>Возьмите любое зеркало из блоков выше — содержимое идентично. Для России есть отдельное <b>зеркало на Gitverse</b>, которое работает без Cloudflare и GitHub. Кнопка «ПРОВЕРИТЬ» рядом с каждым блоком покажет, какие хосты отвечают из вашей сети прямо сейчас.</p></div></div>
+    </div>
+    <div class="faq-item">
+      <button class="faq-q" type="button">Это безопасно? <span class="faq-ic">+</span></button>
+      <div class="faq-a"><div><p>Публичные серверы проходят через чужие узлы, поэтому не используйте их для банковских операций и чувствительных данных. Для максимальной приватности берите <b>TOP 500 SECURE</b>: там только VLESS Reality, TLS и QUIC — трафик выглядит как обычный HTTPS, и DPI-системам не за что зацепиться.</p></div></div>
+    </div>
+  </div>
+
+  <footer class="reveal">
+    <div class="big">🔼 Одна ссылка — <b>сотни рабочих серверов</b> 🔽</div>
+    <div class="flinks">
+      <a href="https://vless.svinakraft.workers.dev/podpiska.txt" target="_blank" rel="noopener">ALL.TXT</a>
+      <a href="https://vless.svinakraft.workers.dev/fastest.txt" target="_blank" rel="noopener">FASTEST.TXT</a>
+      <a href="https://vless.svinakraft.workers.dev/Top500.txt" target="_blank" rel="noopener">TOP500.TXT</a>
+      <button type="button" class="copy" data-url="https://vless.svinakraft.workers.dev/fastest.txt">⧉ COPY MOBILE</button>
+      <a href="#top">НАВЕРХ ↑</a>
+    </div>
+    <div class="small">АВТО-ОБНОВЛЕНИЕ ~КАЖДЫЙ ЧАС · ВРЕМЯ И КОЛИЧЕСТВО — В ШАПКЕ ФАЙЛА<br>FLAREFEED · 2026</div>
+  </footer>
 </div>
-</article>
-<article class="card reveal">
-<div class="top"><span class="emoji">📱</span><span class="badge">TOP 100</span></div>
-<h2>MOBILE</h2>
-<p>Отсортировано по качеству (минимальный пинг + максимальная скорость). Для телефона и Happ — лёгкий список, не тормозит импорт.</p>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://vless.svinakraft.workers.dev/fastest.txt">https://vless.svinakraft.workers.dev/fastest.txt</a>
-<button class="copy" data-url="https://vless.svinakraft.workers.dev/fastest.txt">COPY</button>
-</div>
-</article>
-<article class="card reveal">
-<div class="top"><span class="emoji">🛡️</span><span class="badge ghost">DPI-FREE</span></div>
-<h2>TOP 500 SECURE</h2>
-<p>Топ защищённых прокси: только VLESS Reality (XHTTP / gRPC / TCP), TLS и QUIC. Без insecure-конфигов — DPI не за что зацепиться.</p>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://vless.svinakraft.workers.dev/Top500.txt">https://vless.svinakraft.workers.dev/Top500.txt</a>
-<button class="copy" data-url="https://vless.svinakraft.workers.dev/Top500.txt">COPY</button>
-</div>
-</article>
-</div>
-<div class="shead reveal"><span class="idx">02 //</span><h3>RU Зеркало на Gitverse</h3></div>
-<div class="mirror reveal">
-<p class="note">Резервные ссылки на российском Gitverse. Работают <b>без Cloudflare и GitHub</b> — отдаются напрямую через raw-API.</p>
-<div class="mrow">
-<div class="mlabel"><b>ALL</b> // ЗЕРКАЛО</div>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt</a>
-<button class="copy" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">COPY</button>
-</div>
-</div>
-<div class="mrow">
-<div class="mlabel"><b>MOBILE</b> // ТОП-100 · ЗЕРКАЛО</div>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt</a>
-<button class="copy" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">COPY</button>
-</div>
-</div>
-<div class="mrow">
-<div class="mlabel"><b>TOP 500 SECURE</b> // ЗЕРКАЛО</div>
-<div class="linkrow">
-<a class="url" target="_blank" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt</a>
-<button class="copy" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">COPY</button>
-</div>
-</div>
-</div>
-<div class="shead reveal"><span class="idx">03 //</span><h3>Зеркала по всему миру</h3></div>
-<p class="hint reveal">Если основная ссылка не открывается — бери любое зеркало: содержимое файлов идентично (проверено по md5 с VPS). Мёртвые зеркала (statically, ghproxy.com, gitmirror, hubp) в список не включены.</p>
-<div class="mgrid reveal" id="mirrors"></div>
-<footer class="reveal">
-<div class="big">🔼 Одна ссылка – <b>десятки рабочих серверов</b> 🔽</div>
-<div class="small">АВТО-ОБНОВЛЕНИЕ ~КАЖДЫЙ ЧАС · ВРЕМЯ И КОЛИЧЕСТВО В ШАПКЕ ФАЙЛА · FLAREFEED 2026</div>
-</footer>
-</div>
-<div id="toast"></div>
+
+<div id="toast" role="status" aria-live="polite"></div>
+
 <script>
-let toastTimer;
-function toast(m){const el=document.getElementById('toast');el.textContent=m;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),1800);}
-document.addEventListener('click',e=>{
-const b=e.target.closest('.copy');if(!b)return;
-const t=b.getAttribute('data-url');if(!t)return;
-const done=()=>{b.classList.add('ok');b.textContent='✓';toast('Скопировано ✔');setTimeout(()=>{b.classList.remove('ok');b.textContent='COPY';},1500);};
-const fb=()=>{const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');done();}catch(e){}document.body.removeChild(ta);};
-if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(t).then(done).catch(fb);}else fb();
+(function(){
+'use strict';
+var D = document, W = window;
+var reduce = false;
+try{ reduce = W.matchMedia('(prefers-reduced-motion: reduce)').matches; }catch(e){}
+
+/* ========= polyfill ========= */
+if(!Element.prototype.matches){
+  Element.prototype.matches = Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector || function(s){
+    var l = (this.document || this.ownerDocument).querySelectorAll(s), i = l.length;
+    while(--i >= 0 && l.item(i) !== this){}
+    return i > -1;
+  };
+}
+if(!Element.prototype.closest){
+  Element.prototype.closest = function(s){ var el = this; while(el && el.nodeType === 1){ if(el.matches(s)) return el; el = el.parentElement; } return null; };
+}
+function qsa(sel, root){ return Array.prototype.slice.call((root || D).querySelectorAll(sel)); }
+function on(el, ev, fn){ if(el) el.addEventListener(ev, fn, false); }
+function esc(s){ return String(s == null ? '' : s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+/* ========= REVEAL (первым делом, чтобы контент никогда не завис невидимым) ========= */
+var revealEls = qsa('.reveal');
+function show(el){ el.classList.add('in'); }
+var io = null;
+try{
+  if('IntersectionObserver' in W){
+    io = new IntersectionObserver(function(entries){
+      for(var i=0;i<entries.length;i++){
+        if(entries[i].isIntersecting){ show(entries[i].target); io.unobserve(entries[i].target); }
+      }
+    }, {threshold:0, rootMargin:'0px 0px -20px 0px'});
+    revealEls.forEach(function(el){ io.observe(el); });
+  } else { revealEls.forEach(show); }
+}catch(e){ revealEls.forEach(show); }
+
+/* страховка: если IO не сработал — показываем всё, что в зоне видимости */
+function failsafe(){
+  var vh = W.innerHeight || 800;
+  for(var i=0;i<revealEls.length;i++){
+    var el = revealEls[i];
+    if(el.classList.contains('in')) continue;
+    var r = el.getBoundingClientRect();
+    if(r.top < vh * 1.2 && r.bottom > -vh * 0.3) show(el);
+  }
+}
+setTimeout(failsafe, 400);
+setTimeout(failsafe, 1600);
+setTimeout(function(){ revealEls.forEach(show); }, 6000);
+on(W, 'scroll', function(){ if(!io) failsafe(); }, {passive:true});
+
+/* stagger для сеток */
+qsa('.grid, .steps').forEach(function(p){
+  var kids = qsa('.reveal', p);
+  kids.forEach(function(el, i){ el.style.transitionDelay = (i * 90) + 'ms'; });
 });
-const GH='svinakraft-maker/FlareFeed',BR='main';
-const RAW='https://raw.githubusercontent.com/'+GH+'/'+BR;
-const FILES=[
-{title:'🌐 ALL',file:'podpiska.txt'},
-{title:'📱 MOBILE',file:'fastest.txt'},
-{title:'🛡 TOP 500 SECURE',file:'Top500.txt'}
+
+/* ========= TOAST ========= */
+var toastEl = D.getElementById('toast'), toastTimer = null;
+function toast(msg){
+  if(!toastEl) return;
+  toastEl.textContent = msg;
+  toastEl.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(function(){ toastEl.classList.remove('show'); }, 1900);
+}
+
+/* ========= COPY (clipboard API → execCommand → ручное выделение) ========= */
+function legacyCopy(text){
+  var ta = D.createElement('textarea');
+  ta.value = text;
+  ta.setAttribute('readonly', '');
+  ta.style.cssText = 'position:fixed;top:0;left:0;width:2px;height:2px;opacity:0.01;';
+  D.body.appendChild(ta);
+  ta.focus(); ta.select();
+  try{ ta.setSelectionRange(0, text.length); }catch(e){}
+  var ok = false;
+  try{ ok = D.execCommand('copy'); }catch(e){ ok = false; }
+  D.body.removeChild(ta);
+  return ok;
+}
+function manualCopy(text){
+  var ta = D.createElement('textarea');
+  ta.value = text;
+  ta.style.cssText = 'position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);width:min(90vw,520px);height:120px;z-index:200;background:#111;color:#ffb066;border:1px solid #ff6a00;border-radius:14px;padding:14px;font-family:monospace;font-size:12px;';
+  D.body.appendChild(ta);
+  ta.focus(); ta.select();
+  try{ ta.setSelectionRange(0, text.length); }catch(e){}
+  toast('Нажмите Ctrl+C / «Скопировать»');
+  setTimeout(function(){ if(ta.parentNode) D.body.removeChild(ta); }, 9000);
+  ta.addEventListener('blur', function(){ if(ta.parentNode) D.body.removeChild(ta); });
+}
+function flash(btn){
+  if(!btn) return;
+  var old = btn.getAttribute('data-label') || btn.textContent;
+  btn.setAttribute('data-label', old);
+  btn.classList.add('ok'); btn.textContent = '✓ OK';
+  setTimeout(function(){ btn.classList.remove('ok'); btn.textContent = old; }, 1400);
+}
+function copyText(text, btn){
+  text = String(text || '');
+  if(!text){ toast('Нечего копировать'); return; }
+  var ok = function(){ flash(btn); toast('Скопировано ✔'); };
+  var bad = function(){ if(legacyCopy(text)){ ok(); } else { manualCopy(text); } };
+  try{
+    if(W.isSecureContext && navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(text).then(ok).catch(bad);
+    } else { bad(); }
+  }catch(e){ bad(); }
+}
+function bindCopies(root){
+  qsa('.copy', root).forEach(function(btn){
+    if(btn.getAttribute('data-bound') === '1') return;
+    btn.setAttribute('data-bound', '1');
+    on(btn, 'click', function(ev){
+      ev.preventDefault(); ev.stopPropagation();
+      copyText(btn.getAttribute('data-url') || btn.textContent, btn);
+    });
+  });
+}
+bindCopies(D);
+/* страховка: делегирование для любых динамических кнопок */
+on(D, 'click', function(e){
+  var b = e.target && e.target.closest ? e.target.closest('.copy') : null;
+  if(b && b.getAttribute('data-bound') !== '1') copyText(b.getAttribute('data-url'), b);
+});
+
+/* ========= DATA + МЫ ЗЕРКАЛА ========= */
+var BASE = 'https://vless.svinakraft.workers.dev/';
+var GH = 'svinakraft-maker/FlareFeed', BR = 'main';
+var RAW = 'https://raw.githubusercontent.com/' + GH + '/' + BR;
+var FILES = [
+  {title:'🌐 ALL', file:'podpiska.txt'},
+  {title:'📱 MOBILE', file:'fastest.txt'},
+  {title:'🛡 TOP 500 SECURE', file:'Top500.txt'}
 ];
-const MIRRORS=[
-['CF Workers',f=>'https://vless.svinakraft.workers.dev/'+f],
-['GitHub Raw',f=>RAW+'/public/'+f],
-['githack',f=>'https://raw.githack.com/'+GH+'/'+BR+'/public/'+f],
-['jsdelivr',f=>'https://cdn.jsdelivr.net/gh/'+GH+'@'+BR+'/public/'+f],
-['gh-proxy.org',f=>'https://gh-proxy.org/'+RAW+'/public/'+f],
-['hk.gh-proxy',f=>'https://hk.gh-proxy.org/'+RAW+'/public/'+f],
-['cdn.gh-proxy',f=>'https://cdn.gh-proxy.org/'+RAW+'/public/'+f],
-['edgeone.gh-proxy',f=>'https://edgeone.gh-proxy.org/'+RAW+'/public/'+f]
+var MIRRORS = [
+  ['CF Workers', function(f){ return BASE + f; }],
+  ['GitHub Raw', function(f){ return RAW + '/public/' + f; }],
+  ['githack', function(f){ return 'https://raw.githack.com/' + GH + '/' + BR + '/public/' + f; }],
+  ['jsdelivr', function(f){ return 'https://cdn.jsdelivr.net/gh/' + GH + '@' + BR + '/public/' + f; }],
+  ['gh-proxy.org', function(f){ return 'https://gh-proxy.org/' + RAW + '/public/' + f; }],
+  ['hk.gh-proxy', function(f){ return 'https://hk.gh-proxy.org/' + RAW + '/public/' + f; }],
+  ['cdn.gh-proxy', function(f){ return 'https://cdn.gh-proxy.org/' + RAW + '/public/' + f; }],
+  ['edgeone.gh-proxy', function(f){ return 'https://edgeone.gh-proxy.org/' + RAW + '/public/' + f; }]
 ];
-document.getElementById('mirrors').innerHTML=FILES.map(F=>
-'<div class="mblock"><h4>'+F.title+' <span class="mfname">'+F.file+'</span></h4>'+
-MIRRORS.map(m=>{const u=m[1](F.file);return '<div class="mline"><span class="mname">'+m[0]+'</span><a href="'+u+'" target="_blank">'+u+'</a><button class="copy" data-url="'+u+'">COPY</button></div>';}).join('')+
-'</div>').join('');
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.12});
-document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+var mirrorsBox = D.getElementById('mirrors');
+if(mirrorsBox){
+  mirrorsBox.innerHTML = FILES.map(function(F, bi){
+    var rows = MIRRORS.map(function(m){
+      var u = m[1](F.file);
+      return '<div class="mline">' +
+        '<span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>'+esc(m[0])+'</span></span>' +
+        '<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(u)+'</a>' +
+        '<button class="copy" type="button" data-url="'+esc(u)+'">COPY</button>' +
+      '</div>';
+    }).join('');
+    return '<div class="mblock" data-block="'+bi+'">' +
+      '<div class="bhead"><h4>'+esc(F.title)+' <span class="mfname">'+esc(F.file)+'</span></h4>' +
+      '<button class="checkall" type="button" data-check="'+bi+'">⟳ ПРОВЕРИТЬ</button></div>' + rows + '</div>';
+  }).join('');
+  bindCopies(mirrorsBox);
+}
+
+/* ========= ПРОВЕРКА ДОСТУПНОСТИ ========= */
+function probe(url){
+  return new Promise(function(resolve){
+    var done = false;
+    var finish = function(v){ if(!done){ done = true; resolve(v); } };
+    if(!W.fetch){ finish(null); return; }
+    var ctl = (W.AbortController) ? new AbortController() : null;
+    var to = setTimeout(function(){ if(ctl) try{ ctl.abort(); }catch(e){} finish(false); }, 8000);
+    var opt = {mode:'no-cors', cache:'no-store'};
+    if(ctl) opt.signal = ctl.signal;
+    try{
+      fetch(url, opt).then(function(){ clearTimeout(to); finish(true); },
+                           function(){ clearTimeout(to); finish(false); });
+    }catch(e){ clearTimeout(to); finish(false); }
+  });
+}
+function checkLine(line, cb){
+  var dot = line.querySelector('.sdot');
+  var link = line.querySelector('a');
+  if(!link){ if(cb) cb(); return; }
+  if(dot){ dot.className = 'sdot loading'; dot.title = 'проверка…'; }
+  probe(link.href).then(function(res){
+    if(dot){
+      dot.className = 'sdot ' + (res === true ? 'ok' : 'bad');
+      dot.title = res === true ? 'хост отвечает' : 'нет ответа из вашей сети';
+    }
+    if(cb) cb();
+  });
+}
+on(D, 'click', function(e){
+  var t = e.target;
+  if(!t || !t.closest) return;
+
+  var dot = t.closest('.sdot');
+  if(dot){
+    e.preventDefault();
+    var line = dot.closest('.mline');
+    if(line) checkLine(line, function(){
+      var s = dot.className.indexOf('ok') > -1;
+      toast(s ? 'Хост отвечает ✔' : 'Хост не отвечает ✖');
+    });
+    return;
+  }
+
+  var btn = t.closest('.checkall');
+  if(btn){
+    e.preventDefault();
+    var id = btn.getAttribute('data-check');
+    var block = D.querySelector('.mblock[data-block="'+id+'"]');
+    if(!block) return;
+    var lines = qsa('.mline', block);
+    if(!lines.length) return;
+    var left = lines.length;
+    btn.classList.add('busy');
+    btn.textContent = '⟳ ПРОВЕРКА…';
+    lines.forEach(function(ln){
+      checkLine(ln, function(){
+        left--;
+        if(left === 0){
+          var okc = block.querySelectorAll('.sdot.ok').length;
+          btn.classList.remove('busy');
+          btn.textContent = '✓ ДОСТУПНО ' + okc + '/' + lines.length;
+          toast('Зеркал доступно: ' + okc + ' из ' + lines.length);
+          setTimeout(function(){ btn.textContent = '⟳ ПРОВЕРИТЬ'; }, 7000);
+        }
+      });
+    });
+  }
+});
+
+/* ========= HERO CTA ========= */
+on(D.getElementById('ctaCopy'), 'click', function(){ copyText(BASE + 'fastest.txt', this); });
+
+/* ========= FAQ ========= */
+var faqBox = D.getElementById('faqBox');
+if(faqBox){
+  qsa('.faq-q', faqBox).forEach(function(q){
+    on(q, 'click', function(){
+      var item = q.parentNode;
+      var wasOpen = item.classList.contains('open');
+      qsa('.faq-item', faqBox).forEach(function(i){ i.classList.remove('open'); });
+      if(!wasOpen) item.classList.add('open');
+    });
+  });
+}
+
+/* ========= МОБИЛЬНОЕ МЕНЮ ========= */
+var burger = D.getElementById('burger'), mnav = D.getElementById('mnav');
+function closeMenu(){
+  if(!mnav || !burger) return;
+  mnav.classList.remove('open'); burger.classList.remove('on');
+  burger.setAttribute('aria-expanded','false');
+}
+if(burger && mnav){
+  on(burger, 'click', function(e){
+    e.stopPropagation();
+    var open = mnav.classList.toggle('open');
+    burger.classList.toggle('on', open);
+    burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+  qsa('a', mnav).forEach(function(a){ on(a, 'click', closeMenu); });
+  on(D, 'click', function(e){ if(mnav.classList.contains('open') && !mnav.contains(e.target)) closeMenu(); });
+}
+
+/* ========= СЧЁТЧИКИ ========= */
+var statsEl = D.getElementById('stats');
+function animateCount(el){
+  var target = parseInt(el.getAttribute('data-count'), 10) || 0;
+  if(reduce){ el.textContent = target; return; }
+  var start = 0, dur = 1300;
+  function tick(now){
+    if(!start) start = now;
+    var p = Math.min(1, (now - start) / dur);
+    var e2 = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.round(target * e2);
+    if(p < 1) requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
+}
+if(statsEl){
+  var counted = false;
+  function runCounts(){ if(counted) return; counted = true; qsa('[data-count]', statsEl).forEach(animateCount); }
+  if('IntersectionObserver' in W){
+    var sio = new IntersectionObserver(function(en){ if(en[0].isIntersecting){ runCounts(); sio.disconnect(); } }, {threshold:.3});
+    sio.observe(statsEl);
+  } else runCounts();
+  setTimeout(runCounts, 5000);
+}
+
+/* ========= TILT / SPOTLIGHT КАРСОРА ========= */
+if(!reduce){
+  qsa('.card').forEach(function(c){
+    on(c, 'pointermove', function(e){
+      var r = c.getBoundingClientRect();
+      var x = (e.clientX - r.left) / r.width, y = (e.clientY - r.top) / r.height;
+      c.style.setProperty('--mx', (x*100).toFixed(1)+'%');
+      c.style.setProperty('--my', (y*100).toFixed(1)+'%');
+      c.style.setProperty('--rx', ((0.5-y)*5).toFixed(2)+'deg');
+      c.style.setProperty('--ry', ((x-0.5)*6).toFixed(2)+'deg');
+    });
+    on(c, 'pointerleave', function(){
+      c.style.setProperty('--rx','0deg'); c.style.setProperty('--ry','0deg');
+    });
+  });
+
+  var spot = D.getElementById('spot'), sx=0, sy=0, tx=0, ty=0, spotOn=false;
+  try{
+    if(W.matchMedia('(pointer:fine)').matches){
+      on(W, 'pointermove', function(e){
+        tx = e.clientX; ty = e.clientY;
+        if(!spotOn){ spotOn = true; sx = tx; sy = ty; spot.style.opacity = '1'; requestAnimationFrame(loopSpot); }
+      }, {passive:true});
+    }
+  }catch(e){}
+  function loopSpot(){
+    sx += (tx - sx) * 0.09; sy += (ty - sy) * 0.09;
+    spot.style.transform = 'translate3d(' + (sx-280).toFixed(1) + 'px,' + (sy-280).toFixed(1) + 'px,0)';
+    requestAnimationFrame(loopSpot);
+  }
+}
+
+/* ========= ПРОГРЕСС + HEADER + АКТИВНЫЙ ПУНКТ МЕНЮ ========= */
+var prog = D.getElementById('progress'), hdr = D.getElementById('hdr');
+var navLinks = qsa('#nav a');
+var sections = ['subs','ru','world','how','faq'].map(function(id){ return D.getElementById(id); }).filter(Boolean);
+var ticking = false;
+function onScroll(){
+  var y = W.scrollY || W.pageYOffset || 0;
+  var h = D.documentElement.scrollHeight - W.innerHeight;
+  prog.style.transform = 'scaleX(' + Math.min(1, Math.max(0, h > 0 ? y / h : 0)) + ')';
+  if(hdr) hdr.classList.toggle('stuck', y > 12);
+  var cur = '';
+  for(var i=0;i<sections.length;i++){
+    if(sections[i].getBoundingClientRect().top <= 140) cur = sections[i].id;
+  }
+  navLinks.forEach(function(a){ a.classList.toggle('active', a.getAttribute('href') === '#' + cur); });
+  ticking = false;
+}
+on(W, 'scroll', function(){ if(!ticking){ ticking = true; requestAnimationFrame(onScroll); } }, {passive:true});
+onScroll();
+
+/* ========= ЧАСТИЦЫ ========= */
+(function(){
+  var cv = D.getElementById('particles');
+  if(!cv || !cv.getContext) return;
+  var ctx = cv.getContext('2d');
+  var dpr = Math.min(W.devicePixelRatio || 1, 2);
+  var w = 0, h = 0, parts = [], COUNT = W.innerWidth < 700 ? 24 : 56;
+  function size(){
+    w = W.innerWidth; h = W.innerHeight;
+    cv.style.width = w + 'px'; cv.style.height = h + 'px';
+    cv.width = Math.floor(w * dpr); cv.height = Math.floor(h * dpr);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  function mk(bottom){
+    return { x: Math.random()*w, y: bottom ? h + 10 : Math.random()*h,
+      r: Math.random()*1.9 + .4, vy: -(Math.random()*.28 + .06), vx: (Math.random()-.5)*.16,
+      a: Math.random()*.5 + .12, ph: Math.random()*Math.PI*2 };
+  }
+  size();
+  for(var i=0;i<COUNT;i++) parts.push(mk(false));
+  var running = true;
+  on(D, 'visibilitychange', function(){ running = !D.hidden; if(running && !reduce) requestAnimationFrame(draw); });
+  on(W, 'resize', function(){ size(); });
+  function draw(){
+    if(!running) return;
+    ctx.clearRect(0,0,w,h);
+    for(var j=0;j<parts.length;j++){
+      var p = parts[j];
+      p.y += p.vy; p.x += p.vx; p.ph += 0.02;
+      if(p.y < -12 || p.x < -12 || p.x > w + 12){ parts[j] = mk(true); continue; }
+      var al = p.a * (0.55 + 0.45*Math.sin(p.ph));
+      ctx.beginPath();
+      ctx.fillStyle = 'rgba(255,' + (120 + Math.round(al*90)) + ',40,' + al.toFixed(3) + ')';
+      ctx.shadowBlur = 12; ctx.shadowColor = 'rgba(255,106,0,.7)';
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI*2); ctx.fill();
+    }
+    ctx.shadowBlur = 0;
+    requestAnimationFrame(draw);
+  }
+  if(!reduce) requestAnimationFrame(draw);
+})();
+
+/* ========= ТЕРМИНАЛ ========= */
+(function(){
+  var box = D.getElementById('term');
+  if(!box) return;
+  var LINES = [
+    {t:'$ curl -s flarefeed/fastest.txt', c:'c'},
+    {t:'# FlareFeed · auto-update ~1h · no-cache', c:'m'},
+    {t:'# top-100 by ping + speed · md5 verified', c:'m'},
+    {t:'vless://8f3a…@185.×.×.×:443?security=reality#🇩🇪 DE·Frankfurt', c:'u'},
+    {t:'vless://c17d…@45.×.×.×:2053?security=tls#🇳🇱 NL·Amsterdam', c:'u'},
+    {t:'trojan://9b2e…@103.×.×.×:443#🇯🇵 JP·Tokyo', c:'u'},
+    {t:'hy2://41aa…@91.×.×.×:443#🇫🇮 FI·Helsinki', c:'u'},
+    {t:'tuic://77cd…@172.×.×.×:443#🇰🇿 KZ·Almaty', c:'u'},
+    {t:'✔ 100 nodes ready · paste into your client', c:'k'}
+  ];
+  if(reduce){
+    box.innerHTML = LINES.map(function(l){ return '<div class="'+l.c+'">'+esc(l.t)+'</div>'; }).join('');
+    return;
+  }
+  var li = 0, ci = 0, html = '', cur = '<span class="cursor"></span>', stopped = false;
+  function render(extra){ box.innerHTML = html + (extra || '') + cur; }
+  function step(){
+    if(stopped) return;
+    if(li >= LINES.length){
+      setTimeout(function(){ html = ''; li = 0; ci = 0; render(); setTimeout(step, 400); }, 5200);
+      return;
+    }
+    var L = LINES[li];
+    if(ci <= L.t.length){
+      render('<div class="'+L.c+'">'+esc(L.t.slice(0, ci))+'</div>');
+      ci++;
+      setTimeout(step, 15);
+    } else {
+      html += '<div class="'+L.c+'">'+esc(L.t)+'</div>';
+      li++; ci = 0;
+      setTimeout(step, 200);
+    }
+  }
+  on(D, 'visibilitychange', function(){ stopped = D.hidden; if(!stopped) step(); });
+  setTimeout(step, 600);
+})();
+})();
 </script>
 </body>
 </html>
