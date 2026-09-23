@@ -1,30 +1,29 @@
 # profile-title: SS
 # profile-update-interval: 1
-# Date/Time: 2026-09-23 / 12:47 (Moscow)
-# Count: 26
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R3k0dC9heTRkVjNkV1Ruc090YURuNWkwTFpmWDJkTEV1aExaazRIMFVmaz0=@134.185.89.83:56927#0001 | 🇸🇬 Singapore | [553ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#0002 | 🇯🇵 Japan | [516ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#0003 | 🇯🇵 Japan | [618ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#0004 | 🇨🇦 Canada | [263ms1.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@103.136.150.119:10090#0005 | 🇭🇰 Hong Kong | [446ms0.7mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#0006 | 🇸🇬 Singapore | [381ms0.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.59.116.19:17000#0007 | 🇵🇱 Poland | [275ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@94.159.102.107:8443#0008 | 🇩🇪 Germany | [95ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@5.253.189.215:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%3D2560%3B#0009 | 🇳🇱 Netherlands | [138ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.88.16:443#0010 | 🇺🇸 United States | [11ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@afrcloud22.mmv.kr:80#0011 | 🌐 Unknown | [197ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.10:443#0012 | 🇮🇷 Iran | [616ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#0013 | 🇮🇷 Iran | [624ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@212.192.215.229:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bhost%3Dmfvpn.fuchen.indevs.in%3Btls#0014 | 🇳🇱 Netherlands | [96ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.105.10:443#0015 | 🇮🇷 Iran | [858ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.153.86:443#0016 | 🌐 Unknown | [45ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@cf.008500.xyz:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F79960b0b-7d31-4263-8915-6511b0e137a8%2F%3Fed%3D2560%3B#0017 | 🌐 Unknown | [84ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.12:443#0018 | 🇮🇷 Iran | [97ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.106.10:443#0019 | 🇮🇷 Iran | [199ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@59.31.102.62:25565#0020 | 🇰🇷 South Korea | [1055ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@dkstatics-public.digikala.com:443#0021 | 🇮🇷 Iran | [219ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@129.159.34.196:443/?plugin=v2ray-plugin%253Bmode%253Dwebsocket%253Bpath%253D3e96ef7d-8637-42c2-ac73-75182196e755%252F%253Fed%253D2560%253Bmux%253D0%253Bskip-cert-verify%253Dtrue%253Bhost%253Dmfvpn.fuchen.indevs.in%253Btls%253Bsni%253DTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2%3B#0022 | 🇺🇸 United States | [665ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.25.12:443#0023 | 🌐 Unknown | [115ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@190.93.246.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#0024 | 🌐 Unknown | [72ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.67.70.92:443#0025 | 🌐 Unknown | [235ms] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.43.88.13:2053#0026 | 🇳🇱 Netherlands | [206ms] | 🏴 Black | TG: @FlareFeedtg
+# Date/Time: 2026-09-23 / 12:56 (Moscow)
+# Count: 25
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R3k0dC9heTRkVjNkV1Ruc090YURuNWkwTFpmWDJkTEV1aExaazRIMFVmaz0=@134.185.89.83:56927#0001 | 🇸🇬 Singapore | [566ms3.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#0002 | 🇯🇵 Japan | [631ms2.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#0003 | 🇯🇵 Japan | [632ms2.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#0004 | 🇸🇬 Singapore | [409ms2.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206NzI1NTMzMjBhZTZiY2M4Zg@103.136.150.119:10090#0005 | 🇭🇰 Hong Kong | [451ms0.6mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#0006 | 🇨🇦 Canada | [276ms0.6mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.59.116.19:17000#0007 | 🇵🇱 Poland | [409ms0.3mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@94.159.102.107:8443#0008 | 🇩🇪 Germany | [83ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@5.253.189.215:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bhost%3Dmfvpn.fuchen.indevs.in%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%3D2560%3B#0009 | 🇳🇱 Netherlands | [94ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.88.16:443#0010 | 🇺🇸 United States | [7ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@afrcloud22.mmv.kr:80#0011 | 🌐 Unknown | [223ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.10:443#0012 | 🇮🇷 Iran | [114ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#0013 | 🇮🇷 Iran | [224ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@212.192.215.229:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bhost%3Dmfvpn.fuchen.indevs.in%3Btls#0014 | 🇳🇱 Netherlands | [94ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.105.10:443#0015 | 🇮🇷 Iran | [1255ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.153.86:443#0016 | 🌐 Unknown | [48ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@cf.008500.xyz:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F79960b0b-7d31-4263-8915-6511b0e137a8%2F%3Fed%3D2560%3B#0017 | 🌐 Unknown | [127ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.12:443#0018 | 🇮🇷 Iran | [99ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.106.10:443#0019 | 🇮🇷 Iran | [231ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@59.31.102.62:25565#0020 | 🇰🇷 South Korea | [1112ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@129.159.34.196:443/?plugin=v2ray-plugin%253Bmode%253Dwebsocket%253Bpath%253D3e96ef7d-8637-42c2-ac73-75182196e755%252F%253Fed%253D2560%253Bmux%253D0%253Bskip-cert-verify%253Dtrue%253Bhost%253Dmfvpn.fuchen.indevs.in%253Btls%253Bsni%253DTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2%3B#0021 | 🇺🇸 United States | [667ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.25.12:443#0022 | 🌐 Unknown | [131ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@190.93.246.16:443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Bhost%3Dylnhh.us.ci#0023 | 🌐 Unknown | [44ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.67.70.92:443#0024 | 🌐 Unknown | [78ms] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.43.88.13:2053#0025 | 🇳🇱 Netherlands | [282ms] | 🏴 Black | TG: @FlareFeedtg
