@@ -48,20 +48,6 @@ https://vless.svinakraft.workers.dev/Top500.txt
 https://vless.svinakraft.workers.dev/fastest.txt
 ```
 
-
-
-### 🇷🇺 ЗЕРКАЛО на Gitverse — если основное не открывается
-Резервные ссылки на российском Gitverse. Работают **без Cloudflare и GitHub** (отдаются напрямую через raw‑API), ASCII‑шапка без кракозябр:
-
-**ALL:**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt
-```
-**MOBILE (топ‑100):**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt
-```
-
 # Разделение на протоколы
 
 **VLESS**
@@ -88,31 +74,6 @@ https://vless.svinakraft.workers.dev/vmess.txt
 ```text
 https://vless.svinakraft.workers.dev/ss.txt
 ```
-### 🇷🇺 ЗЕРКАЛО на Gitverse
-**VLESS**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/vless.txt
-```
-
-**HYSTERIA2**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/hysteria2.txt
-```
-
-**TROJAN**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/trojan.txt
-```
-
-**VMESS**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/vmess.txt
-```
-
-**SHADOWSOCKS**
-```text
-https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/ss.txt
-```
 <div align="center">
 
 **🔼 Одна ссылка – десятки рабочих серверов 🔽**
@@ -124,7 +85,7 @@ https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/ss.txt
 
 ## 📖 О проекте
 
-**FlareFeed** — это **независимый персональный** проект: репозиторий VLESS‑конфигураций, который раздаётся через Cloudflare Workers, с **зеркалом на Gitverse** для доступности из России. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN‑клиентов. Проект не аффилирован с Cloudflare — технология Workers используется просто как удобный бесплатный хостинг, а Gitverse — как резервный канал раздачи.
+**FlareFeed** — это **независимый персональный** проект: репозиторий VLESS‑конфигураций, который раздаётся через Cloudflare Workers. Все файлы отдаются как обычный текст (`text/plain`), что позволяет использовать их напрямую в качестве подписок для любых VPN‑клиентов. Проект не аффилирован с Cloudflare — технология Workers используется просто как удобный бесплатный хостинг, а Gitverse — как резервный канал раздачи.
 
 Авто‑чекер каждый час собирает конфиги из публичных источников, проверяет каждый сервер (пинг + скорость) и публикует два файла: полный список живых (`ALL`) и топ‑100 самых быстрых (`MOBILE`).
 
