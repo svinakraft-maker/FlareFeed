@@ -1,504 +1,504 @@
 # profile-title: TOP 500 SECURE
 # profile-update-interval: 1
-# Date/Time: 2026-10-06 / 13:24 (Moscow)
+# Date/Time: 2026-10-06 / 13:58 (Moscow)
 # Count: 500
-vless://e90759b7-6454-4b3a-8453-279e6f496f3a@171.22.183.155:443?type=grpc&security=reality&fp=random&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&sid=884b938083b628d2&sni=nl1.jetservaki.fit&serviceName=grpc#0008 | 🇳🇱 Netherlands | [168ms21.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=chrome&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#0019 | 🇳🇱 Netherlands | [195ms19.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.9:9830?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=firefox#0088 | 🇺🇸 United States | [2815ms5.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@185.147.26.207:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&fp=firefox&type=grpc&serviceName=API&sni=ru-pro.sworkingvpn.com&sid=15bcc0a77c3cacdf#0092 | 🇷🇺 Russia | [71ms4.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@37.143.129.197:443?type=grpc&security=reality&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&sni=fi9.eu-cdn294.com&serviceName=1f251e273f#0134 | 🇫🇮 Finland | [699ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?security=reality&encryption=none&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&fp=safari&type=grpc&sni=tel.free-run.club&sid=025f065c#0139 | 🇩🇪 Germany | [270ms0.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#0001 | 🇷🇺 Russia | [83ms94.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?security=reality&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&sid=6f01a3e0f21267&sni=github.com#0004 | 🇷🇺 Russia | [185ms31.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://526a8fe1-9ae9-470a-b8d7-a83189f0067a@88.216.70.89:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8&sni=build.abyssettle.net#0016 | 🇩🇪 Germany | [197ms19.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.66.162.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PAWRAe-0-jggLpRHVSL2ModH3fJq6LP1emUeopncJU4&security=reality&sid=20a29d0e0817696b&sni=storage.networksuite.cloud&type=tcp#0024 | 🇺🇸 United States | [149ms18.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@fi1d.lynch.ir:8080?security=reality&type=tcp&packetEncoding=xudp&sni=www.actionvfx.com&fp=chrome&sid=73693dea6faae051&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk#0036 | 🇫🇷 France | [172ms17.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#0042 | 🇵🇱 Poland | [171ms17.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8f2d14ac-447d-4d58-bd37-5cac936d96ca@193.200.78.186:443?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#0046 | 🇱🇹 Lithuania | [248ms16.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.238:443?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=6f76ad09&pbk=5BDht3tAZdKEKpJymGlRK9JugOnieA-kMSWz_0FoE0I&encryption=none#0048 | 🇦🇪 United Arab Emirates | [184ms16.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#0053 | 🇷🇴 Romania | [173ms16.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?security=reality&encryption=none&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&sid=8fbdc8d37cc76852#0063 | 🇦🇹 Austria | [201ms14.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@83.229.61.218:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&spx=%2FAhmadV2ray&encryption=none&fm=AhmadV2ray&sni=zsit.eu-cdn294.com&fp=firefox&security=reality&headerType=none&flow=xtls-rprx-vision&sid=cd2d53510b4df2a8&type=tcp#0066 | 🇷🇴 Romania | [187ms13.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.205.36:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0&sni=pl3.cloud-static.org#0068 | 🇦🇪 United Arab Emirates | [204ms13.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&fp=firefox&security=reality&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852#0069 | 🇦🇹 Austria | [199ms13.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.209:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&fp=chrome&security=reality&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0#0070 | 🇦🇪 United Arab Emirates | [203ms13.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.104:443?security=reality&encryption=none&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&sid=96ef4f5dd00f1ba0#0071 | 🇦🇪 United Arab Emirates | [192ms12.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.206.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&fp=edge&security=reality&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0#0072 | 🇦🇪 United Arab Emirates | [220ms12.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.227:443?security=reality&encryption=none&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&sid=96ef4f5dd00f1ba0#0073 | 🇦🇪 United Arab Emirates | [202ms11.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&security=reality&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com&type=tcp#0074 | 🇪🇸 Spain | [250ms11.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#0076 | 🇸🇪 Sweden | [159ms8.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.1:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=-u9DSQ5RMebplY_ti-Vy4BJP9dEoQ1lTOvjoxK8CqS4&sid=10358810#0077 | 🇩🇪 Germany | [349ms8.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@8gm8kr.palka-cdn.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#0078 | 🇪🇸 Spain | [270ms8.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://6a3c68b1-d4b8-0004-975f-a01da4184225@lk-1.yes-on.ru:443?security=reality&encryption=none&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lk-1.yes-on.ru&sid=a150dcf9#0079 | 🇺🇸 United States | [262ms7.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://6a3c68b1-d4b8-0004-975f-a01da4184225@85.209.135.145:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&sid=a150dcf9&sni=lk-1.yes-on.ru#0080 | 🇺🇸 United States | [274ms7.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://9c104116-b231-4626-94cb-6d8fc4d2b000@23.237.193.202:8443?spx=%2FAhmadV2ray&flow=xtls-rprx-vision&sid=9db6b6d13d17987e&type=tcp&encryption=none&security=reality&headerType=none&sni=usa-nf.reddotcorp.org&fm=AhmadV2ray&fp=firefox&pbk=7YLtXcQkTEdKyGFmgi42nK73i0ttAP9tcQV12o5Ylyo#0081 | 🇰🇿 Kazakhstan | [404ms6.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=safari&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&allowInsecure=1#0082 | 🇱🇻 Latvia | [118ms6.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@2.27.39.233:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=5tMM2VdgddmxOKhdNa3b7i_aXno1g-_61SzkppS2UXQ&sid=f3c023cc&allowInsecure=1#0083 | 🇩🇪 Germany | [4307ms6.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@91.108.240.42:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ApNIxuQ3QcxgdpVLyK9N13yLxwQVKzI9YzzGwKbE1QE&sid=24ab1577feda1c0f&sni=fr-01-10.zetnik.site#0084 | 🇫🇷 France | [165ms6.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ace5e70e-f9ab-447a-a86c-b7e884de13ec@179.254.127.63:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693&sni=ir2.test.vplnte.info#0085 | 🇩🇪 Germany | [153ms6.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ab1249da-9ac8-44c7-89a3-2d337ab25cb2@154.21.94.246:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C8Qz7kuyHo9O0oBV9W7ltzL8aPLPzdb1vvt3UkJjtF0&security=reality&sid=ea29b7b15bb24d49&sni=frost.sigy.me&type=tcp#0090 | 🇺🇸 United States | [538ms4.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://86037609-3790-4901-bd2f-c698092fb1fc@144.31.241.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=4b523a98e1bbd15b&sni=po.skfv-mirror.ru#0094 | 🇳🇱 Netherlands | [3263ms3.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://24e99b91-f26c-41b9-a03f-218f0c4e34c2@fru01.tunnely.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=free03.tunnely.space&fp=random&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=d1694c220d4b13e7&type=tcp#0112 | 🇨🇭 Switzerland | [1822ms3.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aig.keeneticdocs.ru&fp=chrome&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&sid=a7268acdcfef5862&type=tcp&headerType=none#0121 | 🇸🇨 | [1930ms2.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://6faa980b-4a0f-4b4d-99f2-03b468da8541@38.150.33.232:12329?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=dpG1tE9V93FM9IJeYC5-n_7RJxX7jOwrWLbQJgZpFFo&type=tcp&headerType=none#0135 | 🇺🇸 United States | [538ms0.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@du-rov.secureservice.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=du-rov.secureservice.top&fp=random&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&sid=3cbc3d737fb9c4af&type=tcp#0152 | 🇷🇺 Russia | [166ms] | 🏴 Black | TG: @FlareFeedtg
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl1.nztvpn.com&fp=random&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&sid=088b263ae349cc97&type=tcp#0195 | 🇧🇷 Brazil | [1070ms] | 🏴 Black | TG: @FlareFeedtg
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.226:443?encryption=none&security=tls&sni=cedar.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0005 | 🇳🇱 Netherlands | [177ms22.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.128.242:443?encryption=none&security=tls&sni=data.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0006 | 🇺🇸 United States | [171ms22.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3,h2&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443?ed=2560#0007 | 🇯🇵 Japan | [224ms22.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.122.242:443?encryption=none&security=tls&sni=meadow.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0013 | 🇳🇱 Netherlands | [191ms20.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.12.31:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0015 | 🇩🇪 Germany | [264ms19.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.24.196.20:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0018 | 🇩🇪 Germany | [240ms19.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.234:443?encryption=none&security=tls&sni=r4v8n3.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0021 | 🇳🇱 Netherlands | [164ms19.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.21.35.244:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0026 | 🇩🇪 Germany | [318ms18.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.13.31:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0027 | 🇩🇪 Germany | [236ms18.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.18.20.69:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0029 | 🇩🇪 Germany | [299ms18.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.12.54:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0030 | 🇩🇪 Germany | [256ms18.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.13.54:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0032 | 🇩🇪 Germany | [250ms18.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://44f06ad1-982c-4e03-849f-899c1c8dc14f@vl.cocopon.top:443?security=tls&type=ws&path=%2F&host=vl.cocopon.top&packetEncoding=xudp&sni=vl.cocopon.top&fp=chrome&encryption=none#0037 | 🇩🇪 Germany | [207ms17.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.181.125:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0039 | 🇩🇪 Germany | [262ms17.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.20.6.134:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0040 | 🇩🇪 Germany | [243ms17.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy88.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy88.iiproxy.com&fp=chrome&type=ws&host=iiproxy88.iiproxy.com&path=%2F#0044 | 🇩🇪 Germany | [308ms16.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.24.197.20:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0047 | 🇩🇪 Germany | [227ms16.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@188.114.96.6:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0050 | 🇩🇪 Germany | [246ms16.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.75.172:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0056 | 🇩🇪 Germany | [271ms15.9mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.66.177:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0057 | 🇩🇪 Germany | [311ms15.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?type=ws&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#0059 | 🇩🇪 Germany | [223ms15.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.68.157:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0060 | 🇩🇪 Germany | [243ms15.5mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.18.21.69:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0061 | 🇩🇪 Germany | [243ms15.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8bb52771-052e-40b5-ab53-c6e151ad2290@188.114.96.2:8443?encryption=none&type=ws&host=shop.neexbyte.ir&path=%2F&security=tls&sni=shop.neexbyte.ir#0064 | 🇩🇪 Germany | [274ms14.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.20.5.134:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0065 | 🇩🇪 Germany | [243ms14.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@188.114.99.0:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0075 | 🇩🇪 Germany | [391ms10.3mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://317ac662-c9da-4a69-ab73-1676c247f31e@maxfieldbox-nayab.org:443?encryption=none&type=ws&host=moonleaflab-jamesbondi.info&path=%2Fother&security=tls&alpn=h2http%2F1.1&sni=moonleaflab-jamesbondi.info#0089 | 🇩🇪 Germany | [628ms4.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@104.21.10.34:8443?security=tls&sni=iiproxy888.iiproxy.com&type=ws&host=iiproxy888.iiproxy.com&path=%2F&fp=chrome#0095 | 🇩🇪 Germany | [678ms3.7mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0096 | 🇯🇵 Japan | [720ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&allowInsecure=1#0097 | 🇯🇵 Japan | [728ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos#0098 | 🇯🇵 Japan | [799ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#0099 | 🇯🇵 Japan | [732ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#0100 | 🇯🇵 Japan | [726ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#0101 | 🇯🇵 Japan | [735ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@52.78.203.191:443?sni=delicate-buck.rooster465.autos&type=tcp&fp=chrome#0102 | 🇰🇷 South Korea | [751ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#0103 | 🇯🇵 Japan | [819ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#0104 | 🇯🇵 Japan | [727ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos#0106 | 🇸🇬 Singapore | [650ms3.4mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#0109 | 🇺🇸 United States | [717ms3.3mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@13.212.81.3:443?sni=holy-lamb.rooster465.autos&type=tcp&fp=chrome#0110 | 🇸🇬 Singapore | [646ms3.3mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0111 | 🇸🇬 Singapore | [695ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#0113 | 🇰🇷 South Korea | [842ms2.9mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&fp=chrome#0114 | 🇸🇬 Singapore | [1556ms2.9mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&type=tcp&fp=chrome#0115 | 🇸🇬 Singapore | [653ms2.9mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#0116 | 🇯🇵 Japan | [3082ms2.8mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&type=tcp&fp=chrome#0117 | 🇰🇷 South Korea | [791ms2.7mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&type=tcp&fp=chrome#0118 | 🇯🇵 Japan | [870ms2.7mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@desired-boxer.rooster465.autos:443?security=tls&sni=desired-boxer.rooster465.autos#0119 | 🇸🇬 Singapore | [2556ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0120 | 🇰🇷 South Korea | [727ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0122 | 🇰🇷 South Korea | [741ms2.5mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@liked-eft.rooster465.autos:443?allowInsecure=1&sni=liked-eft.rooster465.autos#0123 | 🇰🇷 South Korea | [758ms2.3mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@13.125.197.117:443?sni=liked-eft.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0124 | 🇰🇷 South Korea | [856ms2.1mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://8bb52771-052e-40b5-ab53-c6e151ad2290@shop.neexbyte.ir:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=shop.neexbyte.ir&path=/#0126 | 🇩🇪 Germany | [236ms2.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#0127 | 🇸🇬 Singapore | [1167ms1.9mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#0128 | 🇯🇵 Japan | [784ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#0129 | 🇸🇬 Singapore | [737ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@172.67.189.227:8443?security=tls&sni=iiproxy88.iiproxy.com&type=ws&host=iiproxy88.iiproxy.com&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#0130 | 🇩🇪 Germany | [409ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#0131 | 🇰🇷 South Korea | [837ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@196.198.111.106:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=api-6ac3cf79.adhil.uk&fp=safari&alpn=h2#0137 | 🇪🇪 Estonia | [221ms0.6mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@147.45.39.143:443?encryption=none&extra={"noSSEHeader":true,"uplinkHTTPMethod":"POST","uplinkDataPlacement":"body"}&fp=firefox&host=de-d21e56c13c.shamanapp.online&path=/ShamanXHTTP2026&security=tls&sni=de-d21e56c13c.shamanapp.online&type=xhttp#0140 | 🇷🇺 Russia | [420ms0.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@de-d21e56c13c.shamanapp.online:443?encryption=none&type=xhttp&security=tls&sni=de-d21e56c13c.shamanapp.online&fp=firefox&alpn=h2&path=/ShamanXHTTP2026&host=de-d21e56c13c.shamanapp.online&mode=packet-up&extra=%7B%22noSSEHeader%22%3Atrue%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22uplinkDataPlacement%22%3A%22body%22%7D#0141 | 🇷🇺 Russia | [281ms0.4mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://3d841cdf-f91e-4f3b-a315-c18edcbd2606@jeffsubs.com:443?encryption=none&fp=chrome&host=jeffsubs.com&path=%252Fnnuyws&security=tls&sni=jeffsubs.com&type=ws#0142 | 🇯🇵 Japan | [1661ms0.2mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.102.174:443?security=tls&sni=a.cwvps.eu.org&type=ws&path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#0143 | 🇺🇸 United States | [1670ms0.1mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@helped-jennet.rooster465.autos:443?security=tls#0150 | 🇺🇸 United States | [722ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@live-drake.rooster465.autos:443?security=tls#0151 | 🇺🇸 United States | [700ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#0154 | 🇯🇵 Japan | [729ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#0155 | 🇯🇵 Japan | [700ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0156 | 🇯🇵 Japan | [774ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#0157 | 🇯🇵 Japan | [1545ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&amp;headerType=&amp;type=tcp&amp;sni=balanced-heron.rooster465.autos#0159 | 🇰🇷 South Korea | [711ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos#0160 | 🇰🇷 South Korea | [740ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos#0161 | 🇰🇷 South Korea | [784ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#0162 | 🇰🇷 South Korea | [743ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#0163 | 🇰🇷 South Korea | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls#0164 | 🇰🇷 South Korea | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos#0165 | 🇰🇷 South Korea | [1463ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#0166 | 🇰🇷 South Korea | [813ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@evolving-ewe.rooster465.autos:443?security=tls&sni=evolving-ewe.rooster465.autos#0167 | 🇰🇷 South Korea | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#0168 | 🇰🇷 South Korea | [805ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#0169 | 🇰🇷 South Korea | [816ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0170 | 🇰🇷 South Korea | [865ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos&allowInsecure=1#0171 | 🇰🇷 South Korea | [755ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@concise-bass.rooster465.autos:443?type=tcp&security=tls&sni=concise-bass.rooster465.autos&fp=chrome#0172 | 🇰🇷 South Korea | [763ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&amp;sni=selected-bison.rooster465.autos#0173 | 🇦🇺 Australia | [946ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls#0174 | 🇰🇷 South Korea | [740ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#0175 | 🇦🇺 Australia | [902ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0176 | 🇰🇷 South Korea | [702ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=grown-rhino.rooster465.autos&fp=chrome#0177 | 🇦🇺 Australia | [926ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#0178 | 🇰🇷 South Korea | [992ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.rooster465.autos#0179 | 🇦🇺 Australia | [917ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=concise-buck.rooster465.autos#0180 | 🇦🇺 Australia | [927ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ZY07256934@cool-lioness.rooster465.autos:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#0181 | 🇯🇵 Japan | [717ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#0182 | 🇸🇬 Singapore | [761ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&sni=worthy-labrador.rooster465.autos#0183 | 🇰🇷 South Korea | [693ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@sharing-chipmunk.rooster465.autos:443?type=tcp&security=tls&sni=sharing-chipmunk.rooster465.autos#0184 | 🇦🇺 Australia | [922ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#0185 | 🇰🇷 South Korea | [706ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#0186 | 🇰🇷 South Korea | [697ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=chief-antelope.rooster465.autos&fp=chrome#0187 | 🇦🇺 Australia | [933ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#0188 | 🇦🇺 Australia | [920ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#0189 | 🇦🇺 Australia | [918ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@43.201.252.164:443?sni=balanced-stag.rooster465.autos&type=tcp&fp=chrome#0202 | 🇰🇷 South Korea | [839ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&type=tcp&fp=chrome#0203 | 🇯🇵 Japan | [959ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#0204 | 🇯🇵 Japan | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#0205 | 🇸🇪 Sweden | [165ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0207 | 🇯🇵 Japan | [735ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#0210 | 🇰🇷 South Korea | [1028ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0213 | 🇯🇵 Japan | [745ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#0214 | 🇩🇪 Germany | [202ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@3.35.217.113:443?sni=amazing-peacock.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0216 | 🇰🇷 South Korea | [735ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@18.176.61.69:443?sni=intense-sole.rooster465.autos&type=tcp&fp=chrome#0218 | 🇯🇵 Japan | [791ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.199.66.128:443?sni=integral-rodent.rooster465.autos&type=tcp&fp=chrome#0219 | 🇯🇵 Japan | [838ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?sni=kr.freeguard.org&peer=kr.freeguard.org&security=tls#0220 | 🇰🇷 South Korea | [1093ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@113.20.12.98:443?sni=ca.freeguard.org&peer=ca.freeguard.org&security=tls#0221 | 🇺🇸 United States | [641ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?sni=la.freeguard.org&peer=la.freeguard.org&security=tls#0222 | 🇳🇬 Nigeria | [723ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#0223 | 🇯🇵 Japan | [409ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#0224 | 🇭🇰 Hong Kong | [874ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#0225 | 🇺🇸 United States | [590ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#0226 | 🇺🇸 United States | [526ms] | 🏴 Black | TG: @FlareFeedtg
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@192.3.118.133:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf24555c7s2316.gogocs.xyz#0227 | 🇺🇸 United States | [457ms] | 🏴 Black | TG: @FlareFeedtg
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2317.kukuss.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf24555c7s2316.gogocs.xyz&host=f24555c7s2316.gogocs.xyz#0228 | 🇺🇸 United States | [454ms] | 🏴 Black | TG: @FlareFeedtg
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2318.okgg.top:443?security=tls&encryption=none&sni=u695098uf24555c7s2316.gogocs.xyz&host=f24555c7s2316.gogocs.xyz&alpn=h2%2Chttp/1.1&fp=firefox&flow=xtls-rprx-vision#0229 | 🇺🇸 United States | [446ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@43.203.172.96:443?allowInsecure=1&sni=neutral-quail.rooster465.autos&type=tcp#0232 | 🇰🇷 South Korea | [811ms] | 🏴 Black | TG: @FlareFeedtg
-vmess://eyJhZGQiOiJub21pbm8uMTFoaThpdGJhZi53b3JrZXJzLmRldiIsImFpZCI6MCwiaG9zdCI6Im5vbWluby4xMWhpOGl0YmFmLndvcmtlcnMuZGV2IiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3VhbndhbmcuYXdzbm8uY29tL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQkU2QkQwIiwic25pIjoibm9taW5vLjExaGk4aXRiYWYud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#0233 | 🇨🇦 Canada | [1130ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@sincere-crappie.rooster465.autos:443?security=tls#0235 | 🇺🇸 United States | [716ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&allowInsecure=1&type=tcp#0236 | 🇩🇪 Germany | [161ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@proper-mouse.rooster465.autos:443?allowInsecure=0&sni=proper-mouse.rooster465.autos#0237 | 🇯🇵 Japan | [718ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@leading-eel.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=#0238 | 🇯🇵 Japan | [736ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@intense-kid.rooster465.autos:443?sni=intense-kid.rooster465.autos&type=tcp&fp=chrome#0239 | 🇸🇬 Singapore | [622ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@casual-quail.rooster465.autos:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp#0240 | 🇰🇷 South Korea | [691ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=raw&fp=chrome#0241 | 🇰🇷 South Korea | [687ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp&fp=chrome#0242 | 🇯🇵 Japan | [660ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@calm-muskrat.rooster465.autos:443?security=tls#0243 | 🇸🇬 Singapore | [618ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@allowing-ram.rooster465.autos:443?allowInsecure=0&sni=allowing-ram.rooster465.autos#0244 | 🇮🇪 Ireland | [219ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@193.169.239.157:443?sni=grateful-bedbug.rooster465.autos&fp=chrome&type=tcp&path=/#0245 | 🇳🇱 Netherlands | [174ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02.tokyometropolis.ivano-frankivsk.ua:2053?sni=45.32.28.232&type=tcp#0246 | 🇯🇵 Japan | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@saved-mudfish.rooster465.autos:443?allowInsecure=0&sni=saved-mudfish.rooster465.autos#0247 | 🇭🇰 Hong Kong | [565ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://xiubaixue000@160.251.136.55:443?security=tls&sni=hakuiteam.duckdns.org&allowInsecure=1&fp=chrome&type=tcp#0248 | 🇯🇵 Japan | [912ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@eminent-panther.rooster465.autos:443?allowInsecure=0&sni=eminent-panther.rooster465.autos#0249 | 🇩🇪 Germany | [145ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@devoted-zebra.rooster465.autos:443?security=tls#0250 | 🇰🇷 South Korea | [832ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@flexible-pony.rooster465.autos:443?sni=flexible-pony.rooster465.autos&allowInsecure=1&type=tcp#0251 | 🇸🇬 Singapore | [609ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@outgoing-lynx.rooster465.autos:443?sni=outgoing-lynx.rooster465.autos&allowInsecure=1&type=tcp#0252 | 🇯🇵 Japan | [765ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@maximum-elk.rooster465.autos:443?sni=maximum-elk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0253 | 🇸🇬 Singapore | [637ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@active-hippo.rooster465.autos:443?mux=1#0254 | 🇯🇵 Japan | [812ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@modest-bat.rooster465.autos:443/?type=tcp&security=tls&sni=modest-bat.rooster465.autos&fp=chrome#0255 | 🇯🇵 Japan | [738ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JT80563429@202.78.163.206:443?sni=enabling-snipe.rooster465.autos&fp=chrome&type=tcp&path=/#0256 | 🇵🇱 Poland | [185ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@91.199.84.19:443?sni=summary-dragon.rooster465.autos&fp=chrome&type=tcp&path=/#0257 | 🇭🇰 Hong Kong | [576ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#0258 | 🇳🇱 Netherlands | [163ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@novel-kodiak.rooster465.autos:443?allowInsecure=1#0259 | 🇸🇬 Singapore | [616ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@good-hound.rooster465.autos:443?mux=1#0260 | 🇰🇷 South Korea | [700ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@perfect-emu.rooster465.autos:443?sni=perfect-emu.rooster465.autos&allowInsecure=1&type=tcp#0261 | 🇸🇬 Singapore | [607ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@enabling-snipe.rooster465.autos:443?sni=enabling-snipe.rooster465.autos&type=tcp&fp=chrome#0262 | 🇵🇱 Poland | [154ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#0263 | 🇰🇷 South Korea | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@185.244.208.188:443?sni=electric-gibbon.rooster465.autos&fp=chrome&type=tcp&path=/#0264 | 🇭🇰 Hong Kong | [590ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@settling-grouper.rooster465.autos:443?sni=settling-grouper.rooster465.autos&type=tcp&fp=chrome#0265 | 🇰🇷 South Korea | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@bright-buffalo.rooster465.autos:443?sni=bright-buffalo.rooster465.autos&fp=chrome&type=tcp&path=/#0266 | 🇯🇵 Japan | [716ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@national-dingo.rooster465.autos:443?allowInsecure=0&sni=national-dingo.rooster465.autos#0267 | 🇺🇸 United States | [729ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://KV63147582@185.14.47.12:443?sni=desired-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#0268 | 🇭🇰 Hong Kong | [678ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@helped-buck.rooster465.autos:443?sni=helped-buck.rooster465.autos&fp=chrome&type=tcp&path=/#0269 | 🇭🇰 Hong Kong | [582ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#0270 | 🇯🇵 Japan | [714ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#0271 | 🇰🇷 South Korea | [686ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@natural-collie.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=natural-collie.rooster465.autos#0272 | 🇯🇵 Japan | [745ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@closing-moose.rooster465.autos:443?sni=closing-moose.rooster465.autos&type=tcp&fp=chrome#0273 | 🇮🇪 Ireland | [199ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://xMg1JMgkXAL_20TueWjz_6KJAAs7NnK0@nl4.275.axolab.org:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=nl4.275.axolab.org#0274 | 🇺🇸 United States | [199ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@united-sculpin.rooster465.autos:443?sni=united-sculpin.rooster465.autos&type=tcp&fp=chrome#0275 | 🇰🇷 South Korea | [658ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@open-octopus.rooster465.autos:443?allowInsecure=1#0276 | 🇸🇬 Singapore | [743ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#0277 | 🇸🇬 Singapore | [620ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&type=tcp&path=/#0278 | 🇰🇷 South Korea | [711ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#0279 | 🇰🇷 South Korea | [727ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@splendid-dolphin.rooster465.autos:443?sni=splendid-dolphin.rooster465.autos&type=tcp&fp=chrome#0280 | 🇺🇸 United States | [729ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@glowing-iguana.rooster465.autos:443?sni=glowing-iguana.rooster465.autos&type=tcp&fp=chrome#0281 | 🇯🇵 Japan | [695ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WF42809561@excited-squirrel.rooster465.autos:443?allowInsecure=1#0282 | 🇰🇷 South Korea | [706ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@flowing-eagle.rooster465.autos:443?sni=flowing-eagle.rooster465.autos&fp=chrome&type=tcp&path=%2f#0283 | 🇰🇷 South Korea | [692ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@vast-werewolf.rooster465.autos:443?allowInsecure=1&sni=vast-werewolf.rooster465.autos#0284 | 🇯🇵 Japan | [724ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@optimum-tuna.rooster465.autos:443?sni=optimum-tuna.rooster465.autos&type=tcp&fp=chrome#0285 | 🇯🇵 Japan | [754ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls&path=/#0286 | 🇸🇬 Singapore | [677ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@91.199.84.224:443?sni=heroic-cow.rooster465.autos&fp=chrome&type=tcp&path=/#0287 | 🇭🇰 Hong Kong | [572ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@magnetic-haddock.rooster465.autos:443?sni=magnetic-haddock.rooster465.autos&type=tcp&fp=chrome#0288 | 🇸🇬 Singapore | [612ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@epic-iguana.rooster465.autos:443?sni=epic-iguana.rooster465.autos&type=tcp&fp=chrome#0289 | 🇰🇷 South Korea | [687ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://18844%40zxcvbn@os-tr-5.cats22.net:443#0290 | 🇯🇵 Japan | [828ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@engaged-antelope.rooster465.autos:443?sni=engaged-antelope.rooster465.autos&allowInsecure=1&type=tcp#0291 | 🇯🇵 Japan | [729ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@eager-platypus.rooster465.autos:443?sni=eager-platypus.rooster465.autos&allowInsecure=1&type=tcp#0292 | 🇰🇷 South Korea | [698ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@ruling-toucan.rooster465.autos:443?allowInsecure=1#0293 | 🇯🇵 Japan | [722ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@pro-tortoise.rooster465.autos:443?sni=pro-tortoise.rooster465.autos&type=tcp&fp=chrome#0294 | 🇸🇬 Singapore | [624ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@becoming-hare.rooster465.autos:443?sni=becoming-hare.rooster465.autos&type=tcp&fp=chrome#0295 | 🇰🇷 South Korea | [692ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#0296 | 🇰🇷 South Korea | [831ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=scarily.golfland.club#0297 | 🇦🇺 Australia | [757ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@dear-ferret.rooster465.autos:443?sni=dear-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#0298 | 🇵🇱 Poland | [170ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@renewing-ewe.rooster465.autos:443?sni=renewing-ewe.rooster465.autos&fp=chrome&type=tcp&path=/#0299 | 🇭🇰 Hong Kong | [580ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@merry-falcon.rooster465.autos:443?sni=merry-falcon.rooster465.autos&peer=merry-falcon.rooster465.autos&security=tls#0300 | 🇰🇷 South Korea | [831ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls#0301 | 🇸🇬 Singapore | [684ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#0302 | 🇸🇬 Singapore | [647ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@in-mongrel.rooster465.autos:443?sni=in-mongrel.rooster465.autos&type=tcp&fp=chrome#0303 | 🇯🇵 Japan | [804ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#0304 | 🇰🇷 South Korea | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#0305 | 🇳🇱 Netherlands | [158ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://OD90375861@87.121.33.158:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=/#0306 | 🇦🇺 Australia | [915ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@87.121.33.56:443?sni=neat-whale.rooster465.autos&fp=chrome&type=tcp&path=/#0307 | 🇦🇺 Australia | [907ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@adjusted-turtle.rooster465.autos:443?allowInsecure=1#0308 | 🇯🇵 Japan | [662ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@hopeful-burro.rooster465.autos:443?allowInsecure=1&sni=hopeful-burro.rooster465.autos#0309 | 🇺🇸 United States | [704ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls#0310 | 🇯🇵 Japan | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@sharing-fawn.rooster465.autos:443?mux=1#0311 | 🇸🇬 Singapore | [668ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@picked-hamster.rooster465.autos:443?mux=1#0312 | 🇩🇪 Germany | [182ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://18844%40zxcvbn@tk-tr-4.cats22.net:443/?type=tcp&security=tls&allowInsecure=1#0313 | 🇯🇵 Japan | [428ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp#0314 | 🇸🇬 Singapore | [745ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#0315 | 🇰🇷 South Korea | [764ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@learning-ibex.rooster465.autos:443?sni=learning-ibex.rooster465.autos&allowInsecure=1&type=tcp#0316 | 🇯🇵 Japan | [775ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&type=tcp&fp=chrome#0317 | 🇺🇸 United States | [722ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://b06d7f06-51ba-402d-991a-3fe1e432247c@swejs.lydurlclub.top:443?allowInsecure=0#0318 | 🇺🇸 United States | [775ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://UX82473651@54.180.236.195:443?sni=evolving-ewe.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0319 | 🇰🇷 South Korea | [669ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@amazed-burro.rooster465.autos:443#0320 | 🇸🇬 Singapore | [756ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#0321 | 🇳🇱 Netherlands | [190ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@famous-opossum.rooster465.autos:443?sni=famous-opossum.rooster465.autos&type=tcp&fp=chrome#0322 | 🇰🇷 South Korea | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@literate-grizzly.rooster465.autos:443?sni=literate-grizzly.rooster465.autos&type=tcp&fp=chrome#0323 | 🇸🇬 Singapore | [724ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@united-molly.rooster465.autos:443?security=tls#0324 | 🇸🇬 Singapore | [618ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#0325 | 🇺🇸 United States | [704ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#0326 | 🇯🇵 Japan | [719ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@novel-bat.rooster465.autos:443?mux=1#0327 | 🇸🇬 Singapore | [606ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&allowInsecure=1&type=tcp#0328 | 🇰🇷 South Korea | [727ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232&type=tcp#0329 | 🇯🇵 Japan | [649ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@sweeping-parakeet.rooster465.autos:443?sni=sweeping-parakeet.rooster465.autos&fp=chrome&type=tcp&path=/#0330 | 🇸🇬 Singapore | [614ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@full-mayfly.rooster465.autos:443?allowInsecure=1#0331 | 🇰🇷 South Korea | [740ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@allowed-moose.rooster465.autos:443#0332 | 🇯🇵 Japan | [732ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls#0333 | 🇰🇷 South Korea | [719ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JT80563429@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.autos&type=tcp&fp=chrome#0334 | 🇳🇱 Netherlands | [161ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@eminent-dogfish.rooster465.autos:443?security=tls#0335 | 🇰🇷 South Korea | [798ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.autos&type=tcp&fp=chrome#0336 | 🇸🇬 Singapore | [613ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@sharp-scorpion.rooster465.autos:443/?type=tcp&security=tls&sni=sharp-scorpion.rooster465.autos#0337 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@flying-escargot.rooster465.autos:443?security=tls#0338 | 🇸🇬 Singapore | [739ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@eminent-hagfish.rooster465.autos:443?allowInsecure=1&sni=eminent-hagfish.rooster465.autos#0339 | 🇰🇷 South Korea | [688ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?security=tls#0340 | 🇰🇷 South Korea | [815ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@patient-gannet.rooster465.autos:443?sni=patient-gannet.rooster465.autos&type=tcp&fp=chrome#0341 | 🇵🇱 Poland | [159ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@194.99.79.209:443?sni=sensible-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#0342 | 🇭🇰 Hong Kong | [569ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@pleased-pelican.rooster465.autos:443?mux=1#0343 | 🇸🇬 Singapore | [626ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@allowed-poodle.rooster465.autos:443?mux=1#0344 | 🇯🇵 Japan | [789ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@glorious-hamster.rooster465.autos:443?sni=glorious-hamster.rooster465.autos&type=tcp&fp=chrome#0345 | 🇰🇷 South Korea | [808ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@stable-racer.rooster465.autos:443?sni=stable-racer.rooster465.autos&allowInsecure=1&type=tcp#0346 | 🇺🇸 United States | [201ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@infinite-tuna.rooster465.autos:443?sni=infinite-tuna.rooster465.autos&allowInsecure=1&type=tcp#0347 | 🇰🇷 South Korea | [737ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@185.244.208.185:443?sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#0348 | 🇭🇰 Hong Kong | [569ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@settled-camel.rooster465.autos:443?allowInsecure=1#0349 | 🇰🇷 South Korea | [781ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#0350 | 🇺🇸 United States | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@brave-muskox.rooster465.autos:443?sni=brave-muskox.rooster465.autos&type=tcp&fp=chrome#0351 | 🇰🇷 South Korea | [802ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&type=tcp&fp=chrome#0352 | 🇺🇸 United States | [738ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@saved-ghoul.rooster465.autos:443?sni=saved-ghoul.rooster465.autos&type=tcp&fp=chrome#0353 | 🇸🇬 Singapore | [661ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0354 | 🇦🇺 Australia | [1176ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@engaged-skink.rooster465.autos:443?sni=engaged-skink.rooster465.autos&fp=chrome&type=tcp&path=/#0355 | 🇰🇷 South Korea | [741ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&fp=chrome&type=tcp&path=/#0356 | 🇰🇷 South Korea | [707ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@working-tomcat.rooster465.autos:443?allowInsecure=1#0357 | 🇰🇷 South Korea | [689ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443#0358 | 🇵🇱 Poland | [203ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@87.121.33.93:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=/#0359 | 🇦🇺 Australia | [921ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443/?type=tcp&security=tls&allowInsecure=1#0360 | 🇺🇸 United States | [782ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@smashing-fawn.rooster465.autos:443?mux=1#0361 | 🇯🇵 Japan | [718ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@proud-honeybee.rooster465.autos:443?sni=proud-honeybee.rooster465.autos&type=tcp&fp=chrome#0362 | 🇸🇬 Singapore | [698ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@prime-quail.rooster465.autos:443?allowInsecure=1&sni=prime-quail.rooster465.autos#0363 | 🇸🇬 Singapore | [659ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#0364 | 🇯🇵 Japan | [1745ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@deep-ringtail.rooster465.autos:443?allowInsecure=1&sni=deep-ringtail.rooster465.autos#0365 | 🇸🇬 Singapore | [621ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@pleased-raptor.rooster465.autos:443?sni=pleased-raptor.rooster465.autos&type=tcp&fp=chrome#0366 | 🇮🇪 Ireland | [210ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos#0367 | 🇯🇵 Japan | [737ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a09.taipeicitygovernment.kiev.ua:3462?sni=45.32.28.232&type=tcp#0368 | 🇹🇼 Taiwan | [1028ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@noble-tahr.rooster465.autos:443?allowInsecure=0&sni=noble-tahr.rooster465.autos#0369 | 🇰🇷 South Korea | [786ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@key-pony.rooster465.autos:443?security=tls#0370 | 🇩🇪 Germany | [154ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@renewed-porpoise.rooster465.autos:443#0371 | 🇰🇷 South Korea | [1760ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@rapid-firefly.rooster465.autos:443?security=tls#0372 | 🇰🇷 South Korea | [793ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos#0373 | 🇯🇵 Japan | [795ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IL37892054@apt-magpie.rooster465.autos:443?sni=apt-magpie.rooster465.autos&type=tcp#0374 | 🇰🇷 South Korea | [700ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@casual-basilisk.rooster465.autos:443?sni=casual-basilisk.rooster465.autos&fp=chrome&type=tcp&path=/#0375 | 🇯🇵 Japan | [732ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@wise-bengal.rooster465.autos:443?security=tls#0376 | 🇰🇷 South Korea | [726ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@new-eagle.rooster465.autos:443?sni=new-eagle.rooster465.autos&type=tcp&path=/#0377 | 🇸🇬 Singapore | [638ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@absolute-bobcat.rooster465.autos:443?sni=absolute-bobcat.rooster465.autos&type=tcp&fp=chrome#0378 | 🇸🇬 Singapore | [650ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#0379 | 🇸🇬 Singapore | [703ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@real-ewe.rooster465.autos:443?sni=real-ewe.rooster465.autos#0380 | 🇯🇵 Japan | [767ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#0381 | 🇯🇵 Japan | [751ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@rare-lion.rooster465.autos:443?mux=1#0382 | 🇸🇬 Singapore | [661ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?allowInsecure=0&sni=infinite-killdeer.rooster465.autos#0383 | 🇯🇵 Japan | [747ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&type=tcp&fp=chrome#0384 | 🇰🇷 South Korea | [679ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@smooth-sculpin.rooster465.autos:443?allowInsecure=1#0385 | 🇰🇷 South Korea | [746ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#0386 | 🇸🇬 Singapore | [727ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@apparent-wasp.rooster465.autos:443?sni=apparent-wasp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0387 | 🇮🇪 Ireland | [198ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@actual-pigeon.rooster465.autos:443?sni=actual-pigeon.rooster465.autos&type=tcp&fp=chrome#0388 | 🇯🇵 Japan | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@87.121.33.19:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#0389 | 🇦🇺 Australia | [937ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@aware-coyote.rooster465.autos:443?allowInsecure=1#0390 | 🇸🇬 Singapore | [734ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@concise-grackle.rooster465.autos:443?sni=concise-grackle.rooster465.autos&type=tcp&fp=chrome#0391 | 🇸🇬 Singapore | [644ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#0392 | 🇸🇬 Singapore | [731ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@champion-panther.rooster465.autos:443?mux=1#0393 | 🇸🇬 Singapore | [724ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#0394 | 🇸🇬 Singapore | [606ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@rich-gelding.rooster465.autos:443?sni=rich-gelding.rooster465.autos&allowInsecure=1&type=tcp#0395 | 🇸🇬 Singapore | [768ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@proper-marlin.rooster465.autos:443?allowInsecure=1&sni=proper-marlin.rooster465.autos#0396 | 🇰🇷 South Korea | [791ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@close-wasp.rooster465.autos:443?allowInsecure=1#0397 | 🇯🇵 Japan | [765ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-snail.rooster465.autos#0398 | 🇯🇵 Japan | [1002ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@neat-whale.rooster465.autos:443?sni=neat-whale.rooster465.autos&type=tcp&fp=chrome#0399 | 🇦🇺 Australia | [905ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls#0400 | 🇮🇪 Ireland | [214ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@brief-hare.rooster465.autos:443?allowInsecure=0&sni=brief-hare.rooster465.autos#0401 | 🇸🇬 Singapore | [741ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@lasting-jaguar.rooster465.autos:443?security=tls#0402 | 🇰🇷 South Korea | [678ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#0403 | 🇰🇷 South Korea | [703ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@integral-quetzal.rooster465.autos:443?sni=integral-quetzal.rooster465.autos&fp=chrome&type=tcp&path=/#0404 | 🇯🇵 Japan | [722ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&type=tcp&fp=chrome#0405 | 🇳🇱 Netherlands | [183ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&type=tcp&fp=chrome#0406 | 🇭🇰 Hong Kong | [602ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@legible-ram.rooster465.autos:443?security=tls#0407 | 🇯🇵 Japan | [818ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@winning-polecat.rooster465.autos:443?allowInsecure=1#0408 | 🇸🇬 Singapore | [615ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#0409 | 🇨🇳 China | [741ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@bursting-racer.rooster465.autos:443?mux=1#0410 | 🇯🇵 Japan | [774ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@immune-grackle.rooster465.autos:443?security=tls#0411 | 🇩🇪 Germany | [150ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@amusing-grub.rooster465.autos:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#0412 | 🇺🇸 United States | [733ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#0413 | 🇮🇪 Ireland | [210ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@smiling-fowl.rooster465.autos:443#0414 | 🇰🇷 South Korea | [729ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@exciting-turtle.rooster465.autos:443?allowInsecure=0&sni=exciting-turtle.rooster465.autos#0415 | 🇩🇪 Germany | [154ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#0416 | 🇮🇪 Ireland | [192ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@immune-mullet.rooster465.autos:443?security=tls#0417 | 🇮🇪 Ireland | [194ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#0418 | 🇵🇱 Poland | [170ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@bursting-dolphin.rooster465.autos:443?sni=bursting-dolphin.rooster465.autos&type=tcp&fp=chrome#0419 | 🇯🇵 Japan | [733ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0420 | 🇰🇷 South Korea | [807ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@3.36.52.203:443?security=tls&sni=inviting-rabbit.rooster465.autos&allowInsecure=1#0421 | 🇰🇷 South Korea | [741ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@gorgeous-hookworm.rooster465.autos:443?sni=gorgeous-hookworm.rooster465.autos&type=tcp&path=/#0422 | 🇯🇵 Japan | [775ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PI36027154@pumped-eft.rooster465.autos:443?security=tls&fp=firefox#0423 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#0424 | 🇰🇷 South Korea | [699ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@arriving-colt.rooster465.autos:443?sni=arriving-colt.rooster465.autos&type=tcp&fp=chrome#0425 | 🇯🇵 Japan | [750ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@202.78.163.227:443?sni=dear-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#0426 | 🇵🇱 Poland | [175ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#0427 | 🇸🇬 Singapore | [653ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#0428 | 🇯🇵 Japan | [747ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@striking-cheetah.rooster465.autos:443?sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#0429 | 🇭🇰 Hong Kong | [572ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@scottie.golfland.club:443?security=tls&type=tcp&headerType=none#0430 | 🇦🇺 Australia | [826ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@polished-cicada.rooster465.autos:443?sni=polished-cicada.rooster465.autos&type=tcp&fp=chrome#0431 | 🇸🇬 Singapore | [748ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#0432 | 🇭🇰 Hong Kong | [582ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@better-earwig.rooster465.autos:443?allowInsecure=0&sni=better-earwig.rooster465.autos#0433 | 🇯🇵 Japan | [709ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@social-mutt.rooster465.autos:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=/#0434 | 🇰🇷 South Korea | [685ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@liberal-salmon.rooster465.autos:443?sni=liberal-salmon.rooster465.autos&type=tcp&fp=chrome#0435 | 🇭🇰 Hong Kong | [573ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@united-grouse.rooster465.autos:443?allowInsecure=1#0436 | 🇰🇷 South Korea | [732ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JT80563429@engaging-llama.rooster465.autos:443?security=tls&sni=engaging-llama.rooster465.autos#0437 | 🇭🇰 Hong Kong | [572ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@noted-bass.rooster465.autos:443?sni=noted-bass.rooster465.autos&type=tcp&path=/#0438 | 🇯🇵 Japan | [727ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@relaxing-marten.rooster465.autos:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#0439 | 🇰🇷 South Korea | [778ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@intense-wildcat.rooster465.autos:443?security=tls#0440 | 🇸🇬 Singapore | [612ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp&fp=chrome#0441 | 🇰🇷 South Korea | [743ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@glorious-lark.rooster465.autos:443?security=tls&path=/#0442 | 🇰🇷 South Korea | [784ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@fancy-skink.rooster465.autos:443?mux=1#0443 | 🇰🇷 South Korea | [787ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a07.taipeicitygovernment.if.ua:3462?sni=45.32.28.232&type=tcp#0444 | 🇹🇼 Taiwan | [1058ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@stable-python.rooster465.autos:443/?type=tcp&security=tls&sni=stable-python.rooster465.autos&allowInsecure=1#0445 | 🇯🇵 Japan | [753ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://Tn9ytcFXsOnbUsJYKJ@de-2.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0446 | 🇩🇪 Germany | [307ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@square-anchovy.rooster465.autos:443?mux=1#0447 | 🇸🇬 Singapore | [677ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@pumped-clam.rooster465.autos:443?sni=pumped-clam.rooster465.autos&allowInsecure=1&type=tcp#0448 | 🇸🇬 Singapore | [639ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@new-antelope.rooster465.autos:443?security=tls#0449 | 🇸🇬 Singapore | [658ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp&fp=chrome#0450 | 🇰🇷 South Korea | [661ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#0451 | 🇺🇸 United States | [706ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@bursting-baboon.rooster465.autos:443?mux=1#0452 | 🇺🇸 United States | [708ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#0453 | 🇸🇬 Singapore | [613ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#0454 | 🇸🇬 Singapore | [756ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@18.143.172.178:443?security=tls&sni=charming-puma.rooster465.autos&allowInsecure=1#0455 | 🇸🇬 Singapore | [652ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witty-duckling.rooster465.autos#0456 | 🇰🇷 South Korea | [709ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@pleased-lobster.rooster465.autos:443?allowInsecure=1#0457 | 🇸🇬 Singapore | [687ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@distinct-ibex.rooster465.autos:443?mux=1#0458 | 🇵🇱 Poland | [171ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@definite-hen.rooster465.autos:443?sni=definite-hen.rooster465.autos&fp=chrome&type=tcp&path=/#0459 | 🇰🇷 South Korea | [823ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@assuring-werewolf.rooster465.autos:443?sni=assuring-werewolf.rooster465.autos&type=tcp&fp=chrome#0460 | 🇺🇸 United States | [703ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#0461 | 🇭🇰 Hong Kong | [591ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@89.39.70.179:443?sni=unique-gobbler.rooster465.autos&fp=chrome&type=tcp&path=/#0462 | 🇳🇱 Netherlands | [156ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://q6UYkw9nUn6MYZz8Sp@ty-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#0463 | 🇯🇵 Japan | [1135ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#0464 | 🇸🇬 Singapore | [769ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@organic-locust.rooster465.autos:443?mux=1#0465 | 🇺🇸 United States | [722ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@prepared-thrush.rooster465.autos:443?sni=prepared-thrush.rooster465.autos&type=tcp&fp=chrome#0466 | 🇰🇷 South Korea | [671ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@complete-cockatoo.rooster465.autos:443?sni=complete-cockatoo.rooster465.autos&type=tcp&fp=chrome#0467 | 🇮🇪 Ireland | [213ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@casual-emu.rooster465.autos:443?sni=casual-emu.rooster465.autos&type=tcp&fp=chrome#0468 | 🇺🇸 United States | [707ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@elegant-marten.rooster465.autos:443?allowInsecure=0&sni=#0469 | 🇺🇸 United States | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#0470 | 🇰🇷 South Korea | [807ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JT80563429@87.121.33.45:443?sni=eternal-frog.rooster465.autos&fp=chrome&type=tcp&path=/#0471 | 🇦🇺 Australia | [933ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos&fp=chrome&type=tcp&path=/#0472 | 🇯🇵 Japan | [747ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls#0473 | 🇰🇷 South Korea | [706ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@helped-grouper.rooster465.autos:443?sni=helped-grouper.rooster465.autos&type=tcp&fp=chrome#0474 | 🇰🇷 South Korea | [777ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@mature-lamprey.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#0475 | 🇯🇵 Japan | [787ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&type=tcp&fp=chrome#0476 | 🇸🇬 Singapore | [772ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#0477 | 🇯🇵 Japan | [726ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@topical-shark.rooster465.autos:443?allowInsecure=1#0478 | 🇯🇵 Japan | [717ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@tough-shark.rooster465.autos:443?mux=1#0479 | 🇸🇬 Singapore | [609ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#0480 | 🇸🇬 Singapore | [678ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@normal-cow.rooster465.autos:443?mux=1#0481 | 🇰🇷 South Korea | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@firm-krill.rooster465.autos:443?sni=firm-krill.rooster465.autos&type=tcp&fp=chrome#0482 | 🇯🇵 Japan | [772ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@summary-lemming.rooster465.autos:443#0483 | 🇰🇷 South Korea | [683ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?security=tls#0484 | 🇯🇵 Japan | [727ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@better-molly.rooster465.autos:443?security=tls&sni=better-molly.rooster465.autos&path=/#0485 | 🇸🇬 Singapore | [611ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@definite-panda.rooster465.autos:443?sni=definite-panda.rooster465.autos&type=tcp&fp=chrome#0486 | 🇸🇬 Singapore | [622ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@unique-gobbler.rooster465.autos:443?sni=unique-gobbler.rooster465.autos&fp=chrome&type=tcp&path=%2f#0487 | 🇳🇱 Netherlands | [168ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@emerging-porpoise.rooster465.autos:443?sni=emerging-porpoise.rooster465.autos&type=tcp&fp=chrome#0488 | 🇯🇵 Japan | [740ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@saving-octopus.rooster465.autos:443?mux=1#0489 | 🇸🇬 Singapore | [645ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@peaceful-muskrat.rooster465.autos:443?allowInsecure=1#0490 | 🇯🇵 Japan | [728ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&allowInsecure=1&type=tcp#0491 | 🇸🇬 Singapore | [675ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#0492 | 🇺🇸 United States | [732ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@sensible-haddock.rooster465.autos:443?sni=sensible-haddock.rooster465.autos&fp=chrome&type=tcp&path=%2f#0493 | 🇭🇰 Hong Kong | [581ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@rested-seahorse.rooster465.autos:443?allowInsecure=1#0494 | 🇸🇬 Singapore | [703ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@free-hare.rooster465.autos:443?security=tls#0495 | 🇯🇵 Japan | [772ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&allowInsecure=1&type=tcp#0496 | 🇸🇬 Singapore | [627ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@sensible-barnacle.rooster465.autos:443?sni=sensible-barnacle.rooster465.autos&allowInsecure=1&type=tcp#0497 | 🇸🇬 Singapore | [684ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@03.tokyometropolis.kharkov.ua:2053?sni=45.32.28.232&type=tcp#0498 | 🇯🇵 Japan | [701ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@skilled-monster.rooster465.autos:443?sni=skilled-monster.rooster465.autos&type=tcp&fp=chrome#0499 | 🇺🇸 United States | [738ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#0500 | 🇯🇵 Japan | [704ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@cosmic-shepherd.rooster465.autos:443?sni=cosmic-shepherd.rooster465.autos&type=tcp&fp=chrome#0501 | 🇮🇪 Ireland | [214ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#0502 | 🇰🇷 South Korea | [808ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@driving-antelope.rooster465.autos:443#0503 | 🇸🇬 Singapore | [623ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@91.199.84.199:443?sni=liberal-salmon.rooster465.autos&fp=chrome&type=tcp&path=/#0504 | 🇭🇰 Hong Kong | [574ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@set-gazelle.rooster465.autos:443?sni=set-gazelle.rooster465.autos&allowInsecure=1&type=tcp#0505 | 🇸🇬 Singapore | [671ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@89.39.70.180:443?sni=eager-louse.rooster465.autos&fp=chrome&type=tcp&path=/#0506 | 🇳🇱 Netherlands | [159ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#0507 | 🇰🇷 South Korea | [696ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@right-mastiff.rooster465.autos:443?sni=right-mastiff.rooster465.autos&type=tcp&fp=chrome#0508 | 🇺🇸 United States | [857ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@modern-bulldog.rooster465.autos:443?sni=modern-bulldog.rooster465.autos&type=tcp&path=/#0509 | 🇰🇷 South Korea | [771ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.192:443?sni=45.32.28.232&type=tcp#0510 | 🇹🇼 Taiwan | [763ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@musical-manatee.rooster465.autos:443?security=tls#0511 | 🇰🇷 South Korea | [699ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@kind-unicorn.rooster465.autos:443?mux=1#0512 | 🇭🇰 Hong Kong | [564ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JA96378052@trusting-moccasin.rooster465.autos:443?allowInsecure=1&sni=trusting-moccasin.rooster465.autos#0513 | 🇯🇵 Japan | [746ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@devoted-heron.rooster465.autos:443?security=tls#0514 | 🇰🇷 South Korea | [814ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@lenient-penguin.rooster465.autos:443?sni=lenient-penguin.rooster465.autos&type=tcp&fp=chrome#0515 | 🇯🇵 Japan | [724ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=relaxing-bluebird.rooster465.autos#0516 | 🇰🇷 South Korea | [688ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://NQ26071394@alive-glider.rooster465.autos:443?sni=alive-glider.rooster465.autos&fp=chrome&type=tcp&path=%2f#0517 | 🇸🇬 Singapore | [643ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@eternal-woodcock.rooster465.autos:443?security=tls#0518 | 🇰🇷 South Korea | [695ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#0519 | 🇳🇱 Netherlands | [382ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@supreme-leopard.rooster465.autos:443?sni=supreme-leopard.rooster465.autos&type=tcp&fp=chrome#0520 | 🇰🇷 South Korea | [723ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#0521 | 🇸🇬 Singapore | [662ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@safe-frog.rooster465.autos:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#0522 | 🇯🇵 Japan | [742ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@89.39.70.242:443?sni=upward-hedgehog.rooster465.autos&fp=chrome&type=tcp&path=/#0523 | 🇳🇱 Netherlands | [169ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@intimate-moray.rooster465.autos:443?mux=1#0524 | 🇸🇬 Singapore | [623ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@quick-ant.rooster465.autos:443?mux=1#0525 | 🇯🇵 Japan | [705ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@renewing-leopard.rooster465.autos:443?sni=renewing-leopard.rooster465.autos&type=tcp&fp=chrome#0526 | 🇰🇷 South Korea | [770ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@47.128.146.47:443?security=tls&sni=pure-ram.rooster465.autos&allowInsecure=1#0527 | 🇸🇬 Singapore | [617ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@185.14.47.164:443?allowInsecure=0&sni=saved-mudfish.rooster465.autos#0528 | 🇭🇰 Hong Kong | [566ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@comic-eel.rooster465.autos:443?sni=comic-eel.rooster465.autos&type=tcp&fp=chrome#0529 | 🇰🇷 South Korea | [699ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@live-javelin.rooster465.autos:443?sni=live-javelin.rooster465.autos&type=tcp&fp=chrome#0530 | 🇯🇵 Japan | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@exotic-turtle.rooster465.autos:443?allowInsecure=1#0531 | 🇮🇪 Ireland | [192ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@ultimate-cardinal.rooster465.autos:443?allowInsecure=0&sni=ultimate-cardinal.rooster465.autos#0532 | 🇺🇸 United States | [698ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@legible-ocelot.rooster465.autos:443?mux=1#0533 | 🇰🇷 South Korea | [799ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@normal-pika.rooster465.autos:443?allowInsecure=0&sni=normal-pika.rooster465.autos#0534 | 🇮🇪 Ireland | [207ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#0535 | 🇰🇷 South Korea | [682ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@neat-octopus.rooster465.autos:443?sni=neat-octopus.rooster465.autos&type=tcp&fp=chrome#0536 | 🇰🇷 South Korea | [752ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@certain-egret.rooster465.autos:443?allowInsecure=1&sni=certain-egret.rooster465.autos#0537 | 🇩🇪 Germany | [158ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&allowInsecure=1&fp=chrome&type=tcp#0538 | 🇸🇪 Sweden | [317ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WG39087154@crack-martin.rooster465.autos:443?sni=crack-martin.rooster465.autos&fp=chrome&type=tcp&path=%2f#0539 | 🇸🇬 Singapore | [626ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@normal-dory.rooster465.autos:443?security=tls#0540 | 🇯🇵 Japan | [721ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@charmed-cheetah.rooster465.autos:443?sni=charmed-cheetah.rooster465.autos&type=tcp&fp=chrome#0541 | 🇸🇬 Singapore | [679ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@on-roughy.rooster465.autos:443?sni=on-roughy.rooster465.autos&allowInsecure=1&type=tcp#0542 | 🇸🇬 Singapore | [614ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ND91608427@informed-alpaca.rooster465.autos:443?security=tls#0543 | 🇰🇷 South Korea | [686ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@185.14.47.38:443?sni=normal-elk.rooster465.autos&fp=chrome&type=tcp&path=/#0544 | 🇭🇰 Hong Kong | [556ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@04.tokyometropolis.kherson.ua:2053?sni=45.32.28.232&type=tcp#0545 | 🇯🇵 Japan | [1494ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=busy-lab.rooster465.autos#0546 | 🇯🇵 Japan | [725ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@fast-drum.rooster465.autos:443?sni=fast-drum.rooster465.autos&fp=chrome&type=tcp&path=/#0547 | 🇯🇵 Japan | [669ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://XG59623478@relaxing-mayfly.rooster465.autos:443?allowInsecure=1#0548 | 🇯🇵 Japan | [692ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@enabled-stud.rooster465.autos:443?sni=enabled-stud.rooster465.autos&type=tcp&fp=chrome#0549 | 🇯🇵 Japan | [714ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@communal-buffalo.rooster465.autos:443?sni=communal-buffalo.rooster465.autos&type=tcp&fp=chrome#0550 | 🇸🇬 Singapore | [615ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PD07395842@on-airedale.rooster465.autos:443?sni=on-airedale.rooster465.autos&type=tcp&fp=chrome#0551 | 🇯🇵 Japan | [723ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@winning-shrimp.rooster465.autos:443?mux=1#0552 | 🇸🇬 Singapore | [608ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#0553 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#0554 | 🇰🇷 South Korea | [679ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@social-cod.rooster465.autos:443?allowInsecure=0&sni=social-cod.rooster465.autos#0555 | 🇺🇸 United States | [719ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp&fp=chrome#0556 | 🇸🇬 Singapore | [642ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&fp=chrome#0557 | 🇰🇷 South Korea | [696ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@intimate-hog.rooster465.autos:443?mux=1#0558 | 🇸🇬 Singapore | [615ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@ethical-monkfish.rooster465.autos:443?sni=ethical-monkfish.rooster465.autos&allowInsecure=1&type=tcp#0559 | 🇯🇵 Japan | [683ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#0560 | 🇰🇷 South Korea | [798ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FH72359861@lasting-bobcat.rooster465.autos:443?sni=lasting-bobcat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0561 | 🇰🇷 South Korea | [780ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@fun-poodle.rooster465.autos:443?type=tcp&security=tls&sni=fun-poodle.rooster465.autos&fp=chrome#0562 | 🇸🇬 Singapore | [638ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://PQ05174892@brief-flamingo.rooster465.autos:443?sni=brief-flamingo.rooster465.autos&allowInsecure=1&type=tcp#0563 | 🇸🇬 Singapore | [737ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://65fQmPHHbPcBCfvSHt@hk-2.tr202605.com:465?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0564 | 🇭🇰 Hong Kong | [869ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://FC60532879@saving-sawfly.rooster465.autos:443?sni=saving-sawfly.rooster465.autos&type=tcp&fp=chrome#0565 | 🇸🇬 Singapore | [650ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://ON38567014@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&type=tcp&fp=chrome#0566 | 🇰🇷 South Korea | [741ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://EQ30679154@kind-grizzly.rooster465.autos:443?mux=1#0567 | 🇸🇬 Singapore | [755ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://HW85960347@outgoing-eagle.rooster465.autos:443?security=tls#0568 | 🇸🇬 Singapore | [618ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://JA96378052@modest-coral.rooster465.autos:443?allowInsecure=0&sni=modest-coral.rooster465.autos#0569 | 🇰🇷 South Korea | [719ms] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a08.taipeicitygovernment.ivano-frankivsk.ua:3462?sni=45.32.28.232&type=tcp#0570 | 🇹🇼 Taiwan | [1046ms] | 🏴 Black | TG: @FlareFeedtg
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@itga8.guardora.pro:10654?mode=packet-up&path=/xhttp_client_upload&security=reality&encryption=none&pbk=ds10ztOlMn8xfeIKEQ1m3I-tdem-abZbHKtJCU13CQM&fp=chrome&type=xhttp&sni=bl3fk52.sysopnova.art&sid=5c3fb122#0144 | 🇺🇸 United States | [4126ms0.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@nl1.jetservaki.fit:443?mode=gun&security=reality&encryption=none&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&fp=chrome&type=grpc&serviceName=grpc&sni=nl1.jetservaki.fit&sid=884b938083b628d2#0011 | 🇳🇱 Netherlands | [250ms21.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e90759b7-6454-4b3a-8453-279e6f496f3a@171.22.183.155:443?type=grpc&security=reality&fp=random&pbk=qYmjDdoe-W9e55-Rs6u_G4HCHMk31G_qj0t1Q4_BcUg&sid=884b938083b628d2&sni=nl1.jetservaki.fit&serviceName=grpc#0062 | 🇳🇱 Netherlands | [235ms15.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@185.147.26.207:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&fp=firefox&type=grpc&serviceName=API&sni=ru-pro.sworkingvpn.com&sid=15bcc0a77c3cacdf#0093 | 🇷🇺 Russia | [1131ms4.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=edge&spx=/&type=grpc&sni=www.kayak.com#0133 | 🇵🇱 Poland | [925ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?security=reality&encryption=none&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&fp=safari&type=grpc&sni=tel.free-run.club&sid=025f065c#0137 | 🇩🇪 Germany | [318ms0.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@192.144.13.39:9872?encryption=none&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=firefox#0146 | 🇺🇸 United States | [1583ms0.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://d53ceb12-1b43-4547-8c1d-9b34a02372c6@washedroutineream.coppermitten.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=washedroutineream.coppermitten.one&fp=random&pbk=a2d3SdlFYm_JVsZ5Jdm7tefcXgsp9u5rDKL4SpMwAGY&sid=394742e7072b2c91&type=tcp#0001 | 🇳🇱 Netherlands | [623ms72.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#0004 | 🇷🇺 Russia | [100ms42.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?security=reality&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&sid=6f01a3e0f21267&sni=github.com#0005 | 🇷🇺 Russia | [187ms34.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#0007 | 🇸🇪 Sweden | [201ms27.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.66.162.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PAWRAe-0-jggLpRHVSL2ModH3fJq6LP1emUeopncJU4&security=reality&sid=20a29d0e0817696b&sni=storage.networksuite.cloud&type=tcp#0008 | 🇺🇸 United States | [133ms23.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://526a8fe1-9ae9-470a-b8d7-a83189f0067a@88.216.70.89:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8&sni=build.abyssettle.net#0017 | 🇩🇪 Germany | [133ms20.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://86037609-3790-4901-bd2f-c698092fb1fc@144.31.241.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=9Pg_ecqFPMfzOvJrmxE05FmLUDXbY9Mo1r2MgxFzYEQ&sid=4b523a98e1bbd15b&sni=po.skfv-mirror.ru#0022 | 🇳🇱 Netherlands | [183ms19.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#0044 | 🇷🇴 Romania | [416ms17.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#0051 | 🇵🇱 Poland | [165ms16.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@fi1d.lynch.ir:8080?security=reality&type=tcp&packetEncoding=xudp&sni=www.actionvfx.com&fp=chrome&sid=73693dea6faae051&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk#0056 | 🇫🇷 France | [186ms16.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@83.229.61.218:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&spx=%2FAhmadV2ray&encryption=none&fm=AhmadV2ray&sni=zsit.eu-cdn294.com&fp=firefox&security=reality&headerType=none&flow=xtls-rprx-vision&sid=cd2d53510b4df2a8&type=tcp#0063 | 🇷🇴 Romania | [196ms15.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&fp=firefox&security=reality&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852#0067 | 🇦🇹 Austria | [231ms14.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?security=reality&encryption=none&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&sid=8fbdc8d37cc76852#0068 | 🇦🇹 Austria | [212ms14.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.209:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&fp=chrome&security=reality&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0#0070 | 🇦🇪 United Arab Emirates | [199ms13.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.104:443?security=reality&encryption=none&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&sid=96ef4f5dd00f1ba0#0071 | 🇦🇪 United Arab Emirates | [197ms13.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.227:443?security=reality&encryption=none&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&sid=96ef4f5dd00f1ba0#0072 | 🇦🇪 United Arab Emirates | [230ms12.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.205.36:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0&sni=pl3.cloud-static.org#0073 | 🇦🇪 United Arab Emirates | [218ms11.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@8gm8kr.palka-cdn.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com#0074 | 🇪🇸 Spain | [310ms11.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.206.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl3.cloud-static.org&fp=edge&security=reality&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&sid=96ef4f5dd00f1ba0#0075 | 🇦🇪 United Arab Emirates | [218ms11.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://98b3d53b-9f34-4cf1-ba87-3be5db6d4c5a@185.207.1.121:10470?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=90jWc7mGJ9NeEI0HpwQ844SjP0W9_MP5bNX6cDOdFnM&sid=53c6ae&sni=www.max.ru#0076 | 🇵🇱 Poland | [351ms10.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@76.164.203.135:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ajzyADs9mOY6I3v7OWym5KgYh0afKmlCFaNw1pdQsWA&security=reality&sid=6b4cf686eebb37b9&sni=zses.eu-cdn294.com&type=tcp#0077 | 🇪🇸 Spain | [260ms9.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8f2d14ac-447d-4d58-bd37-5cac936d96ca@193.200.78.186:443?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#0078 | 🇱🇹 Lithuania | [1788ms8.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@lv1d.lynch.ir:4040?&security=reality&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&fp=chrome&sni=www.actionvfx.com&type=tcp&headerType=none&host=www.actionvfx.com&path=%2F#0079 | 🇩🇪 Germany | [1165ms8.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@78.17.34.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=fl-root.sworkingvpn.com&type=tcp#0080 | 🇦🇪 United Arab Emirates | [2223ms7.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.19.223.231:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lRuJPDrUb0b32-47hl4BgDoQutqmkuW31N4qVxbDgmI&sid=0f19f0c8102dc695&sni=d3-ru.cloud-cdn.xyz#0081 | 🇷🇺 Russia | [138ms7.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://9c104116-b231-4626-94cb-6d8fc4d2b000@23.237.193.202:8443?spx=%2FAhmadV2ray&flow=xtls-rprx-vision&sid=9db6b6d13d17987e&type=tcp&encryption=none&security=reality&headerType=none&sni=usa-nf.reddotcorp.org&fm=AhmadV2ray&fp=firefox&pbk=7YLtXcQkTEdKyGFmgi42nK73i0ttAP9tcQV12o5Ylyo#0082 | 🇰🇿 Kazakhstan | [413ms6.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@216.173.71.43:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lv.nztvpn.com&fp=safari&pbk=miDhSALrcCvSfc38VjCDYlzNh5M61NMR5IkUli7IN08&sid=0da7e14db353e7d0&allowInsecure=1#0084 | 🇱🇻 Latvia | [319ms6.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@91.108.240.42:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ApNIxuQ3QcxgdpVLyK9N13yLxwQVKzI9YzzGwKbE1QE&sid=24ab1577feda1c0f&sni=fr-01-10.zetnik.site#0086 | 🇫🇷 France | [184ms5.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6a3c68b1-d4b8-0004-975f-a01da4184225@85.209.135.145:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&sid=a150dcf9&sni=lk-1.yes-on.ru#0087 | 🇺🇸 United States | [268ms5.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6a3c68b1-d4b8-0004-975f-a01da4184225@lk-1.yes-on.ru:443?security=reality&encryption=none&pbk=EroArXWVxIMXclqgp4WNolB5vtfWSZEF1wjb_t1QrBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lk-1.yes-on.ru&sid=a150dcf9#0088 | 🇺🇸 United States | [272ms5.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aig.keeneticdocs.ru&fp=chrome&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&sid=a7268acdcfef5862&type=tcp&headerType=none#0092 | 🇸🇨 | [1491ms4.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6faa980b-4a0f-4b4d-99f2-03b468da8541@38.150.33.232:12329?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=dpG1tE9V93FM9IJeYC5-n_7RJxX7jOwrWLbQJgZpFFo&type=tcp&headerType=none#0134 | 🇺🇸 United States | [525ms0.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?security=reality&encryption=none&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&host=www.npmjs.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.npmjs.com&sid=8378f267#0135 | 🇯🇵 Japan | [718ms0.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@179.198.49.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl1.nztvpn.com&fp=random&pbk=iwHKqXfMtE61bupFq0qdpc8_uGwQswGc3JpLvDVB9Wo&sid=088b263ae349cc97&type=tcp#0192 | 🇧🇷 Brazil | [262ms] | 🏴 Black | TG: @FlareFeedtg
+vless://2cfa3189-ff5b-4254-8da6-3dccd6a57377@104.17.30.148:443?security=tls&type=ws&path=%2Fvl%2FKZ3BImK7a91sr6Ovu10QbnkHaY%3Fed%3D2560&host=jf7e77mwxkhchjdr5wkn4q-sv9gfcjd.t3syjz72ytkb7k7tpnqg3njyk.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=jf7e77mwxkhchjdr5wkn4q-sv9gfcjd.t3syjz72ytkb7k7tpnqg3njyk.workers.dev&fp=chrome#0006 | 🇺🇸 United States | [129ms28.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@iiproxy88.iiproxy.com:8443?encryption=none&security=tls&sni=iiproxy88.iiproxy.com&fp=chrome&type=ws&host=iiproxy88.iiproxy.com&path=%2F#0010 | 🇩🇪 Germany | [263ms21.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.226:443?encryption=none&security=tls&sni=cedar.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0012 | 🇳🇱 Netherlands | [162ms21.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.234:443?encryption=none&security=tls&sni=r4v8n3.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0013 | 🇳🇱 Netherlands | [179ms20.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3,h2&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443?ed=2560#0014 | 🇯🇵 Japan | [186ms20.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.221.242:443?encryption=none&security=tls&sni=k7m2q9.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0015 | 🇳🇱 Netherlands | [776ms20.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8a180a9e-3218-4140-bfd3-56cf230d27f8@50.7.128.242:443?encryption=none&security=tls&sni=data.fdc.video-mvm.ru&alpn=h2%2Chttp%2F1.1&fp=random&type=xhttp&path=%2F&mode=stream-up#0016 | 🇺🇸 United States | [175ms20.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.18.20.69:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0023 | 🇩🇪 Germany | [268ms19.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.68.157:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0025 | 🇩🇪 Germany | [241ms19.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.18.37.228:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0026 | 🇩🇪 Germany | [268ms19.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?type=ws&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#0028 | 🇩🇪 Germany | [239ms19.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.181.125:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0030 | 🇩🇪 Germany | [257ms18.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.21.35.244:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0033 | 🇩🇪 Germany | [244ms18.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.12.54:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0034 | 🇩🇪 Germany | [321ms18.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.20.5.134:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0035 | 🇩🇪 Germany | [296ms18.1mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8bb52771-052e-40b5-ab53-c6e151ad2290@shop.neexbyte.ir:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=shop.neexbyte.ir&path=/#0036 | 🇩🇪 Germany | [352ms17.8mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.12.31:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0037 | 🇩🇪 Germany | [253ms17.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.24.196.20:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0042 | 🇩🇪 Germany | [314ms17.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.66.177:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0045 | 🇩🇪 Germany | [291ms17.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.13.54:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0046 | 🇩🇪 Germany | [278ms16.9mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#0048 | 🇩🇪 Germany | [256ms16.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://8bb52771-052e-40b5-ab53-c6e151ad2290@188.114.96.2:8443?encryption=none&type=ws&host=shop.neexbyte.ir&path=%2F&security=tls&sni=shop.neexbyte.ir#0050 | 🇩🇪 Germany | [283ms16.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.24.197.20:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0052 | 🇩🇪 Germany | [269ms16.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.18.21.69:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0054 | 🇩🇪 Germany | [249ms16.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.20.6.134:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0055 | 🇩🇪 Germany | [283ms16.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@172.67.189.227:8443?security=tls&sni=iiproxy88.iiproxy.com&type=ws&host=iiproxy88.iiproxy.com&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#0058 | 🇩🇪 Germany | [244ms16.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@188.114.96.6:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0060 | 🇩🇪 Germany | [299ms15.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@104.26.13.31:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0061 | 🇩🇪 Germany | [293ms15.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.67.75.172:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0065 | 🇩🇪 Germany | [328ms14.7mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@172.64.150.28:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0066 | 🇩🇪 Germany | [262ms14.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://ca608afb-55ff-4f36-9d00-606fedbb30e1@188.114.99.0:2083?type=ws&security=tls&fp=chrome&sni=site.check-looks.space#0069 | 🇩🇪 Germany | [362ms13.9mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://806fa224-44f7-4c1b-b7a3-05bfdfdfbf87@104.21.10.34:8443?security=tls&sni=iiproxy888.iiproxy.com&type=ws&host=iiproxy888.iiproxy.com&path=%2F&fp=chrome#0083 | 🇩🇪 Germany | [826ms6.2mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://44f06ad1-982c-4e03-849f-899c1c8dc14f@vl.cocopon.top:443?security=tls&type=ws&path=%2F&host=vl.cocopon.top&packetEncoding=xudp&sni=vl.cocopon.top&fp=chrome&encryption=none#0085 | 🇩🇪 Germany | [241ms6.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://317ac662-c9da-4a69-ab73-1676c247f31e@maxfieldbox-nayab.org:443?encryption=none&type=ws&host=moonleaflab-jamesbondi.info&path=%2Fother&security=tls&alpn=h2http%2F1.1&sni=moonleaflab-jamesbondi.info#0091 | 🇩🇪 Germany | [564ms4.9mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@52.78.203.191:443?sni=delicate-buck.rooster465.autos&type=tcp&fp=chrome#0095 | 🇰🇷 South Korea | [739ms3.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@ultimate-jaguar.rooster465.autos:443?security=tls&sni=ultimate-jaguar.rooster465.autos#0096 | 🇺🇸 United States | [740ms3.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&allowInsecure=1#0097 | 🇯🇵 Japan | [776ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#0098 | 🇯🇵 Japan | [733ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome#0099 | 🇯🇵 Japan | [721ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#0100 | 🇯🇵 Japan | [740ms3.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos#0101 | 🇯🇵 Japan | [732ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0102 | 🇯🇵 Japan | [743ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#0103 | 🇯🇵 Japan | [754ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#0105 | 🇯🇵 Japan | [696ms3.3mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.199.66.128:443?sni=integral-rodent.rooster465.autos&type=tcp&fp=chrome#0106 | 🇯🇵 Japan | [861ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos#0107 | 🇰🇷 South Korea | [746ms3.2mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@13.125.197.117:443?sni=liked-eft.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0108 | 🇰🇷 South Korea | [860ms3.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&type=tcp&fp=chrome#0109 | 🇸🇬 Singapore | [623ms3.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@18.176.61.69:443?sni=intense-sole.rooster465.autos&type=tcp&fp=chrome#0110 | 🇯🇵 Japan | [813ms3.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@real-cardinal.rooster465.autos:443?security=tls&sni=real-cardinal.rooster465.autos#0113 | 🇸🇬 Singapore | [700ms3.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0114 | 🇸🇬 Singapore | [2567ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.254.59.149:443?sni=desired-boxer.rooster465.autos&type=tcp&fp=chrome#0115 | 🇸🇬 Singapore | [711ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&type=tcp&fp=chrome#0116 | 🇰🇷 South Korea | [762ms2.5mbps] | 🏴 Black | TG: @FlareFeedtg
+vmess://eyJhZGQiOiJjZG4uc2ZhY2cudWsiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9yMy5zZmFjZy51ayIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmFtZSI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDIyRjgwQyIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJwb3J0IjoyMDgzLCJwcyI6IkJ5IEVicmFTaGEg8J+XvyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#0117 | 🇯🇵 Japan | [1341ms2.4mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0118 | 🇯🇵 Japan | [809ms2.2mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@pet-antelope.rooster465.autos:443?allowInsecure=1&sni=pet-antelope.rooster465.autos#0120 | 🇸🇬 Singapore | [615ms2.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#0121 | 🇸🇬 Singapore | [707ms2.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@organic-caribou.rooster465.autos:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#0122 | 🇯🇵 Japan | [784ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos#0123 | 🇯🇵 Japan | [685ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@3.35.217.113:443?sni=amazing-peacock.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0124 | 🇰🇷 South Korea | [799ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@43.203.172.96:443?allowInsecure=1&sni=neutral-quail.rooster465.autos&type=tcp#0125 | 🇰🇷 South Korea | [767ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@3.39.225.215:443?sni=kind-stork.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0126 | 🇰🇷 South Korea | [810ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@desired-boxer.rooster465.autos:443?security=tls&sni=desired-boxer.rooster465.autos#0127 | 🇸🇬 Singapore | [666ms1.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@balanced-stag.rooster465.autos:443?security=tls&sni=balanced-stag.rooster465.autos#0128 | 🇰🇷 South Korea | [799ms1.6mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#0129 | 🇯🇵 Japan | [1027ms1.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://799b1006-3255-4e36-8ea0-64fe24d2bfa7@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=asia.csmaster.site&host=asia.csmaster.site#0130 | 🇸🇬 Singapore | [3809ms1.6mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@147.45.39.143:443?encryption=none&extra={"noSSEHeader":true,"uplinkHTTPMethod":"POST","uplinkDataPlacement":"body"}&fp=firefox&host=de-d21e56c13c.shamanapp.online&path=/ShamanXHTTP2026&security=tls&sni=de-d21e56c13c.shamanapp.online&type=xhttp#0139 | 🇷🇺 Russia | [558ms0.4mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://d666e16b-2b64-4499-bb32-896c26dc2e3d@de-d21e56c13c.shamanapp.online:443?encryption=none&type=xhttp&security=tls&sni=de-d21e56c13c.shamanapp.online&fp=firefox&alpn=h2&path=/ShamanXHTTP2026&host=de-d21e56c13c.shamanapp.online&mode=packet-up&extra=%7B%22noSSEHeader%22%3Atrue%2C%22uplinkHTTPMethod%22%3A%22POST%22%2C%22uplinkDataPlacement%22%3A%22body%22%7D#0141 | 🇷🇺 Russia | [844ms0.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@196.198.111.106:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=api-6ac3cf79.adhil.uk&fp=safari&alpn=h2#0142 | 🇪🇪 Estonia | [278ms0.3mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://3d841cdf-f91e-4f3b-a315-c18edcbd2606@jeffsubs.com:443?encryption=none&fp=chrome&host=jeffsubs.com&path=%252Fnnuyws&security=tls&sni=jeffsubs.com&type=ws#0148 | 🇯🇵 Japan | [2857ms0.1mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@helped-jennet.rooster465.autos:443?security=tls#0153 | 🇺🇸 United States | [709ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@live-drake.rooster465.autos:443?security=tls#0154 | 🇺🇸 United States | [714ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#0156 | 🇯🇵 Japan | [1048ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#0157 | 🇯🇵 Japan | [792ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0158 | 🇯🇵 Japan | [778ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&amp;headerType=&amp;type=tcp&amp;sni=balanced-heron.rooster465.autos#0159 | 🇰🇷 South Korea | [710ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos#0160 | 🇰🇷 South Korea | [742ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#0161 | 🇰🇷 South Korea | [814ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#0162 | 🇰🇷 South Korea | [733ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls#0163 | 🇰🇷 South Korea | [766ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos#0164 | 🇰🇷 South Korea | [654ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&sni=main-fawn.rooster465.autos#0165 | 🇰🇷 South Korea | [1155ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@evolving-ewe.rooster465.autos:443?security=tls&sni=evolving-ewe.rooster465.autos#0166 | 🇰🇷 South Korea | [710ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@kind-stork.rooster465.autos:443?security=tls&sni=kind-stork.rooster465.autos#0167 | 🇰🇷 South Korea | [842ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@amazing-peacock.rooster465.autos:443?allowInsecure=1&sni=amazing-peacock.rooster465.autos#0168 | 🇰🇷 South Korea | [896ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#0169 | 🇰🇷 South Korea | [1074ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0170 | 🇰🇷 South Korea | [1706ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos&allowInsecure=1#0171 | 🇰🇷 South Korea | [802ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@concise-bass.rooster465.autos:443?type=tcp&security=tls&sni=concise-bass.rooster465.autos&fp=chrome#0172 | 🇰🇷 South Korea | [690ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://KV63147582@selected-bison.rooster465.autos:443?security=tls&amp;sni=selected-bison.rooster465.autos#0173 | 🇦🇺 Australia | [938ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls#0174 | 🇰🇷 South Korea | [719ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#0175 | 🇦🇺 Australia | [912ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@liked-eft.rooster465.autos:443?allowInsecure=1&sni=liked-eft.rooster465.autos#0176 | 🇰🇷 South Korea | [899ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@up-dinosaur.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0177 | 🇰🇷 South Korea | [813ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@grown-rhino.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=grown-rhino.rooster465.autos&fp=chrome#0178 | 🇦🇺 Australia | [922ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@fleet-hawk.rooster465.autos:443?security=tls&sni=fleet-hawk.rooster465.autos#0179 | 🇦🇺 Australia | [919ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=concise-buck.rooster465.autos#0180 | 🇦🇺 Australia | [903ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ZY07256934@cool-lioness.rooster465.autos:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#0181 | 🇯🇵 Japan | [768ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@holy-lamb.rooster465.autos:443?sni=holy-lamb.rooster465.autos#0182 | 🇸🇬 Singapore | [742ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&sni=worthy-labrador.rooster465.autos#0183 | 🇰🇷 South Korea | [733ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@sharing-chipmunk.rooster465.autos:443?type=tcp&security=tls&sni=sharing-chipmunk.rooster465.autos#0184 | 🇦🇺 Australia | [915ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@skilled-lioness.rooster465.autos:443?security=tls&sni=skilled-lioness.rooster465.autos#0185 | 🇰🇷 South Korea | [721ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@helped-haddock.rooster465.autos:443?security=tls#0186 | 🇰🇷 South Korea | [718ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@chief-antelope.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=chief-antelope.rooster465.autos&fp=chrome#0187 | 🇦🇺 Australia | [922ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JA96378052@evident-gnat.rooster465.autos:443?security=tls#0188 | 🇦🇺 Australia | [902ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@eternal-frog.rooster465.autos:443?security=tls&sni=eternal-frog.rooster465.autos#0189 | 🇦🇺 Australia | [936ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://Telegram_healer_config@172.67.218.38:443?sni=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&allowInsecure=1&type=ws&path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&alpn=http%2F1.1&fp=chrome#0198 | 🇩🇪 Germany | [168ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@43.201.252.164:443?sni=balanced-stag.rooster465.autos&type=tcp&fp=chrome#0199 | 🇰🇷 South Korea | [738ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&type=tcp&fp=chrome#0200 | 🇯🇵 Japan | [807ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#0201 | 🇯🇵 Japan | [717ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@13.212.81.3:443?sni=holy-lamb.rooster465.autos&type=tcp&fp=chrome#0202 | 🇸🇬 Singapore | [639ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?sni=dimskiee.biz.id&type=ws&path=%2FWangCai-8&fp=chrome#0203 | 🇸🇪 Sweden | [135ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&type=tcp&fp=chrome#0205 | 🇯🇵 Japan | [790ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0206 | 🇰🇷 South Korea | [811ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0207 | 🇯🇵 Japan | [739ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&type=tcp&fp=chrome#0208 | 🇰🇷 South Korea | [894ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?sni=kr.freeguard.org&peer=kr.freeguard.org&security=tls#0213 | 🇰🇷 South Korea | [1104ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?sni=la14.freeguard.org&peer=la14.freeguard.org&security=tls#0214 | 🇺🇸 United States | [707ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@113.20.12.98:443?sni=ca.freeguard.org&peer=ca.freeguard.org&security=tls#0215 | 🇺🇸 United States | [668ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?sni=la.freeguard.org&peer=la.freeguard.org&security=tls#0216 | 🇳🇬 Nigeria | [722ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://18844%40zxcvbn@153.121.52.154:443/?type=tcp&security=tls&sni=tk-tr-4.cats22.net#0217 | 🇯🇵 Japan | [440ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#0218 | 🇭🇰 Hong Kong | [878ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443/?type=tcp&security=tls&sni=rc8.freeguard.org#0219 | 🇺🇸 United States | [612ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443/?type=tcp&security=tls&sni=rc6.freeguard.org#0220 | 🇺🇸 United States | [534ms] | 🏴 Black | TG: @FlareFeedtg
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@192.3.118.133:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf24555c7s2316.gogocs.xyz#0221 | 🇺🇸 United States | [441ms] | 🏴 Black | TG: @FlareFeedtg
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2317.kukuss.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=u695098uf24555c7s2316.gogocs.xyz&host=f24555c7s2316.gogocs.xyz#0222 | 🇺🇸 United States | [475ms] | 🏴 Black | TG: @FlareFeedtg
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2318.okgg.top:443?security=tls&encryption=none&sni=u695098uf24555c7s2316.gogocs.xyz&host=f24555c7s2316.gogocs.xyz&alpn=h2%2Chttp/1.1&fp=firefox&flow=xtls-rprx-vision#0223 | 🇺🇸 United States | [464ms] | 🏴 Black | TG: @FlareFeedtg
+vmess://eyJhZGQiOiJub21pbm8uMTFoaThpdGJhZi53b3JrZXJzLmRldiIsImFpZCI6MCwiaG9zdCI6Im5vbWluby4xMWhpOGl0YmFmLndvcmtlcnMuZGV2IiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3VhbndhbmcuYXdzbm8uY29tL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgQkU2QkQwIiwic25pIjoibm9taW5vLjExaGk4aXRiYWYud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#0226 | 🇨🇦 Canada | [1505ms] | 🏴 Black | TG: @FlareFeedtg
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.19.102.174:443?security=tls&sni=a.cwvps.eu.org&type=ws&path=%2Fws%23%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&host=a.cwvps.eu.org&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#0227 | 🇺🇸 United States | [3451ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@sincere-crappie.rooster465.autos:443?security=tls#0230 | 🇺🇸 United States | [714ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&allowInsecure=1&type=tcp#0231 | 🇩🇪 Germany | [166ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://7e62aec6f4a54b44cd439321c825d71b@tyy129.magiclampcloud.com:59443?allowInsecure=0&sni=tyy129.magiclampcloud.com&type=tcp#0232 | 🇨🇳 China | [1431ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@proper-mouse.rooster465.autos:443?allowInsecure=0&sni=proper-mouse.rooster465.autos#0233 | 🇯🇵 Japan | [813ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@leading-eel.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=#0234 | 🇯🇵 Japan | [758ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@intense-kid.rooster465.autos:443?sni=intense-kid.rooster465.autos&type=tcp&fp=chrome#0235 | 🇸🇬 Singapore | [661ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@casual-quail.rooster465.autos:443?sni=casual-quail.rooster465.autos&allowInsecure=1&type=tcp#0236 | 🇰🇷 South Korea | [1137ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UO36402987@many-cricket.rooster465.autos:443?sni=many-cricket.rooster465.autos&type=raw&fp=chrome#0237 | 🇰🇷 South Korea | [764ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@relevant-oryx.rooster465.autos:443?sni=relevant-oryx.rooster465.autos&type=tcp&fp=chrome#0238 | 🇯🇵 Japan | [784ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@calm-muskrat.rooster465.autos:443?security=tls#0239 | 🇸🇬 Singapore | [693ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@allowing-ram.rooster465.autos:443?allowInsecure=0&sni=allowing-ram.rooster465.autos#0240 | 🇮🇪 Ireland | [233ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@193.169.239.157:443?sni=grateful-bedbug.rooster465.autos&fp=chrome&type=tcp&path=/#0241 | 🇳🇱 Netherlands | [178ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02.tokyometropolis.ivano-frankivsk.ua:2053?sni=45.32.28.232&type=tcp#0242 | 🇯🇵 Japan | [730ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@saved-mudfish.rooster465.autos:443?allowInsecure=0&sni=saved-mudfish.rooster465.autos#0243 | 🇭🇰 Hong Kong | [579ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://xiubaixue000@160.251.136.55:443?security=tls&sni=hakuiteam.duckdns.org&allowInsecure=1&fp=chrome&type=tcp#0244 | 🇯🇵 Japan | [916ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@eminent-panther.rooster465.autos:443?allowInsecure=0&sni=eminent-panther.rooster465.autos#0245 | 🇩🇪 Germany | [177ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@devoted-zebra.rooster465.autos:443?security=tls#0246 | 🇰🇷 South Korea | [748ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@flexible-pony.rooster465.autos:443?sni=flexible-pony.rooster465.autos&allowInsecure=1&type=tcp#0247 | 🇸🇬 Singapore | [643ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@outgoing-lynx.rooster465.autos:443?sni=outgoing-lynx.rooster465.autos&allowInsecure=1&type=tcp#0248 | 🇯🇵 Japan | [782ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@maximum-elk.rooster465.autos:443?sni=maximum-elk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0249 | 🇸🇬 Singapore | [655ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@active-hippo.rooster465.autos:443?mux=1#0250 | 🇯🇵 Japan | [743ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@modest-bat.rooster465.autos:443/?type=tcp&security=tls&sni=modest-bat.rooster465.autos&fp=chrome#0251 | 🇯🇵 Japan | [752ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JT80563429@202.78.163.206:443?sni=enabling-snipe.rooster465.autos&fp=chrome&type=tcp&path=/#0252 | 🇵🇱 Poland | [202ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@91.199.84.19:443?sni=summary-dragon.rooster465.autos&fp=chrome&type=tcp&path=/#0253 | 🇭🇰 Hong Kong | [570ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#0254 | 🇳🇱 Netherlands | [177ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@novel-kodiak.rooster465.autos:443?allowInsecure=1#0255 | 🇸🇬 Singapore | [608ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@good-hound.rooster465.autos:443?mux=1#0256 | 🇰🇷 South Korea | [861ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@perfect-emu.rooster465.autos:443?sni=perfect-emu.rooster465.autos&allowInsecure=1&type=tcp#0257 | 🇸🇬 Singapore | [621ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@enabling-snipe.rooster465.autos:443?sni=enabling-snipe.rooster465.autos&type=tcp&fp=chrome#0258 | 🇵🇱 Poland | [210ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#0259 | 🇰🇷 South Korea | [717ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@185.244.208.188:443?sni=electric-gibbon.rooster465.autos&fp=chrome&type=tcp&path=/#0260 | 🇭🇰 Hong Kong | [574ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@settling-grouper.rooster465.autos:443?sni=settling-grouper.rooster465.autos&type=tcp&fp=chrome#0261 | 🇰🇷 South Korea | [726ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@bright-buffalo.rooster465.autos:443?sni=bright-buffalo.rooster465.autos&fp=chrome&type=tcp&path=/#0262 | 🇯🇵 Japan | [726ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@national-dingo.rooster465.autos:443?allowInsecure=0&sni=national-dingo.rooster465.autos#0263 | 🇺🇸 United States | [712ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://KV63147582@185.14.47.12:443?sni=desired-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#0264 | 🇭🇰 Hong Kong | [594ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@helped-buck.rooster465.autos:443?sni=helped-buck.rooster465.autos&fp=chrome&type=tcp&path=/#0265 | 🇭🇰 Hong Kong | [578ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#0266 | 🇯🇵 Japan | [725ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@dashing-bedbug.rooster465.autos:443?allowInsecure=1#0267 | 🇰🇷 South Korea | [821ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@natural-collie.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=natural-collie.rooster465.autos#0268 | 🇯🇵 Japan | [788ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@closing-moose.rooster465.autos:443?sni=closing-moose.rooster465.autos&type=tcp&fp=chrome#0269 | 🇮🇪 Ireland | [271ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://xMg1JMgkXAL_20TueWjz_6KJAAs7NnK0@nl4.275.axolab.org:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=nl4.275.axolab.org#0270 | 🇺🇸 United States | [276ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@united-sculpin.rooster465.autos:443?sni=united-sculpin.rooster465.autos&type=tcp&fp=chrome#0271 | 🇰🇷 South Korea | [758ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@open-octopus.rooster465.autos:443?allowInsecure=1#0272 | 🇸🇬 Singapore | [701ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#0273 | 🇸🇬 Singapore | [639ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@upward-yak.rooster465.autos:443?sni=upward-yak.rooster465.autos&type=tcp&path=/#0274 | 🇰🇷 South Korea | [731ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@magical-prawn.rooster465.autos:443?security=tls#0275 | 🇰🇷 South Korea | [715ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@splendid-dolphin.rooster465.autos:443?sni=splendid-dolphin.rooster465.autos&type=tcp&fp=chrome#0276 | 🇺🇸 United States | [718ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@glowing-iguana.rooster465.autos:443?sni=glowing-iguana.rooster465.autos&type=tcp&fp=chrome#0277 | 🇯🇵 Japan | [790ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WF42809561@excited-squirrel.rooster465.autos:443?allowInsecure=1#0278 | 🇰🇷 South Korea | [699ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@flowing-eagle.rooster465.autos:443?sni=flowing-eagle.rooster465.autos&fp=chrome&type=tcp&path=%2f#0279 | 🇰🇷 South Korea | [767ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@vast-werewolf.rooster465.autos:443?allowInsecure=1&sni=vast-werewolf.rooster465.autos#0280 | 🇯🇵 Japan | [725ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@optimum-tuna.rooster465.autos:443?sni=optimum-tuna.rooster465.autos&type=tcp&fp=chrome#0281 | 🇯🇵 Japan | [812ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@glorious-glider.rooster465.autos:443?security=tls&path=/#0282 | 🇸🇬 Singapore | [662ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@91.199.84.224:443?sni=heroic-cow.rooster465.autos&fp=chrome&type=tcp&path=/#0283 | 🇭🇰 Hong Kong | [595ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@magnetic-haddock.rooster465.autos:443?sni=magnetic-haddock.rooster465.autos&type=tcp&fp=chrome#0284 | 🇸🇬 Singapore | [625ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@epic-iguana.rooster465.autos:443?sni=epic-iguana.rooster465.autos&type=tcp&fp=chrome#0285 | 🇰🇷 South Korea | [729ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://18844%40zxcvbn@os-tr-5.cats22.net:443#0286 | 🇯🇵 Japan | [1021ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@engaged-antelope.rooster465.autos:443?sni=engaged-antelope.rooster465.autos&allowInsecure=1&type=tcp#0287 | 🇯🇵 Japan | [773ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@eager-platypus.rooster465.autos:443?sni=eager-platypus.rooster465.autos&allowInsecure=1&type=tcp#0288 | 🇰🇷 South Korea | [837ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@ruling-toucan.rooster465.autos:443?allowInsecure=1#0289 | 🇯🇵 Japan | [730ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@pro-tortoise.rooster465.autos:443?sni=pro-tortoise.rooster465.autos&type=tcp&fp=chrome#0290 | 🇸🇬 Singapore | [636ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@becoming-hare.rooster465.autos:443?sni=becoming-hare.rooster465.autos&type=tcp&fp=chrome#0291 | 🇰🇷 South Korea | [731ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls#0292 | 🇰🇷 South Korea | [787ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@dear-ferret.rooster465.autos:443?sni=dear-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#0293 | 🇵🇱 Poland | [186ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@renewing-ewe.rooster465.autos:443?sni=renewing-ewe.rooster465.autos&fp=chrome&type=tcp&path=/#0294 | 🇭🇰 Hong Kong | [600ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?sni=merry-falcon.rooster465.autos&peer=merry-falcon.rooster465.autos&security=tls#0295 | 🇰🇷 South Korea | [719ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls#0296 | 🇸🇬 Singapore | [659ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos#0297 | 🇸🇬 Singapore | [631ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@in-mongrel.rooster465.autos:443?sni=in-mongrel.rooster465.autos&type=tcp&fp=chrome#0298 | 🇯🇵 Japan | [703ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos&type=tcp&fp=chrome#0299 | 🇰🇷 South Korea | [748ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#0300 | 🇳🇱 Netherlands | [174ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://OD90375861@87.121.33.158:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=/#0301 | 🇦🇺 Australia | [910ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@87.121.33.56:443?sni=neat-whale.rooster465.autos&fp=chrome&type=tcp&path=/#0302 | 🇦🇺 Australia | [922ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@adjusted-turtle.rooster465.autos:443?allowInsecure=1#0303 | 🇯🇵 Japan | [683ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@hopeful-burro.rooster465.autos:443?allowInsecure=1&sni=hopeful-burro.rooster465.autos#0304 | 🇺🇸 United States | [714ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls#0305 | 🇯🇵 Japan | [748ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@sharing-fawn.rooster465.autos:443?mux=1#0306 | 🇸🇬 Singapore | [753ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@picked-hamster.rooster465.autos:443?mux=1#0307 | 🇩🇪 Germany | [172ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://18844%40zxcvbn@tk-tr-4.cats22.net:443/?type=tcp&security=tls&allowInsecure=1#0308 | 🇯🇵 Japan | [727ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@unbiased-coyote.rooster465.autos:443?sni=unbiased-coyote.rooster465.autos&allowInsecure=1&type=tcp#0309 | 🇸🇬 Singapore | [745ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#0310 | 🇰🇷 South Korea | [790ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@learning-ibex.rooster465.autos:443?sni=learning-ibex.rooster465.autos&allowInsecure=1&type=tcp#0311 | 🇯🇵 Japan | [812ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@immense-eagle.rooster465.autos:443?sni=immense-eagle.rooster465.autos&type=tcp&fp=chrome#0312 | 🇺🇸 United States | [706ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://UX82473651@54.180.236.195:443?sni=evolving-ewe.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0313 | 🇰🇷 South Korea | [695ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@amazed-burro.rooster465.autos:443#0314 | 🇸🇬 Singapore | [753ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#0315 | 🇳🇱 Netherlands | [173ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@famous-opossum.rooster465.autos:443?sni=famous-opossum.rooster465.autos&type=tcp&fp=chrome#0316 | 🇰🇷 South Korea | [832ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@literate-grizzly.rooster465.autos:443?sni=literate-grizzly.rooster465.autos&type=tcp&fp=chrome#0317 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@united-molly.rooster465.autos:443?security=tls#0318 | 🇸🇬 Singapore | [657ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@precious-stag.rooster465.autos:443?allowInsecure=1#0319 | 🇺🇸 United States | [729ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@quality-sheepdog.rooster465.autos:443?allowInsecure=0&sni=quality-sheepdog.rooster465.autos#0320 | 🇯🇵 Japan | [733ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@novel-bat.rooster465.autos:443?mux=1#0321 | 🇸🇬 Singapore | [622ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&allowInsecure=1&type=tcp#0322 | 🇰🇷 South Korea | [715ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232&type=tcp#0323 | 🇯🇵 Japan | [703ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@sweeping-parakeet.rooster465.autos:443?sni=sweeping-parakeet.rooster465.autos&fp=chrome&type=tcp&path=/#0324 | 🇸🇬 Singapore | [666ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@full-mayfly.rooster465.autos:443?allowInsecure=1#0325 | 🇰🇷 South Korea | [661ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@allowed-moose.rooster465.autos:443#0326 | 🇯🇵 Japan | [669ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls#0327 | 🇰🇷 South Korea | [837ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JT80563429@fast-ghost.rooster465.autos:443?sni=fast-ghost.rooster465.autos&type=tcp&fp=chrome#0328 | 🇳🇱 Netherlands | [177ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@eminent-dogfish.rooster465.autos:443?security=tls#0329 | 🇰🇷 South Korea | [716ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@capable-jay.rooster465.autos:443?sni=capable-jay.rooster465.autos&type=tcp&fp=chrome#0330 | 🇸🇬 Singapore | [660ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@sharp-scorpion.rooster465.autos:443/?type=tcp&security=tls&sni=sharp-scorpion.rooster465.autos#0331 | 🇸🇬 Singapore | [615ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@flying-escargot.rooster465.autos:443?security=tls#0332 | 🇸🇬 Singapore | [707ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@eminent-hagfish.rooster465.autos:443?allowInsecure=1&sni=eminent-hagfish.rooster465.autos#0333 | 🇰🇷 South Korea | [701ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?security=tls#0334 | 🇰🇷 South Korea | [707ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@patient-gannet.rooster465.autos:443?sni=patient-gannet.rooster465.autos&type=tcp&fp=chrome#0335 | 🇵🇱 Poland | [165ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@194.99.79.209:443?sni=sensible-haddock.rooster465.autos&fp=chrome&type=tcp&path=/#0336 | 🇭🇰 Hong Kong | [580ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@pleased-pelican.rooster465.autos:443?mux=1#0337 | 🇸🇬 Singapore | [660ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@allowed-poodle.rooster465.autos:443?mux=1#0338 | 🇯🇵 Japan | [707ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@glorious-hamster.rooster465.autos:443?sni=glorious-hamster.rooster465.autos&type=tcp&fp=chrome#0339 | 🇰🇷 South Korea | [771ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@stable-racer.rooster465.autos:443?sni=stable-racer.rooster465.autos&allowInsecure=1&type=tcp#0340 | 🇺🇸 United States | [210ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@infinite-tuna.rooster465.autos:443?sni=infinite-tuna.rooster465.autos&allowInsecure=1&type=tcp#0341 | 🇰🇷 South Korea | [766ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@185.244.208.185:443?sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#0342 | 🇭🇰 Hong Kong | [559ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@settled-camel.rooster465.autos:443?allowInsecure=1#0343 | 🇰🇷 South Korea | [794ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#0344 | 🇺🇸 United States | [713ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@brave-muskox.rooster465.autos:443?sni=brave-muskox.rooster465.autos&type=tcp&fp=chrome#0345 | 🇰🇷 South Korea | [776ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&type=tcp&fp=chrome#0346 | 🇺🇸 United States | [709ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@saved-ghoul.rooster465.autos:443?sni=saved-ghoul.rooster465.autos&type=tcp&fp=chrome#0347 | 🇸🇬 Singapore | [691ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0348 | 🇦🇺 Australia | [1154ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@engaged-skink.rooster465.autos:443?sni=engaged-skink.rooster465.autos&fp=chrome&type=tcp&path=/#0349 | 🇰🇷 South Korea | [827ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@clear-heron.rooster465.autos:443?sni=clear-heron.rooster465.autos&fp=chrome&type=tcp&path=/#0350 | 🇰🇷 South Korea | [723ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@working-tomcat.rooster465.autos:443?allowInsecure=1#0351 | 🇰🇷 South Korea | [733ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443#0352 | 🇵🇱 Poland | [234ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@87.121.33.93:443?sni=concise-buck.rooster465.autos&fp=chrome&type=tcp&path=/#0353 | 🇦🇺 Australia | [899ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@smashing-fawn.rooster465.autos:443?mux=1#0354 | 🇯🇵 Japan | [917ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@proud-honeybee.rooster465.autos:443?sni=proud-honeybee.rooster465.autos&type=tcp&fp=chrome#0355 | 🇸🇬 Singapore | [721ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@prime-quail.rooster465.autos:443?allowInsecure=1&sni=prime-quail.rooster465.autos#0356 | 🇸🇬 Singapore | [758ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@logical-koala.rooster465.autos:443?sni=logical-koala.rooster465.autos&type=tcp&fp=chrome#0357 | 🇯🇵 Japan | [722ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@deep-ringtail.rooster465.autos:443?allowInsecure=1&sni=deep-ringtail.rooster465.autos#0358 | 🇸🇬 Singapore | [628ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@pleased-raptor.rooster465.autos:443?sni=pleased-raptor.rooster465.autos&type=tcp&fp=chrome#0359 | 🇮🇪 Ireland | [224ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@in-oriole.rooster465.autos:443?sni=in-oriole.rooster465.autos#0360 | 🇯🇵 Japan | [750ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a09.taipeicitygovernment.kiev.ua:3462?sni=45.32.28.232&type=tcp#0361 | 🇹🇼 Taiwan | [1031ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@noble-tahr.rooster465.autos:443?allowInsecure=0&sni=noble-tahr.rooster465.autos#0362 | 🇰🇷 South Korea | [743ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@key-pony.rooster465.autos:443?security=tls#0363 | 🇩🇪 Germany | [528ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443#0364 | 🇰🇷 South Korea | [840ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@rapid-firefly.rooster465.autos:443?security=tls#0365 | 🇰🇷 South Korea | [843ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@harmless-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos#0366 | 🇯🇵 Japan | [811ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IL37892054@apt-magpie.rooster465.autos:443?sni=apt-magpie.rooster465.autos&type=tcp#0367 | 🇰🇷 South Korea | [695ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@casual-basilisk.rooster465.autos:443?sni=casual-basilisk.rooster465.autos&fp=chrome&type=tcp&path=/#0368 | 🇯🇵 Japan | [743ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@wise-bengal.rooster465.autos:443?security=tls#0369 | 🇰🇷 South Korea | [760ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@new-eagle.rooster465.autos:443?sni=new-eagle.rooster465.autos&type=tcp&path=/#0370 | 🇸🇬 Singapore | [771ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@absolute-bobcat.rooster465.autos:443?sni=absolute-bobcat.rooster465.autos&type=tcp&fp=chrome#0371 | 🇸🇬 Singapore | [674ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#0372 | 🇸🇬 Singapore | [697ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@real-ewe.rooster465.autos:443?sni=real-ewe.rooster465.autos#0373 | 🇯🇵 Japan | [734ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#0374 | 🇯🇵 Japan | [759ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@rare-lion.rooster465.autos:443?mux=1#0375 | 🇸🇬 Singapore | [626ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@infinite-killdeer.rooster465.autos:443?allowInsecure=0&sni=infinite-killdeer.rooster465.autos#0376 | 🇯🇵 Japan | [724ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@fit-marten.rooster465.autos:443?sni=fit-marten.rooster465.autos&type=tcp&fp=chrome#0377 | 🇰🇷 South Korea | [715ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@smooth-sculpin.rooster465.autos:443?allowInsecure=1#0378 | 🇰🇷 South Korea | [756ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#0379 | 🇸🇬 Singapore | [624ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@apparent-wasp.rooster465.autos:443?sni=apparent-wasp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0380 | 🇮🇪 Ireland | [214ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@actual-pigeon.rooster465.autos:443?sni=actual-pigeon.rooster465.autos&type=tcp&fp=chrome#0381 | 🇯🇵 Japan | [732ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@87.121.33.19:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=/#0382 | 🇦🇺 Australia | [919ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@aware-coyote.rooster465.autos:443?allowInsecure=1#0383 | 🇸🇬 Singapore | [736ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@concise-grackle.rooster465.autos:443?sni=concise-grackle.rooster465.autos&type=tcp&fp=chrome#0384 | 🇸🇬 Singapore | [639ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#0385 | 🇸🇬 Singapore | [752ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@champion-panther.rooster465.autos:443?mux=1#0386 | 🇸🇬 Singapore | [655ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#0387 | 🇸🇬 Singapore | [698ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@rich-gelding.rooster465.autos:443?sni=rich-gelding.rooster465.autos&allowInsecure=1&type=tcp#0388 | 🇸🇬 Singapore | [732ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@proper-marlin.rooster465.autos:443?allowInsecure=1&sni=proper-marlin.rooster465.autos#0389 | 🇰🇷 South Korea | [844ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@close-wasp.rooster465.autos:443?allowInsecure=1#0390 | 🇯🇵 Japan | [720ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@clear-snail.rooster465.autos:443?allowInsecure=1&sni=clear-snail.rooster465.autos#0391 | 🇯🇵 Japan | [825ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@neat-whale.rooster465.autos:443?sni=neat-whale.rooster465.autos&type=tcp&fp=chrome#0392 | 🇦🇺 Australia | [922ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls#0393 | 🇮🇪 Ireland | [202ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@brief-hare.rooster465.autos:443?allowInsecure=0&sni=brief-hare.rooster465.autos#0394 | 🇸🇬 Singapore | [742ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@lasting-jaguar.rooster465.autos:443?security=tls#0395 | 🇰🇷 South Korea | [699ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://IL37892054@upright-rhino.rooster465.autos:443?security=tls#0396 | 🇰🇷 South Korea | [760ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@integral-quetzal.rooster465.autos:443?sni=integral-quetzal.rooster465.autos&fp=chrome&type=tcp&path=/#0397 | 🇯🇵 Japan | [752ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@eager-louse.rooster465.autos:443?sni=eager-louse.rooster465.autos&type=tcp&fp=chrome#0398 | 🇳🇱 Netherlands | [171ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@desired-tahr.rooster465.autos:443?sni=desired-tahr.rooster465.autos&type=tcp&fp=chrome#0399 | 🇭🇰 Hong Kong | [576ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@legible-ram.rooster465.autos:443?security=tls#0400 | 🇯🇵 Japan | [840ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@winning-polecat.rooster465.autos:443?allowInsecure=1#0401 | 🇸🇬 Singapore | [667ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#0402 | 🇨🇳 China | [801ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@bursting-racer.rooster465.autos:443?mux=1#0403 | 🇯🇵 Japan | [1821ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@immune-grackle.rooster465.autos:443?security=tls#0404 | 🇩🇪 Germany | [166ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@amusing-grub.rooster465.autos:443?allowInsecure=0&sni=amusing-grub.rooster465.autos#0405 | 🇺🇸 United States | [718ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#0406 | 🇮🇪 Ireland | [205ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@smiling-fowl.rooster465.autos:443#0407 | 🇰🇷 South Korea | [696ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@exciting-turtle.rooster465.autos:443?allowInsecure=0&sni=exciting-turtle.rooster465.autos#0408 | 🇩🇪 Germany | [182ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#0409 | 🇮🇪 Ireland | [201ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@immune-mullet.rooster465.autos:443?security=tls#0410 | 🇮🇪 Ireland | [200ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#0411 | 🇵🇱 Poland | [201ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@bursting-dolphin.rooster465.autos:443?sni=bursting-dolphin.rooster465.autos&type=tcp&fp=chrome#0412 | 🇯🇵 Japan | [777ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@loyal-molly.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#0413 | 🇰🇷 South Korea | [818ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@3.36.52.203:443?security=tls&sni=inviting-rabbit.rooster465.autos&allowInsecure=1#0414 | 🇰🇷 South Korea | [730ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@gorgeous-hookworm.rooster465.autos:443?sni=gorgeous-hookworm.rooster465.autos&type=tcp&path=/#0415 | 🇯🇵 Japan | [698ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PI36027154@pumped-eft.rooster465.autos:443?security=tls&fp=firefox#0416 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#0417 | 🇰🇷 South Korea | [712ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@arriving-colt.rooster465.autos:443?sni=arriving-colt.rooster465.autos&type=tcp&fp=chrome#0418 | 🇯🇵 Japan | [793ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@202.78.163.227:443?sni=dear-ferret.rooster465.autos&fp=chrome&type=tcp&path=/#0419 | 🇵🇱 Poland | [171ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@tough-robin.rooster465.autos:443?security=tls&sni=tough-robin.rooster465.autos#0420 | 🇸🇬 Singapore | [621ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@smooth-hornet.rooster465.autos:443?sni=smooth-hornet.rooster465.autos&type=tcp&fp=chrome#0421 | 🇯🇵 Japan | [736ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@striking-cheetah.rooster465.autos:443?sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#0422 | 🇭🇰 Hong Kong | [578ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@polished-cicada.rooster465.autos:443?sni=polished-cicada.rooster465.autos&type=tcp&fp=chrome#0423 | 🇸🇬 Singapore | [619ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#0424 | 🇭🇰 Hong Kong | [590ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@better-earwig.rooster465.autos:443?allowInsecure=0&sni=better-earwig.rooster465.autos#0425 | 🇯🇵 Japan | [772ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@social-mutt.rooster465.autos:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=/#0426 | 🇰🇷 South Korea | [716ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@liberal-salmon.rooster465.autos:443?sni=liberal-salmon.rooster465.autos&type=tcp&fp=chrome#0427 | 🇭🇰 Hong Kong | [658ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@united-grouse.rooster465.autos:443?allowInsecure=1#0428 | 🇰🇷 South Korea | [768ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JT80563429@engaging-llama.rooster465.autos:443?security=tls&sni=engaging-llama.rooster465.autos#0429 | 🇭🇰 Hong Kong | [594ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@noted-bass.rooster465.autos:443?sni=noted-bass.rooster465.autos&type=tcp&path=/#0430 | 🇯🇵 Japan | [712ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@relaxing-marten.rooster465.autos:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#0431 | 🇰🇷 South Korea | [728ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@intense-wildcat.rooster465.autos:443?security=tls#0432 | 🇸🇬 Singapore | [628ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos&type=tcp&fp=chrome#0433 | 🇰🇷 South Korea | [708ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@glorious-lark.rooster465.autos:443?security=tls&path=/#0434 | 🇰🇷 South Korea | [731ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@fancy-skink.rooster465.autos:443?mux=1#0435 | 🇰🇷 South Korea | [819ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a07.taipeicitygovernment.if.ua:3462?sni=45.32.28.232&type=tcp#0436 | 🇹🇼 Taiwan | [1010ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@stable-python.rooster465.autos:443/?type=tcp&security=tls&sni=stable-python.rooster465.autos&allowInsecure=1#0437 | 🇯🇵 Japan | [701ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://Tn9ytcFXsOnbUsJYKJ@de-2.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0438 | 🇩🇪 Germany | [340ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@square-anchovy.rooster465.autos:443?mux=1#0439 | 🇸🇬 Singapore | [685ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@pumped-clam.rooster465.autos:443?sni=pumped-clam.rooster465.autos&allowInsecure=1&type=tcp#0440 | 🇸🇬 Singapore | [974ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@new-antelope.rooster465.autos:443?security=tls#0441 | 🇸🇬 Singapore | [630ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@living-hagfish.rooster465.autos:443?sni=living-hagfish.rooster465.autos&type=tcp&fp=chrome#0442 | 🇰🇷 South Korea | [683ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#0443 | 🇺🇸 United States | [727ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@bursting-baboon.rooster465.autos:443?mux=1#0444 | 🇺🇸 United States | [728ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#0445 | 🇸🇬 Singapore | [659ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@charming-puma.rooster465.autos:443?sni=charming-puma.rooster465.autos&type=tcp&fp=chrome#0446 | 🇸🇬 Singapore | [720ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@18.143.172.178:443?security=tls&sni=charming-puma.rooster465.autos&allowInsecure=1#0447 | 🇸🇬 Singapore | [768ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@witty-duckling.rooster465.autos:443?allowInsecure=1&sni=witty-duckling.rooster465.autos#0448 | 🇰🇷 South Korea | [712ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@pleased-lobster.rooster465.autos:443?allowInsecure=1#0449 | 🇸🇬 Singapore | [729ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@distinct-ibex.rooster465.autos:443?mux=1#0450 | 🇵🇱 Poland | [180ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@definite-hen.rooster465.autos:443?sni=definite-hen.rooster465.autos&fp=chrome&type=tcp&path=/#0451 | 🇰🇷 South Korea | [780ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@assuring-werewolf.rooster465.autos:443?sni=assuring-werewolf.rooster465.autos&type=tcp&fp=chrome#0452 | 🇺🇸 United States | [722ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@electric-gibbon.rooster465.autos:443?sni=electric-gibbon.rooster465.autos&type=tcp&fp=chrome#0453 | 🇭🇰 Hong Kong | [570ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@89.39.70.179:443?sni=unique-gobbler.rooster465.autos&fp=chrome&type=tcp&path=/#0454 | 🇳🇱 Netherlands | [174ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://q6UYkw9nUn6MYZz8Sp@ty-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#0455 | 🇯🇵 Japan | [1107ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-longhorn.rooster465.autos#0456 | 🇸🇬 Singapore | [625ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@organic-locust.rooster465.autos:443?mux=1#0457 | 🇺🇸 United States | [721ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@prepared-thrush.rooster465.autos:443?sni=prepared-thrush.rooster465.autos&type=tcp&fp=chrome#0458 | 🇰🇷 South Korea | [868ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@complete-cockatoo.rooster465.autos:443?sni=complete-cockatoo.rooster465.autos&type=tcp&fp=chrome#0459 | 🇮🇪 Ireland | [217ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@casual-emu.rooster465.autos:443?sni=casual-emu.rooster465.autos&type=tcp&fp=chrome#0460 | 🇺🇸 United States | [709ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@elegant-marten.rooster465.autos:443?allowInsecure=0&sni=#0461 | 🇺🇸 United States | [732ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@gentle-raptor.rooster465.autos:443?sni=gentle-raptor.rooster465.autos&type=tcp&fp=chrome#0462 | 🇰🇷 South Korea | [845ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JT80563429@87.121.33.45:443?sni=eternal-frog.rooster465.autos&fp=chrome&type=tcp&path=/#0463 | 🇦🇺 Australia | [913ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@internal-krill.rooster465.autos:443?security=tls&sni=internal-krill.rooster465.autos&fp=chrome&type=tcp&path=/#0464 | 🇯🇵 Japan | [813ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls#0465 | 🇰🇷 South Korea | [855ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@helped-grouper.rooster465.autos:443?sni=helped-grouper.rooster465.autos&type=tcp&fp=chrome#0466 | 🇰🇷 South Korea | [697ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@mature-lamprey.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1#0467 | 🇯🇵 Japan | [839ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos&type=tcp&fp=chrome#0468 | 🇸🇬 Singapore | [722ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#0469 | 🇯🇵 Japan | [724ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@topical-shark.rooster465.autos:443?allowInsecure=1#0470 | 🇯🇵 Japan | [734ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@tough-shark.rooster465.autos:443?mux=1#0471 | 🇸🇬 Singapore | [629ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@star-cheetah.rooster465.autos:443?security=tls#0472 | 🇸🇬 Singapore | [631ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@normal-cow.rooster465.autos:443?mux=1#0473 | 🇰🇷 South Korea | [736ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@firm-krill.rooster465.autos:443?sni=firm-krill.rooster465.autos&type=tcp&fp=chrome#0474 | 🇯🇵 Japan | [742ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@summary-lemming.rooster465.autos:443#0475 | 🇰🇷 South Korea | [706ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?security=tls#0476 | 🇯🇵 Japan | [810ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@better-molly.rooster465.autos:443?security=tls&sni=better-molly.rooster465.autos&path=/#0477 | 🇸🇬 Singapore | [633ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@definite-panda.rooster465.autos:443?sni=definite-panda.rooster465.autos&type=tcp&fp=chrome#0478 | 🇸🇬 Singapore | [625ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@unique-gobbler.rooster465.autos:443?sni=unique-gobbler.rooster465.autos&fp=chrome&type=tcp&path=%2f#0479 | 🇳🇱 Netherlands | [174ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@emerging-porpoise.rooster465.autos:443?sni=emerging-porpoise.rooster465.autos&type=tcp&fp=chrome#0480 | 🇯🇵 Japan | [801ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@saving-octopus.rooster465.autos:443?mux=1#0481 | 🇸🇬 Singapore | [627ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@peaceful-muskrat.rooster465.autos:443?allowInsecure=1#0482 | 🇯🇵 Japan | [732ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@awake-satyr.rooster465.autos:443?sni=awake-satyr.rooster465.autos&allowInsecure=1&type=tcp#0483 | 🇸🇬 Singapore | [684ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos#0484 | 🇺🇸 United States | [725ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@sensible-haddock.rooster465.autos:443?sni=sensible-haddock.rooster465.autos&fp=chrome&type=tcp&path=%2f#0485 | 🇭🇰 Hong Kong | [584ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@rested-seahorse.rooster465.autos:443?allowInsecure=1#0486 | 🇸🇬 Singapore | [630ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@free-hare.rooster465.autos:443?security=tls#0487 | 🇯🇵 Japan | [763ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@steady-prawn.rooster465.autos:443?sni=steady-prawn.rooster465.autos&allowInsecure=1&type=tcp#0488 | 🇸🇬 Singapore | [633ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@sensible-barnacle.rooster465.autos:443?sni=sensible-barnacle.rooster465.autos&allowInsecure=1&type=tcp#0489 | 🇸🇬 Singapore | [677ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@03.tokyometropolis.kharkov.ua:2053?sni=45.32.28.232&type=tcp#0490 | 🇯🇵 Japan | [723ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@skilled-monster.rooster465.autos:443?sni=skilled-monster.rooster465.autos&type=tcp&fp=chrome#0491 | 🇺🇸 United States | [720ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#0492 | 🇯🇵 Japan | [686ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@cosmic-shepherd.rooster465.autos:443?sni=cosmic-shepherd.rooster465.autos&type=tcp&fp=chrome#0493 | 🇮🇪 Ireland | [210ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#0494 | 🇰🇷 South Korea | [789ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@driving-antelope.rooster465.autos:443#0495 | 🇸🇬 Singapore | [625ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@91.199.84.199:443?sni=liberal-salmon.rooster465.autos&fp=chrome&type=tcp&path=/#0496 | 🇭🇰 Hong Kong | [571ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@set-gazelle.rooster465.autos:443?sni=set-gazelle.rooster465.autos&allowInsecure=1&type=tcp#0497 | 🇸🇬 Singapore | [713ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@89.39.70.180:443?sni=eager-louse.rooster465.autos&fp=chrome&type=tcp&path=/#0498 | 🇳🇱 Netherlands | [157ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos&fp=chrome&type=tcp&path=/#0499 | 🇰🇷 South Korea | [729ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@right-mastiff.rooster465.autos:443?sni=right-mastiff.rooster465.autos&type=tcp&fp=chrome#0500 | 🇺🇸 United States | [715ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@modern-bulldog.rooster465.autos:443?sni=modern-bulldog.rooster465.autos&type=tcp&path=/#0501 | 🇰🇷 South Korea | [732ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.192:443?sni=45.32.28.232&type=tcp#0502 | 🇹🇼 Taiwan | [742ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@musical-manatee.rooster465.autos:443?security=tls#0503 | 🇰🇷 South Korea | [821ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@kind-unicorn.rooster465.autos:443?mux=1#0504 | 🇭🇰 Hong Kong | [589ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://JA96378052@trusting-moccasin.rooster465.autos:443?allowInsecure=1&sni=trusting-moccasin.rooster465.autos#0505 | 🇯🇵 Japan | [771ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@devoted-heron.rooster465.autos:443?security=tls#0506 | 🇰🇷 South Korea | [751ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@lenient-penguin.rooster465.autos:443?sni=lenient-penguin.rooster465.autos&type=tcp&fp=chrome#0507 | 🇯🇵 Japan | [748ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=relaxing-bluebird.rooster465.autos#0508 | 🇰🇷 South Korea | [827ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://NQ26071394@alive-glider.rooster465.autos:443?sni=alive-glider.rooster465.autos&fp=chrome&type=tcp&path=%2f#0509 | 🇸🇬 Singapore | [783ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@eternal-woodcock.rooster465.autos:443?security=tls#0510 | 🇰🇷 South Korea | [703ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#0511 | 🇳🇱 Netherlands | [297ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@supreme-leopard.rooster465.autos:443?sni=supreme-leopard.rooster465.autos&type=tcp&fp=chrome#0512 | 🇰🇷 South Korea | [689ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&type=tcp&fp=chrome#0513 | 🇸🇬 Singapore | [623ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@safe-frog.rooster465.autos:443?sni=safe-frog.rooster465.autos&type=tcp&fp=chrome#0514 | 🇯🇵 Japan | [729ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@89.39.70.242:443?sni=upward-hedgehog.rooster465.autos&fp=chrome&type=tcp&path=/#0515 | 🇳🇱 Netherlands | [166ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@intimate-moray.rooster465.autos:443?mux=1#0516 | 🇸🇬 Singapore | [760ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@quick-ant.rooster465.autos:443?mux=1#0517 | 🇯🇵 Japan | [710ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@renewing-leopard.rooster465.autos:443?sni=renewing-leopard.rooster465.autos&type=tcp&fp=chrome#0518 | 🇰🇷 South Korea | [746ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@47.128.146.47:443?security=tls&sni=pure-ram.rooster465.autos&allowInsecure=1#0519 | 🇸🇬 Singapore | [622ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@185.14.47.164:443?allowInsecure=0&sni=saved-mudfish.rooster465.autos#0520 | 🇭🇰 Hong Kong | [560ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@comic-eel.rooster465.autos:443?sni=comic-eel.rooster465.autos&type=tcp&fp=chrome#0521 | 🇰🇷 South Korea | [731ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@live-javelin.rooster465.autos:443?sni=live-javelin.rooster465.autos&type=tcp&fp=chrome#0522 | 🇯🇵 Japan | [723ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@exotic-turtle.rooster465.autos:443?allowInsecure=1#0523 | 🇮🇪 Ireland | [208ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@ultimate-cardinal.rooster465.autos:443?allowInsecure=0&sni=ultimate-cardinal.rooster465.autos#0524 | 🇺🇸 United States | [719ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@legible-ocelot.rooster465.autos:443?mux=1#0525 | 🇰🇷 South Korea | [734ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@normal-pika.rooster465.autos:443?allowInsecure=0&sni=normal-pika.rooster465.autos#0526 | 🇮🇪 Ireland | [203ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#0527 | 🇰🇷 South Korea | [738ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@neat-octopus.rooster465.autos:443?sni=neat-octopus.rooster465.autos&type=tcp&fp=chrome#0528 | 🇰🇷 South Korea | [707ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@certain-egret.rooster465.autos:443?allowInsecure=1&sni=certain-egret.rooster465.autos#0529 | 🇩🇪 Germany | [196ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org&allowInsecure=1&fp=chrome&type=tcp#0530 | 🇸🇪 Sweden | [267ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WG39087154@crack-martin.rooster465.autos:443?sni=crack-martin.rooster465.autos&fp=chrome&type=tcp&path=%2f#0531 | 🇸🇬 Singapore | [620ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@normal-dory.rooster465.autos:443?security=tls#0532 | 🇯🇵 Japan | [821ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@charmed-cheetah.rooster465.autos:443?sni=charmed-cheetah.rooster465.autos&type=tcp&fp=chrome#0533 | 🇸🇬 Singapore | [635ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@on-roughy.rooster465.autos:443?sni=on-roughy.rooster465.autos&allowInsecure=1&type=tcp#0534 | 🇸🇬 Singapore | [613ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ND91608427@informed-alpaca.rooster465.autos:443?security=tls#0535 | 🇰🇷 South Korea | [721ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@185.14.47.38:443?sni=normal-elk.rooster465.autos&fp=chrome&type=tcp&path=/#0536 | 🇭🇰 Hong Kong | [565ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@04.tokyometropolis.kherson.ua:2053?sni=45.32.28.232&type=tcp#0537 | 🇯🇵 Japan | [710ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=busy-lab.rooster465.autos#0538 | 🇯🇵 Japan | [751ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@fast-drum.rooster465.autos:443?sni=fast-drum.rooster465.autos&fp=chrome&type=tcp&path=/#0539 | 🇯🇵 Japan | [652ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://XG59623478@relaxing-mayfly.rooster465.autos:443?allowInsecure=1#0540 | 🇯🇵 Japan | [722ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@enabled-stud.rooster465.autos:443?sni=enabled-stud.rooster465.autos&type=tcp&fp=chrome#0541 | 🇯🇵 Japan | [794ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@communal-buffalo.rooster465.autos:443?sni=communal-buffalo.rooster465.autos&type=tcp&fp=chrome#0542 | 🇸🇬 Singapore | [625ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PD07395842@on-airedale.rooster465.autos:443?sni=on-airedale.rooster465.autos&type=tcp&fp=chrome#0543 | 🇯🇵 Japan | [733ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@winning-shrimp.rooster465.autos:443?mux=1#0544 | 🇸🇬 Singapore | [624ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://AE62539071@exciting-grizzly.rooster465.autos:443?security=tls&sni=exciting-grizzly.rooster465.autos#0545 | 🇸🇬 Singapore | [663ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls#0546 | 🇰🇷 South Korea | [702ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://HW85960347@social-cod.rooster465.autos:443?allowInsecure=0&sni=social-cod.rooster465.autos#0547 | 🇺🇸 United States | [714ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://CF68213490@star-dodo.rooster465.autos:443?sni=star-dodo.rooster465.autos&type=tcp&fp=chrome#0548 | 🇸🇬 Singapore | [654ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&fp=chrome#0549 | 🇰🇷 South Korea | [708ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@intimate-hog.rooster465.autos:443?mux=1#0550 | 🇸🇬 Singapore | [616ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@ethical-monkfish.rooster465.autos:443?sni=ethical-monkfish.rooster465.autos&allowInsecure=1&type=tcp#0551 | 🇯🇵 Japan | [695ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#0552 | 🇰🇷 South Korea | [802ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FH72359861@lasting-bobcat.rooster465.autos:443?sni=lasting-bobcat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#0553 | 🇰🇷 South Korea | [806ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@fun-poodle.rooster465.autos:443?type=tcp&security=tls&sni=fun-poodle.rooster465.autos&fp=chrome#0554 | 🇸🇬 Singapore | [614ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://PQ05174892@brief-flamingo.rooster465.autos:443?sni=brief-flamingo.rooster465.autos&allowInsecure=1&type=tcp#0555 | 🇸🇬 Singapore | [689ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://65fQmPHHbPcBCfvSHt@hk-2.tr202605.com:465?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0556 | 🇭🇰 Hong Kong | [779ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://FC60532879@saving-sawfly.rooster465.autos:443?sni=saving-sawfly.rooster465.autos&type=tcp&fp=chrome#0557 | 🇸🇬 Singapore | [747ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://ON38567014@growing-ram.rooster465.autos:443?sni=growing-ram.rooster465.autos&type=tcp&fp=chrome#0558 | 🇰🇷 South Korea | [724ms] | 🏴 Black | TG: @FlareFeedtg
+trojan://EQ30679154@kind-grizzly.rooster465.autos:443?mux=1#0559 | 🇸🇬 Singapore | [669ms] | 🏴 Black | TG: @FlareFeedtg
