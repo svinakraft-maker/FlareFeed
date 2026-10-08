@@ -7,7 +7,6 @@
 ### Независимое хранилище VLESS‑подписок на Cloudflare Workers
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
-[![Gitverse mirror](https://img.shields.io/badge/mirror-Gitverse-2b6cb0?style=for-the-badge)](https://gitverse.ru/Nokls/FlareFeed)
 [![Auto-updated](https://img.shields.io/badge/refresh-~every%201h-brightgreen?style=for-the-badge)](#-обновление-подписок)
 [![last update](https://img.shields.io/github/last-commit/svinakraft-maker/flarefeed?label=last%20update&style=for-the-badge&logo=github&color=blue)](https://github.com/svinakraft-maker/flarefeed/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
