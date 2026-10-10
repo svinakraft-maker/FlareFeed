@@ -1,7 +1,7 @@
 # profile-title: BLACK LISTS
 # profile-update-interval: 1
-# Date/Time: 2026-10-11 / 02:08 (Moscow)
-# Count: 221
+# Date/Time: 2026-10-11 / 02:27 (Moscow)
+# Count: 236
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#0001 | 🇺🇸 United States | [9ms] | 🏴 Black | TG: @FlareFeedtg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#0002 | 🇺🇸 United States | [12ms] | 🏴 Black | TG: @FlareFeedtg
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#0003 | 🇺🇸 United States | [16ms] | 🏴 Black | TG: @FlareFeedtg
@@ -223,3 +223,18 @@ vless://e327401a-0897-4d45-8d5a-af685c7ee363@sw.shhflow.xyz:443?security=reality
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@13.143.173.15:443?security=reality&sni=google.com&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4#0219 | 🇫🇮 Finland | [3645ms] | 🏴 Black | TG: @FlareFeedtg
 vless://20dd9433-389e-4573-ba7b-689619cf13da@45.159.79.71:4443?security=reality&sni=sentry.io&path=%2F&flow=xtls-rprx-vision&fp=chrome&pbk=321Ii2xbCoyll6WJ0Qm1Sh8qcC0kxXvUaZhe3kyasD8#0220 | 🇺🇸 United States | [1024ms] | 🏴 Black | TG: @FlareFeedtg
 vless://817be056-2afc-4358-9b8d-5dbe836251f3@192.248.177.39:443?type=raw&security=reality&sni=googleapis.com&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ#0221 | 🇩🇪 Germany | [3032ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#0222 | 🇬🇧 United Kingdom | [2288ms] | 🏴 Black | TG: @FlareFeedtg
+vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&sni=specific3.kandnet.com&flow=xtls-rprx-vision&fp=random&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw#0223 | 🇸🇪 Sweden | [4084ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#0224 | 🇳🇱 Netherlands | [3726ms] | 🏴 Black | TG: @FlareFeedtg
+vless://5347ce17-6883-463b-b5a2-b3c1af3b37ee@45.81.33.194:443?type=raw&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&fp=firefox&pbk=c7ZErLG_xbyKs-WwNIoBuH4GTEVoNuwXz4bulmhGkmM#0225 | 🇷🇺 Russian Federation | [2550ms] | 🏴 Black | TG: @FlareFeedtg
+vless://12e95f93-443c-0002-9a2a-5b318b9124cf@188.225.32.76:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA#0226 | 🇷🇺 Russian Federation | [2958ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#0227 | 🇳🇱 Netherlands | [3324ms] | 🏴 Black | TG: @FlareFeedtg
+vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?type=raw&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&fp=chrome&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ#0228 | 🇮🇩 Indonesia | [3082ms] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206ZTcyYTc5M2Q2MzRkOTk3NDhjZjkwOGQyMWZkOTM1YzM=@205.209.126.205:19049#0229 | 🇺🇸 United States | [2464ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDU0ZjA1OTAzNmMzZmYxZTkwN2FlYjUxMzc3YjJhYzU0ZTYxY2ViNjY2MjI2ZmQ=@45.76.9.57:8389#0230 | 🇺🇸 United States | [3432ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZkFjUmlrYXdoTm9aQWh1@139.84.247.164:8388#0231 | 🇿🇦 South Africa | [2157ms] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#0232 | 🇰🇷 Korea, Republic of | [6389ms] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:8888#0233 | 🇰🇷 Korea, Republic of | [1565ms] | 🏴 Black | TG: @FlareFeedtg
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&sni=updates.cdn-apple.com&fp=firefox&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc#0234 | 🇺🇸 United States | [3675ms] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#0235 | 🇺🇦 Ukraine | [2132ms] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.043.node-for-bigairport.win:20006#0236 | 🇺🇸 United States | [2396ms] | 🏴 Black | TG: @FlareFeedtg
