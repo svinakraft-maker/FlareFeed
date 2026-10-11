@@ -1,7 +1,7 @@
 # profile-title: TOP 500 SECURE
 # profile-update-interval: 1
-# Date/Time: 2026-10-11 / 03:00 (Moscow)
-# Count: 70
+# Date/Time: 2026-10-11 / 03:18 (Moscow)
+# Count: 71
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&sni=www.amazon.com&path=%2FXIXVPN%3Fed%3D2560&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8#0001 | 🇺🇸 United States | [30ms] | 🏴 Black | TG: @FlareFeedtg
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#0002 | 🇺🇸 United States | [48ms] | 🏴 Black | TG: @FlareFeedtg
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&sni=fuck.rkn&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#0003 | 🇺🇸 United States | [49ms] | 🏴 Black | TG: @FlareFeedtg
@@ -69,6 +69,7 @@ vless://5347ce17-6883-463b-b5a2-b3c1af3b37ee@45.81.33.194:443?type=raw&security=
 vless://12e95f93-443c-0002-9a2a-5b318b9124cf@188.225.32.76:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA#0065 | 🇷🇺 Russian Federation | [2958ms] | 🏴 Black | TG: @FlareFeedtg
 vless://817be056-2afc-4358-9b8d-5dbe836251f3@192.248.177.39:443?type=raw&security=reality&sni=googleapis.com&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ#0066 | 🇩🇪 Germany | [3032ms] | 🏴 Black | TG: @FlareFeedtg
 vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?type=raw&security=reality&sni=aws.amazon.com&flow=xtls-rprx-vision&fp=chrome&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ#0067 | 🇮🇩 Indonesia | [3082ms] | 🏴 Black | TG: @FlareFeedtg
-vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@13.143.173.15:443?security=reality&sni=google.com&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4#0068 | 🇫🇮 Finland | [3645ms] | 🏴 Black | TG: @FlareFeedtg
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&sni=updates.cdn-apple.com&fp=firefox&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc#0069 | 🇺🇸 United States | [3675ms] | 🏴 Black | TG: @FlareFeedtg
-vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&sni=specific3.kandnet.com&flow=xtls-rprx-vision&fp=random&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw#0070 | 🇸🇪 Sweden | [4084ms] | 🏴 Black | TG: @FlareFeedtg
+vless://7918e6f6-df8f-4a20-9c1d-59dbd1f22770@nlhy2.richforever.ru:8443?security=reality&sni=nlhy2.richforever.ru&flow=xtls-rprx-vision&fp=chrome&pbk=fKz8iMdY9dfMURdjdVcb9mYOJz2FlexJ3_v8mlM2RTE#0068 | 🇳🇱 Netherlands | [3430ms] | 🏴 Black | TG: @FlareFeedtg
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@13.143.173.15:443?security=reality&sni=google.com&flow=xtls-rprx-vision&fp=firefox&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4#0069 | 🇫🇮 Finland | [3645ms] | 🏴 Black | TG: @FlareFeedtg
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&sni=updates.cdn-apple.com&fp=firefox&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc#0070 | 🇺🇸 United States | [3675ms] | 🏴 Black | TG: @FlareFeedtg
+vless://621bcb9e-7df5-427b-a9d4-6e87223c8bca@2.26.55.163:443?security=reality&sni=specific3.kandnet.com&flow=xtls-rprx-vision&fp=random&pbk=0eWdILjmoRVSJFDMiQskgkKG2Fc4TEMZ3XEPJ8ez9Hw#0071 | 🇸🇪 Sweden | [4084ms] | 🏴 Black | TG: @FlareFeedtg
