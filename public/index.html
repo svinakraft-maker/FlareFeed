@@ -201,30 +201,21 @@ h1 .l2{display:block;background:linear-gradient(100deg,#ff5a00,#ffa040 35%,#ffe3
 .copy:active{transform:translateY(0) scale(.97)}
 .copy.ok{background:#fff;color:#000}
 
-/* ---------- mirror panel ---------- */
-.mirror{border:1px solid var(--line);border-radius:var(--r);background:linear-gradient(180deg,var(--panel2),var(--panel));padding:30px;position:relative;overflow:hidden}
-.mirror::before{content:"";position:absolute;top:-120px;right:-80px;width:320px;height:320px;border-radius:50%;pointer-events:none!important;
-  background:radial-gradient(circle,rgba(255,106,0,.16),transparent 68%);filter:blur(6px)}
-.mirror>*{position:relative;z-index:2}
-.mirror .note{color:var(--muted);font-size:14.5px;line-height:1.7;margin-bottom:10px;max-width:760px}
-.mirror .note b{color:var(--orange2);font-weight:600}
-.mrow{padding:20px 0;border-top:1px solid var(--line)}
-.mrow:first-of-type{border-top:none;margin-top:16px}
-.mlabel{font-family:var(--mono);font-size:11.5px;letter-spacing:.18em;color:var(--muted2);margin-bottom:11px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.mlabel b{color:#fff;letter-spacing:.1em}
-.mlabel .pill{font-size:10px;letter-spacing:.12em;color:var(--ok);border:1px solid rgba(61,220,132,.35);background:rgba(61,220,132,.08);padding:3px 9px;border-radius:999px}
 
 .mgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:20px}
 .mblock{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:var(--r);padding:24px;
   position:relative;overflow:hidden;transition:border-color .4s,transform .4s}
 .mblock:hover{border-color:rgba(255,255,255,.18);transform:translateY(-4px)}
-.bhead{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px}
+.bhead{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}
+.bhead h4{flex:1;min-width:0}
 .mblock h4{font-family:var(--disp);font-size:15.5px;font-weight:700;display:flex;gap:10px;align-items:center;flex-wrap:wrap;letter-spacing:-.02em}
 .mblock h4 .mfname{font-family:var(--mono);font-size:10.5px;color:var(--muted2);font-weight:400;letter-spacing:.06em}
-.checkall{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--muted);background:rgba(255,255,255,.04);
+.checkall,.copyall{font-family:var(--mono);font-size:10px;letter-spacing:.12em;color:var(--muted);background:rgba(255,255,255,.04);
   border:1px solid var(--line);border-radius:9px;padding:8px 12px;transition:.25s;white-space:nowrap;flex:none}
-.checkall:hover{color:#fff;border-color:rgba(255,106,0,.5);background:rgba(255,106,0,.12)}
+.checkall:hover,.copyall:hover{color:#fff;border-color:rgba(255,106,0,.5);background:rgba(255,106,0,.12)}
 .checkall.busy{opacity:.5;pointer-events:none}
+.copyall{color:var(--orange2);border-color:rgba(255,106,0,.3)}
+.bact{display:flex;gap:6px;flex:none;align-items:center}
 .mline{display:flex;gap:9px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
 .mline .mname{flex:none;width:126px;font-family:var(--mono);font-size:10.5px;color:var(--muted);letter-spacing:.04em;display:flex;align-items:center;gap:7px;min-width:0}
 .mline .mname span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -315,7 +306,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
   .mline .mname{width:100%}
   .mline a{width:100%;flex:none;white-space:normal;word-break:break-all}
   .mline .copy{width:100%}
-  .mirror,.mblock{padding:22px 18px}
+  .mblock{padding:22px 18px}
   .tbody{font-size:11px;min-height:236px}
   .faq-q{font-size:14.5px;padding:19px 18px}
   .faq-a p{padding:0 18px 20px}
@@ -340,8 +331,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
     <a class="logo" href="https://vless.svinakraft.workers.dev/#top"><span class="bolt">⚡</span>FLARE<b>FEED</b></a>
     <nav id="nav">
       <a href="https://vless.svinakraft.workers.dev/#subs" class="">ПОДПИСКИ</a>
-      <a href="https://vless.svinakraft.workers.dev/#ru" class="">RU ЗЕРКАЛО</a>
-      <a href="https://vless.svinakraft.workers.dev/#world" class="active">МИР</a>
+      <a href="https://vless.svinakraft.workers.dev/#world" class="">МИР</a>
       <a href="https://vless.svinakraft.workers.dev/#how">КАК</a>
       <a href="https://vless.svinakraft.workers.dev/#faq">FAQ</a>
     </nav>
@@ -351,7 +341,6 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
 </header>
 <div id="mnav">
   <a href="https://vless.svinakraft.workers.dev/#subs">ПОДПИСКИ</a>
-  <a href="https://vless.svinakraft.workers.dev/#ru">RU ЗЕРКАЛО</a>
   <a href="https://vless.svinakraft.workers.dev/#world">ЗЕРКАЛА МИРА</a>
   <a href="https://vless.svinakraft.workers.dev/#how">КАК ПОДКЛЮЧИТЬ</a>
   <a href="https://vless.svinakraft.workers.dev/#faq">FAQ</a>
@@ -368,7 +357,6 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
         <span class="tag">⚡ Авто-обновление ~1 час</span>
         <span class="tag">🛰 VLESS · VMess · Trojan · SS · Hy2 · TUIC</span>
         <span class="tag">🛡️ Top 500 Secure · Reality</span>
-        <span class="tag">🇷🇺 Зеркало на Gitverse</span>
       </div>
       <div class="cta reveal in">
         <button class="btn btn-p" type="button" id="ctaCopy">⧉ СКОПИРОВАТЬ MOBILE</button>
@@ -390,8 +378,8 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
 </div>
 
 <div class="mq"><div class="mq-track">
-  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
-  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> GITVERSE MIRROR <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
+  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
+  <span>VLESS <b>✦</b> VMESS <b>✦</b> TROJAN <b>✦</b> SHADOWSOCKS <b>✦</b> HYSTERIA2 <b>✦</b> TUIC <b>✦</b> TOP 500 SECURE <b>✦</b> AUTO-UPDATE <b>✦</b> NO CACHE <b>✦</b> REALITY <b>✦</b> XHTTP <b>✦</b> GRPC <b>✦</b> QUIC <b>✦</b>&nbsp;</span>
 </div></div>
 
 <div class="wrap">
@@ -444,33 +432,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
     </article>
   </div>
 
-  <div class="shead reveal in" id="ru"><span class="idx">02 //</span><h3>RU зеркало на Gitverse</h3></div>
-  <div class="mirror reveal in">
-    <p class="note">Резервные ссылки на российском Gitverse. Работают <b>без Cloudflare и GitHub</b> — отдаются напрямую через raw-API. Спасают, когда основной домен недоступен у вашего провайдера.</p>
-    <div class="mrow">
-      <div class="mlabel"><b>ALL</b> // ЗЕРКАЛО <span class="pill">RU</span></div>
-      <div class="linkrow">
-        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt</a>
-        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/podpiska.txt">COPY</button>
-      </div>
-    </div>
-    <div class="mrow">
-      <div class="mlabel"><b>MOBILE</b> // ТОП-100 · ЗЕРКАЛО <span class="pill">RU</span></div>
-      <div class="linkrow">
-        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt</a>
-        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/fastest.txt">COPY</button>
-      </div>
-    </div>
-    <div class="mrow">
-      <div class="mlabel"><b>TOP 500 SECURE</b> // ЗЕРКАЛО <span class="pill">RU</span></div>
-      <div class="linkrow">
-        <a class="url" target="_blank" rel="noopener" href="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt</a>
-        <button class="copy" type="button" data-url="https://gitverse.ru/api/repos/Nokls/FlareFeed/raw/branch/main/public/Top500.txt">COPY</button>
-      </div>
-    </div>
-  </div>
-
-  <div class="shead reveal in" id="world"><span class="idx">03 //</span><h3>Зеркала по всему миру</h3></div>
+  <div class="shead reveal in" id="world"><span class="idx">02 //</span><h3>Зеркала по всему миру</h3></div>
   <p class="hint reveal in">Если основная ссылка не открывается — бери любое зеркало: содержимое файлов идентично (<b>проверено по md5 с VPS</b>). Мёртвые зеркала (statically, ghproxy.com, gitmirror, hubp) в список не включены.</p>
   <div class="legend reveal in">
     <span><i style="background:#3ddc84"></i>хост отвечает</span>
@@ -479,7 +441,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
   </div>
   <div class="mgrid reveal in" id="mirrors"><div class="mblock" data-block="0"><div class="bhead"><h4>🌐 ALL <span class="mfname">podpiska.txt</span></h4><button class="checkall" type="button" data-check="0">⟳ ПРОВЕРИТЬ</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>CF Workers</span></span><a href="https://vless.svinakraft.workers.dev/podpiska.txt" target="_blank" rel="noopener">https://vless.svinakraft.workers.dev/podpiska.txt</a><button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>GitHub Raw</span></span><a href="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>githack</span></span><a href="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>jsdelivr</span></span><a href="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/podpiska.txt" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>gh-proxy.org</span></span><a href="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>hk.gh-proxy</span></span><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>cdn.gh-proxy</span></span><a href="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>edgeone.gh-proxy</span></span><a href="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt" target="_blank" rel="noopener">https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt</a><button class="copy" type="button" data-url="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/podpiska.txt">COPY</button></div></div><div class="mblock" data-block="1"><div class="bhead"><h4>📱 MOBILE <span class="mfname">fastest.txt</span></h4><button class="checkall" type="button" data-check="1">⟳ ПРОВЕРИТЬ</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>CF Workers</span></span><a href="https://vless.svinakraft.workers.dev/fastest.txt" target="_blank" rel="noopener">https://vless.svinakraft.workers.dev/fastest.txt</a><button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>GitHub Raw</span></span><a href="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>githack</span></span><a href="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot ok" type="button" title="хост отвечает"></button><span>jsdelivr</span></span><a href="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/fastest.txt" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/fastest.txt</a><button class="copy" type="button" data-url="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>gh-proxy.org</span></span><a href="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>hk.gh-proxy</span></span><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>cdn.gh-proxy</span></span><a href="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot bad" type="button" title="нет ответа из вашей сети"></button><span>edgeone.gh-proxy</span></span><a href="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt" target="_blank" rel="noopener">https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt</a><button class="copy" type="button" data-url="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/fastest.txt">COPY</button></div></div><div class="mblock" data-block="2"><div class="bhead"><h4>🛡 TOP 500 SECURE <span class="mfname">Top500.txt</span></h4><button class="checkall" type="button" data-check="2">⟳ ПРОВЕРИТЬ</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>CF Workers</span></span><a href="https://vless.svinakraft.workers.dev/Top500.txt" target="_blank" rel="noopener">https://vless.svinakraft.workers.dev/Top500.txt</a><button class="copy" type="button" data-url="https://vless.svinakraft.workers.dev/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>GitHub Raw</span></span><a href="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>githack</span></span><a href="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://raw.githack.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>jsdelivr</span></span><a href="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/Top500.txt" target="_blank" rel="noopener">https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/Top500.txt</a><button class="copy" type="button" data-url="https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>gh-proxy.org</span></span><a href="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>hk.gh-proxy</span></span><a href="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>cdn.gh-proxy</span></span><a href="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div><div class="mline"><span class="mname"><button class="sdot" type="button" title="проверить этот хост"></button><span>edgeone.gh-proxy</span></span><a href="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt" target="_blank" rel="noopener">https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt</a><button class="copy" type="button" data-url="https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/Top500.txt">COPY</button></div></div></div>
 
-  <div class="shead reveal in" id="how"><span class="idx">04 //</span><h3>Как подключиться</h3></div>
+  <div class="shead reveal in" id="how"><span class="idx">03 //</span><h3>Как подключиться</h3></div>
   <div class="steps">
     <div class="step reveal in">
       <div class="num">01</div>
@@ -502,7 +464,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
     <span class="tag">💻 v2rayN</span><span class="tag">💻 NekoBox</span><span class="tag">💻 Husi</span><span class="tag">🍏 Shadowrocket</span>
   </div>
 
-  <div class="shead reveal in" id="faq"><span class="idx">05 //</span><h3>Вопросы</h3></div>
+  <div class="shead reveal in" id="faq"><span class="idx">04 //</span><h3>Вопросы</h3></div>
   <div class="faq reveal in" id="faqBox">
     <div class="faq-item open">
       <button class="faq-q" type="button">Что вообще такое «подписка»? <span class="faq-ic">+</span></button>
@@ -518,7 +480,7 @@ footer .small{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:
     </div>
     <div class="faq-item">
       <button class="faq-q" type="button">Ссылка не открывается. Что делать? <span class="faq-ic">+</span></button>
-      <div class="faq-a"><div><p>Возьмите любое зеркало из блоков выше — содержимое идентично. Для России есть отдельное <b>зеркало на Gitverse</b>, которое работает без Cloudflare и GitHub. Кнопка «ПРОВЕРИТЬ» рядом с каждым блоком покажет, какие хосты отвечают из вашей сети прямо сейчас.</p></div></div>
+      <div class="faq-a"><div><p>Возьмите любое зеркало из блоков выше — содержимое идентично, все файлы сверены по md5. Если не открывается ничего, смените DNS (например, на 1.1.1.1 или 8.8.8.8) или включите VPN — часто это разблокирует доступ. Кнопка «ПРОВЕРИТЬ» рядом с каждым блоком покажет, какие хосты отвечают из вашей сети прямо сейчас.</p></div></div>
     </div>
     <div class="faq-item">
       <button class="faq-q" type="button">Это безопасно? <span class="faq-ic">+</span></button>
@@ -707,7 +669,10 @@ if(mirrorsBox){
     }).join('');
     return '<div class="mblock" data-block="'+bi+'">' +
       '<div class="bhead"><h4>'+esc(F.title)+' <span class="mfname">'+esc(F.file)+'</span></h4>' +
-      '<button class="checkall" type="button" data-check="'+bi+'">⟳ ПРОВЕРИТЬ</button></div>' + rows + '</div>';
+      '<div class="bact">' +
+        '<button class="copyall" type="button" data-all="'+bi+'" title="Скопировать все ссылки блока">⧉ ВСЁ</button>' +
+        '<button class="checkall" type="button" data-check="'+bi+'">⟳ ПРОВЕРИТЬ</button>' +
+      '</div></div>' + rows + '</div>';
   }).join('');
   bindCopies(mirrorsBox);
 }
@@ -753,6 +718,20 @@ on(D, 'click', function(e){
       var s = dot.className.indexOf('ok') > -1;
       toast(s ? 'Хост отвечает ✔' : 'Хост не отвечает ✖');
     });
+    return;
+  }
+
+  var all = t.closest('.copyall');
+  if(all){
+    e.preventDefault();
+    var abi = all.getAttribute('data-all');
+    var ablock = D.querySelector('.mblock[data-block="'+abi+'"]');
+    if(!ablock) return;
+    var urls = [].slice.call(ablock.querySelectorAll('.mline .copy'))
+      .map(function(b){ return b.getAttribute('data-url'); })
+      .filter(Boolean);
+    if(!urls.length){ toast('Нет ссылок'); return; }
+    copyText(urls.join('\n'), all);
     return;
   }
 
@@ -876,7 +855,7 @@ if(!reduce){
 /* ========= ПРОГРЕСС + HEADER + АКТИВНЫЙ ПУНКТ МЕНЮ ========= */
 var prog = D.getElementById('progress'), hdr = D.getElementById('hdr');
 var navLinks = qsa('#nav a');
-var sections = ['subs','ru','world','how','faq'].map(function(id){ return D.getElementById(id); }).filter(Boolean);
+var sections = ['subs','world','how','faq'].map(function(id){ return D.getElementById(id); }).filter(Boolean);
 var ticking = false;
 function onScroll(){
   var y = W.scrollY || W.pageYOffset || 0;
