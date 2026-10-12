@@ -95,7 +95,6 @@ https://vless.svinakraft.workers.dev/ss.txt
 
 - ⚡ **Скорость** — файлы раздаются через глобальный CDN Cloudflare
 - 🌍 **Доступность** — работает там, где заблокирован GitHub
-- 🇷🇺 **Зеркало в РФ** — Gitverse отдаёт подписки без Cloudflare и GitHub
 - 🔄 **Автообновление** — список пересобирается ~каждый час, клиенты подтягивают свежее
 - 🆓 **Бесплатно** — Cloudflare Workers даёт 100 000 запросов в день бесплатно
 - 📱 **Универсальность** — работает во всех популярных клиентах
@@ -139,8 +138,7 @@ https://vless.svinakraft.workers.dev/ss.txt
 **Логика работы:**
 1. 📥 Пользователь запрашивает файл (например, `podpiska.txt`)
 2. 🔍 **Основной канал:** Worker берёт файл из статики (`env.ASSETS`), подменяет `Content-Type` на `text/plain` и отдаёт чистый текст
-3. 🇷🇺 **Зеркало:** Gitverse отдаёт тот же файл напрямую через raw‑API — без Cloudflare, работает из РФ
-4. 📤 Клиент парсит готовые конфиги
+3. 📤 Клиент парсит готовые конфиги
 
 ---
 
@@ -162,7 +160,7 @@ https://vless.svinakraft.workers.dev/ss.txt
 
 ## 🔄 Обновление подписок
 
-Авто‑чекер пересобирает список **примерно каждый час**; в оба файла (и в зеркало на Gitverse) изменения попадают автоматически. Большинство клиентов обновляют подписки сами по своему интервалу.
+Авто‑чекер пересобирает список **примерно каждый час**; в оба файла изменения попадают автоматически. Большинство клиентов обновляют подписки сами по своему интервалу.
 
 **Ручное обновление:**
 - **v2rayN:** правый клик по подписке → Обновить
@@ -180,14 +178,11 @@ A: Файл содержит публичные VLESS‑конфигурации
 **Q: Почему у меня не подключается?**
 A: Проверь: 1) актуальность конфигов (могли устареть), 2) корректность настроек клиента, 3) доступность Cloudflare в твоей сети.
 
-**Q: Основная ссылка (workers.dev) не открывается. Что делать?**
-A: Используй **зеркало на Gitverse** (блок «🇷🇺 ЗЕРКАЛО» выше) — оно работает без Cloudflare и GitHub.
-
 **Q: Как часто обновляются конфиги?**
 A: Авто‑чекер пересобирает список ~каждый час. Следи за бейджем *last update* и шапкой файла (дата/время/количество).
 
 **Q: Могу ли я предложить свои конфиги?**
-A: Да! Открой Pull Request или Issue (на [GitHub](https://github.com/svinakraft-maker/flarefeed) или [Gitverse](https://gitverse.ru/Nokls/FlareFeed/issues)).
+A: Да! Открой Pull Request или Issue (на [GitHub](https://github.com/svinakraft-maker/flarefeed) 
 
 
 ## 📄 Лицензия
@@ -202,7 +197,7 @@ A: Да! Открой Pull Request или Issue (на [GitHub](https://github.co
 
 **Made with ❤️ by [@svinakraft-maker](https://github.com/svinakraft-maker)**
 
-[🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐙 GitHub](https://github.com/svinakraft-maker/flarefeed) • [🇷🇺 Gitverse](https://gitverse.ru/Nokls/FlareFeed) • [🐛 Issues](https://github.com/svinakraft-maker/flarefeed/issues)
+[🌐 Подписка](https://vless.svinakraft.workers.dev/podpiska.txt) • [🐙 GitHub](https://github.com/svinakraft-maker/flarefeed) • [🐛 Issues](https://github.com/svinakraft-maker/flarefeed/issues)
 
 </div>
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z25rOXRoeW1xODR1dWh2b3UycTd6YnB0Y2hlMTZtaDluZW1uNnl4ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CeYEKonyFQyzWhxmvd/giphy.gif" width="40"> ДИСКЛЕЙМЕР
