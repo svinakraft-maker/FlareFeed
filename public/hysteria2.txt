@@ -2,365 +2,384 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 360 configs · last update: 11:23 27/10/2026
+#announce: t.me/FlareFeedtg · 379 configs · last update: 15:13 27/10/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org#0001 | 🇧🇷 Brazil | [20ms4.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&insecure=1&allowInsecure=1#0002 | 🌐 CDN77 | [62ms15.6mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.240.153:4444?sni=swo1.nexfile.net#0003 | 🇸🇪 Sweden | [101ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37181?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0004 | 🇳🇱 Netherlands | [104ms25.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.181:4444?sni=fl2.nexfile.net#0005 | 🇫🇮 Finland | [111ms60.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@31.76.8.20:4443?sni=nl1.obxodvpn.us#0006 | 🇫🇮 Finland | [180ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.109:4443?sni=de3.shvpn.ru#0007 | 🇩🇪 Germany | [201ms15.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24000?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local&mport=24000-24199,37000-37199#0008 | 🇳🇱 Netherlands | [207ms27.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#0009 | 🇫🇷 France | [219ms21.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=88.99.213.222#0010 | 🇩🇪 Germany | [220ms15.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@89.105.219.106:8443?sni=speedtestmark.com#0011 | 🇳🇱 Netherlands | [221ms16.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#0012 | 🇫🇷 France | [224ms22.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33130?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0013 | 🇨🇭 Switzerland | [225ms1.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#0014 | 🇳🇱 Netherlands | [228ms23.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#0015 | 🌐 Unknown | [231ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33092?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0016 | 🇨🇭 Switzerland | [232ms1.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24111?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0017 | 🇳🇱 Netherlands | [234ms10.7mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=vpn-fr-001.fastervpn.world#0018 | 🇫🇷 France | [237ms8.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443#0019 | 🇧🇷 Brazil | [238ms4.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0020 | 🇨🇭 Switzerland | [239ms1.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1:gfhysteria2024@5.129.235.85:443?insecure=1#0021 | 🇳🇱 Netherlands | [241ms13.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21046?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0022 | 🇨🇭 Switzerland | [242ms1.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net#0023 | 🇳🇱 Netherlands | [244ms23.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@194.76.147.34:443?sni=hys-eu.letsconnectpoint.com#0024 | 🇫🇷 France | [245ms19.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@ee2.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0025 | 🇪🇪 Estonia | [246ms27.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=5.45.100.100#0026 | 🇩🇪 Germany | [247ms19.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0027 | 🇨🇭 Switzerland | [255ms1.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de2.shvpn.ru:4443?sni=de2.shvpn.ru#0028 | 🇩🇪 Germany | [259ms19.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de4.shvpn.ru:4443?sni=de4.shvpn.ru#0029 | 🇩🇪 Germany | [259ms17.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=13.36.234.11#0030 | 🇫🇷 France | [260ms11.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#0031 | 🇩🇪 Germany | [261ms24.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.232.62:4443?sni=nl1.obxodvpn.us#0032 | 🇳🇱 Netherlands | [263ms18.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592#0033 | 🇷🇺 Russia | [265ms17.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#0034 | 🇳🇱 Netherlands | [267ms14.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#0035 | 🇩🇪 Germany | [268ms23.9mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0036 | 🇳🇱 Netherlands | [275ms21.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0037 | 🇳🇱 Netherlands | [278ms11.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#0038 | 🇳🇱 Netherlands | [279ms26.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de5.shvpn.ru:4443?sni=de5.shvpn.ru#0039 | 🇩🇪 Germany | [280ms22.9mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=5.129.235.85#0040 | 🇳🇱 Netherlands | [283ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=nl-hy-test.tcp-reset-club.net#0041 | 🇳🇱 Netherlands | [286ms26.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?#0042 | 🇳🇱 Netherlands | [288ms25.7mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33117?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0043 | 🇨🇭 Switzerland | [288ms2.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.239.84:4443?sni=nl1.obxodvpn.us#0044 | 🇪🇪 Estonia | [291ms21.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#0045 | 🌐 Unknown | [293ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de3.shvpn.ru:4443?sni=de3.shvpn.ru#0046 | 🇩🇪 Germany | [302ms23.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.156:4444?sni=bl3.nexfile.net#0047 | 🇵🇱 Poland | [302ms16.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1#0048 | 🇨🇭 Switzerland | [303ms15.5mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#0049 | 🌐 Unknown | [304ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl2.shvpn.ru:4443#0050 | 🇵🇱 Poland | [305ms21.6mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444?hop_interval=10#0051 | 🇵🇱 Poland | [309ms10.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@91.103.140.6:443?sni=fl.solomon-planet.ru#0052 | 🇳🇱 Netherlands | [311ms15.1mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443#0053 | 🇳🇱 Netherlands | [311ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=tcp-reset-club.net#0054 | 🇳🇱 Netherlands | [314ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#0055 | 🇳🇱 Netherlands | [315ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0056 | 🇫🇷 France | [316ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.180.143:4443?sni=pl2.shvpn.ru#0057 | 🇵🇱 Poland | [318ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@nl5.shvpn.ru:4443?sni=nl5.shvpn.ru#0058 | 🇳🇱 Netherlands | [318ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33044?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0059 | 🇨🇭 Switzerland | [318ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local&mport=21000-21199,33000-33199#0060 | 🇨🇭 Switzerland | [320ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de4.shvpn.ru:4443#0061 | 🇩🇪 Germany | [320ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21067?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0062 | 🇨🇭 Switzerland | [321ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net#0063 | 🇳🇱 Netherlands | [325ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?insecure=1&sni=scrap.halyvanedorogo.ru#0064 | 🇵🇱 Poland | [327ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444?sni=bl3.nexfile.net&security=tls#0065 | 🇵🇱 Poland | [328ms15.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21084?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0066 | 🇨🇭 Switzerland | [333ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1&sni=109.235.49.234#0067 | 🇳🇱 Netherlands | [336ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.104:4444?sni=pl2.nexfile.net#0068 | 🇵🇱 Poland | [336ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=t.me#0069 | 🇫🇷 France | [337ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?insecure=1&sni=scrap.halyvanedorogo.ru#0070 | 🇵🇱 Poland | [338ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.181.179:4443?sni=pl1.shvpn.ru#0071 | 🇵🇱 Poland | [342ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33133?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0072 | 🇨🇭 Switzerland | [343ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?sni=promo.betust.net&alpn=h3#0073 | 🇳🇱 Netherlands | [345ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#0074 | 🇩🇪 Germany | [346ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24044?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0075 | 🇳🇱 Netherlands | [350ms11.2mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#0076 | 🇳🇱 Netherlands | [359ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://miaoge110@5.45.100.100:51511?insecure=1#0077 | 🇩🇪 Germany | [360ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@195.177.94.166:443?sni=fr2-cl3.happy-glonaris.top#0078 | 🇫🇷 France | [360ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl2.shvpn.ru:4443?sni=pl2.shvpn.ru#0079 | 🇵🇱 Poland | [360ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#0080 | 🇳🇱 Netherlands | [362ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=194.87.118.184#0081 | 🇷🇺 Russia | [364ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://mhsl@88.99.213.222:14444?insecure=1#0082 | 🇩🇪 Germany | [366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443#0083 | 🇩🇪 Germany | [367ms20.4mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#0084 | 🇧🇷 Brazil | [368ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?allowInsecure=1&downmbps=50&insecure=1&sni=css.rbxcdn.com&type=tcp&upmbps=10#0085 | 🇫🇷 France | [371ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@nl5.shvpn.ru:4443#0086 | 🇳🇱 Netherlands | [374ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=bing.com#0087 | 🇩🇪 Germany | [378ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=off#0088 | 🇨🇭 Switzerland | [381ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@pl1.shvpn.ru:4443?sni=pl1.shvpn.ru#0089 | 🇵🇱 Poland | [381ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@fl2.nexfile.net:4444?sni=fl2.nexfile.net&security=tls#0090 | 🇫🇮 Finland | [383ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21182?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0091 | 🇫🇷 France | [384ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444#0092 | 🇵🇱 Poland | [386ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#0093 | 🇫🇷 France | [386ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#0094 | 🇳🇱 Netherlands | [387ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21000?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local&mport=21000-21199,33000-33199#0095 | 🇫🇷 France | [389ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1&sni=tcp-reset-club.net#0096 | 🇳🇱 Netherlands | [389ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com#0097 | 🇳🇱 Netherlands | [389ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#0098 | 🇫🇷 France | [390ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444?sni=bl2.nexfile.net&security=tls#0099 | 🇵🇱 Poland | [394ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=140.238.213.114#0100 | 🇨🇭 Switzerland | [396ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#0101 | 🇫🇷 France | [397ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#0102 | 🇨🇭 Switzerland | [398ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8447?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0103 | 🇫🇷 France | [403ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@2.27.205.87:4443?sni=nl5.shvpn.ru#0104 | 🇳🇱 Netherlands | [403ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#0105 | 🇳🇱 Netherlands | [405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0106 | 🇳🇱 Netherlands | [405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1#0107 | 🇫🇷 France | [409ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0108 | 🇫🇷 France | [414ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8446?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0109 | 🇫🇷 France | [417ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@se3.shvpn.ru:4443?sni=se3.shvpn.ru#0110 | 🇸🇪 Sweden | [418ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=match-stream.lovkisport.blog#0111 | 🇷🇺 Russia | [418ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1#0112 | 🇳🇱 Netherlands | [421ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.76.24.11:4443?sni=de1.shvpn.ru#0113 | 🇩🇪 Germany | [422ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#0114 | 🇩🇪 Germany | [426ms18.3mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@swo1.nexfile.net:4444?sni=swo1.nexfile.net&security=tls#0115 | 🇸🇪 Sweden | [429ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#0116 | 🇳🇱 Netherlands | [433ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=62.210.7.139#0117 | 🇫🇷 France | [435ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=viber.com#0118 | 🇳🇱 Netherlands | [437ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de2.shvpn.ru:4443#0119 | 🇩🇪 Germany | [443ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@de1.shvpn.ru:4443?sni=de1.shvpn.ru#0120 | 🇩🇪 Germany | [444ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#0121 | 🇳🇱 Netherlands | [444ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls#0122 | 🇩🇪 Germany | [446ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#0123 | 🇷🇺 Russia | [449ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=google.com#0124 | 🇫🇷 France | [450ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=nl-hy-test.tcp-reset-club.net#0125 | 🇳🇱 Netherlands | [452ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@fl2.nexfile.net:4444?hop_interval=10#0126 | 🇫🇮 Finland | [458ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&sni=vpn-de-002.fastervpn.world#0127 | 🇩🇪 Germany | [459ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#0128 | 🇩🇪 Germany | [460ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?insecure=1&sni=xby.mangshe.xyz#0129 | 🇪🇸 Spain | [466ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=nl-hy-test.tcp-reset-club.net#0130 | 🇳🇱 Netherlands | [472ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#0131 | 🇩🇪 Germany | [476ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1#0132 | 🇺🇸 United States | [477ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?sni=fl2.nexfile.net#0133 | 🇫🇮 Finland | [479ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444?sni=pl2.nexfile.net&security=tls#0134 | 🇵🇱 Poland | [489ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124.21freedom.net#0135 | 🇷🇺 Russia | [499ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.55:4443?sni=de5.shvpn.ru#0136 | 🇩🇪 Germany | [500ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c8ed6cd1-6566-4f7a-819e-1c55b2b360c9@153.56.210.134:34121?insecure=1&obfs=salamander&obfs-password=9a33460c-b037-47aa-a606-d04211f4e0ec&sni=www.bing.com#0137 | 🇹🇷 Turkey | [504ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@se3.shvpn.ru:4443#0138 | 🇸🇪 Sweden | [506ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#0139 | 🇩🇪 Germany | [509ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8445?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0140 | 🇫🇷 France | [516ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#0141 | 🇺🇸 United States | [524ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#0142 | 🇫🇷 France | [528ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#0143 | 🇷🇺 Russia | [528ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.177.159:4443?sni=se3.shvpn.ru#0144 | 🇸🇪 Sweden | [529ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.80:4443?sni=de2.shvpn.ru#0145 | 🇩🇪 Germany | [530ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#0146 | 🇳🇱 Netherlands | [531ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=t.me#0147 | 🇳🇱 Netherlands | [536ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=off#0148 | 🇷🇺 Russia | [538ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#0149 | 🇩🇪 Germany | [550ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443?sni=fr2-cl3.happy-glonaris.top#0150 | 🇫🇷 France | [551ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#0151 | 🇩🇪 Germany | [555ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#0152 | 🇺🇸 United States | [559ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#0153 | 🇳🇱 Netherlands | [560ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#0154 | 🇩🇪 Germany | [569ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&security=tls#0155 | 🇩🇪 Germany | [570ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&sni=127.0.0.1#0156 | 🇷🇺 Russia | [600ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.183.5:4443?sni=de4.shvpn.ru#0157 | 🇩🇪 Germany | [606ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.152:4444?sni=bl2.nexfile.net#0158 | 🇵🇱 Poland | [613ms16.8mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443#0159 | 🇫🇷 France | [616ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://64c05afc-ce81-4ba0-b697-afa04da1427e@104.168.6.236:44443?insecure=1&sni=bing.com#0160 | 🇺🇸 United States | [624ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls#0161 | 🇩🇪 Germany | [638ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net#0162 | 🇺🇸 United States | [643ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&security=tls#0163 | 🇩🇪 Germany | [644ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443#0164 | 🇺🇸 United States | [645ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#0165 | 🇨🇭 Switzerland | [646ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#0166 | 🇮🇱 Israel | [662ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&security=tls&sni=127.0.0.1#0167 | 🇩🇪 Germany | [669ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=163.192.14.135#0168 | 🇺🇸 United States | [681ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&security=tls#0169 | 🇺🇸 United States | [681ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1#0170 | 🇺🇸 United States | [682ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=vk.com%23%F0%9F%8D%8197%40oneclickvpnkeysvless%3A%2F%2Fe13cf851-b4fd-413b-8d49-146e6eb8e5d4%40166.88.35.245%3A80%3Fencryption%3Dnone#0171 | 🇺🇸 United States | [685ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=off#0172 | 🇺🇸 United States | [687ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1#0173 | 🇺🇸 United States | [689ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#0174 | 🇺🇸 United States | [692ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=whatsapp.com#0175 | 🇺🇸 United States | [692ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#0176 | 🇺🇸 United States | [700ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1953e43b-605c-4262-83eb-41a80646b801@87.76.211.161:443?sni=fastlinkdownload.song69.fun#0177 | 🇫🇷 France | [707ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0178 | 🇩🇪 Germany | [708ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?sni=vk.com&insecure=1#0179 | 🇺🇸 United States | [708ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=off#0180 | 🇺🇸 United States | [717ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#0181 | 🇺🇸 United States | [728ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#0182 | 🇩🇪 Germany | [732ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&sni=127.0.0.1#0183 | 🇩🇪 Germany | [736ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0184 | 🇩🇪 Germany | [757ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#0185 | 🇺🇸 United States | [763ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=speedtest.tinkoff.ru#0186 | 🇺🇸 United States | [766ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21178?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0187 | 🇨🇭 Switzerland | [770ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1&sni=66.94.121.46#0188 | 🇺🇸 United States | [772ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#0189 | 🇺🇸 United States | [773ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=t.me#0190 | 🇺🇸 United States | [784ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls&sni=127.0.0.1#0191 | 🇩🇪 Germany | [787ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.2#0192 | 🇺🇸 United States | [787ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?insecure=1&sni=bing.com&obfs=&obfs-password=#0193 | 🇺🇸 United States | [791ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#0194 | 🇸🇬 Singapore | [808ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=off#0195 | 🇺🇸 United States | [814ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#0196 | 🇸🇬 Singapore | [823ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=www.bing.com#0197 | 🇺🇸 United States | [828ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=vk.com#0198 | 🇺🇸 United States | [836ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#0199 | 🇸🇬 Singapore | [843ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=144.24.46.175#0200 | 🇺🇸 United States | [848ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#0201 | 🇺🇸 United States | [853ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#0202 | 🇸🇬 Singapore | [863ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=css.rbxcdn.com#0203 | 🇺🇸 United States | [865ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#0204 | 🇺🇸 United States | [874ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&sni=192.236.226.182#0205 | 🇺🇸 United States | [882ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0206 | 🇩🇪 Germany | [884ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1#0207 | 🇺🇸 United States | [896ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls&sni=127.0.0.1#0208 | 🇩🇪 Germany | [897ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21054?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0209 | 🇨🇭 Switzerland | [898ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#0210 | 🇺🇸 United States | [908ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0211 | 🇨🇭 Switzerland | [913ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#0212 | 🇭🇰 Hong Kong | [919ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=t.me#0213 | 🇭🇰 Hong Kong | [924ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0214 | 🇭🇰 Hong Kong | [924ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@191.217.251.225:4443?sni=nl1.obxodvpn.us#0215 | 🇵🇱 Poland | [931ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33077?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0216 | 🇨🇭 Switzerland | [933ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=google.com#0217 | 🇺🇸 United States | [939ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#0218 | 🇭🇰 Hong Kong | [945ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2foneclickvpnkeys#0219 | 🇭🇰 Hong Kong | [946ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21021?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0220 | 🇨🇭 Switzerland | [960ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a#0221 | 🇹🇼 Taiwan | [961ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=vk.com#0222 | 🇭🇰 Hong Kong | [972ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=t.me#0223 | 🇹🇼 Taiwan | [972ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252foneclickvpnkeys#0224 | 🇭🇰 Hong Kong | [980ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0225 | 🇹🇼 Taiwan | [984ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#0226 | 🇹🇼 Taiwan | [984ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#0227 | 🇭🇰 Hong Kong | [989ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3#0228 | 🇭🇰 Hong Kong | [990ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%3a%2f%2ft.me%2fclashv8#0229 | 🇭🇰 Hong Kong | [991ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#0230 | 🇭🇰 Hong Kong | [991ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252foneclickvpnkeys#0231 | 🇹🇼 Taiwan | [991ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2#0232 | 🇭🇰 Hong Kong | [993ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=off#0233 | 🇭🇰 Hong Kong | [997ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%253a%252f%252ft.me%252fclashv8%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0234 | 🇭🇰 Hong Kong | [998ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33187?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0235 | 🇨🇭 Switzerland | [1016ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@31.77.29.74:4444?sni=jap2.nexfile.net#0236 | 🇯🇵 Japan | [1019ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21151?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0237 | 🇨🇭 Switzerland | [1040ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2#0238 | 🇭🇰 Hong Kong | [1049ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@pl1.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0239 | 🇵🇱 Poland | [1050ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21047?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0240 | 🇨🇭 Switzerland | [1055ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=www.bing.com#0241 | 🇹🇼 Taiwan | [1061ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2#0242 | 🇹🇼 Taiwan | [1065ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#0243 | 🇹🇼 Taiwan | [1068ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#0244 | 🇭🇰 Hong Kong | [1071ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls#0245 | 🇩🇪 Germany | [1078ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#0246 | 🇹🇼 Taiwan | [1080ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=1#0247 | 🇯🇵 Japan | [1082ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444?headerType=none&encryption=none&sni=jap2.nexfile.net#0248 | 🇯🇵 Japan | [1083ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2#0249 | 🇹🇼 Taiwan | [1084ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https#0250 | 🇹🇼 Taiwan | [1087ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#0251 | 🇰🇷 South Korea | [1091ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#0252 | 🇰🇷 South Korea | [1099ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#0253 | 🇹🇼 Taiwan | [1099ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3#0254 | 🇹🇼 Taiwan | [1108ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=t.me#0255 | 🇹🇼 Taiwan | [1110ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://i4XPm2Ip7f9IAqbB@3.35.177.133:16001?insecure=1&alpn=h3&sni=kor-ls-8.nebulacloud.win#0256 | 🇰🇷 South Korea | [1116ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=off#0257 | 🇯🇵 Japan | [1123ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&allowInsecure=1#0258 | 🇹🇼 Taiwan | [1123ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls#0259 | 🇩🇪 Germany | [1124ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=103.115.109.49#0260 | 🇹🇼 Taiwan | [1130ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1&sni=vp3.yysyy.online#0261 | 🇯🇵 Japan | [1131ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https:#0262 | 🇹🇼 Taiwan | [1131ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443?insecure=1&sni=43.156.36.253#0263 | 🇸🇬 Singapore | [1131ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world%5Cu0026insecure%3D1%5Cu0026allowinsecure%3D1#0264 | 🇹🇼 Taiwan | [1132ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vk.com#0265 | 🇹🇼 Taiwan | [1133ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#0266 | 🇯🇵 Japan | [1136ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#0267 | 🇯🇵 Japan | [1141ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=whatsapp.com#0268 | 🇹🇼 Taiwan | [1142ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls&sni=127.0.0.1#0269 | 🇩🇪 Germany | [1143ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#0270 | 🇹🇼 Taiwan | [1144ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=off#0271 | 🇹🇼 Taiwan | [1145ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#0272 | 🇯🇵 Japan | [1147ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#0273 | 🇯🇵 Japan | [1149ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru#0274 | 🇹🇼 Taiwan | [1156ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1#0275 | 🇹🇼 Taiwan | [1158ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444#0276 | 🇯🇵 Japan | [1159ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#0277 | 🇯🇵 Japan | [1166ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world%255cu0026insecure%253d1%255cu0026allowinsecure%253d1#0278 | 🇹🇼 Taiwan | [1169ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#0279 | 🇹🇼 Taiwan | [1172ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#0280 | 🇯🇵 Japan | [1186ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#0281 | 🇰🇷 South Korea | [1202ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0282 | 🇩🇪 Germany | [1207ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#0283 | 🇰🇷 South Korea | [1216ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#0284 | 🇯🇵 Japan | [1221ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=whatsapp.com#0285 | 🇰🇷 South Korea | [1224ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=off#0286 | 🇰🇷 South Korea | [1230ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=www.bing.com#0287 | 🇰🇷 South Korea | [1234ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=8.209.247.109#0288 | 🇯🇵 Japan | [1235ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?#0289 | 🇰🇷 South Korea | [1239ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#0290 | 🇰🇷 South Korea | [1239ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?sni=152-69-231-175.liao.kdns.fr#0291 | 🇰🇷 South Korea | [1240ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#0292 | 🇰🇷 South Korea | [1252ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3#0293 | 🇭🇰 Hong Kong | [1253ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#0294 | 🇰🇷 South Korea | [1254ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24050?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0295 | 🇳🇱 Netherlands | [1257ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=vk.com#0296 | 🇰🇷 South Korea | [1258ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152.67.200.82#0297 | 🇰🇷 South Korea | [1261ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#0298 | 🇰🇷 South Korea | [1262ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160#0299 | 🇰🇷 South Korea | [1262ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#0300 | 🇯🇵 Japan | [1264ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#0301 | 🇰🇷 South Korea | [1283ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=t.me#0302 | 🇰🇷 South Korea | [1300ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=speedtest.tinkoff.ru#0303 | 🇰🇷 South Korea | [1314ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#0304 | 🇸🇬 Singapore | [1322ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=google.com#0305 | 🇰🇷 South Korea | [1327ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?insecure=1&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&sni=rmgyvpn.rest&mport=20000,20000-30000#0306 | 🇦🇺 Australia | [1369ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37132?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0307 | 🇳🇱 Netherlands | [1449ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&insecure=1#0308 | 🇩🇪 Germany | [1462ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21090?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0309 | 🇨🇭 Switzerland | [1487ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33174?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0310 | 🇨🇭 Switzerland | [1487ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33141?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0311 | 🇨🇭 Switzerland | [1489ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33042?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0312 | 🇨🇭 Switzerland | [1491ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#0313 | 🇰🇷 South Korea | [1496ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21158?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0314 | 🇨🇭 Switzerland | [1500ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#0315 | 🇭🇰 Hong Kong | [1514ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33013?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0316 | 🇨🇭 Switzerland | [1543ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21086?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0317 | 🇨🇭 Switzerland | [1554ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:8444?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0318 | 🇨🇭 Switzerland | [1562ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls&sni=127.0.0.1#0319 | 🇩🇪 Germany | [1568ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21080?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0320 | 🇨🇭 Switzerland | [1568ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21161?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0321 | 🇨🇭 Switzerland | [1570ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33171?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0322 | 🇨🇭 Switzerland | [1570ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1#0323 | 🇰🇷 South Korea | [1613ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://maintell@152.70.237.123:2053?insecure=1#0324 | 🇰🇷 South Korea | [1642ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#0325 | 🇦🇺 Australia | [1651ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21016?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0326 | 🇨🇭 Switzerland | [1659ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33195?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0327 | 🇨🇭 Switzerland | [1660ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21113?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0328 | 🇨🇭 Switzerland | [1662ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33152?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0329 | 🇨🇭 Switzerland | [1665ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#0330 | 🇭🇰 Hong Kong | [1743ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#0331 | 🇰🇷 South Korea | [1880ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0332 | 🇩🇪 Germany | [1930ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1&sni=whatsapp.com#0333 | 🌐 CDN77 | [1949ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1#0334 | 🇯🇵 Japan | [2001ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&sni=vpn-de-002.fastervpn.world#0335 | 🇩🇪 Germany | [2012ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#0336 | 🇯🇵 Japan | [2217ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nl1.obxodvpn.us:4443?security=tls&alpn=h3&insecure=0&sni=nl1.obxodvpn.us#0337 | 🇳🇱 Netherlands | [2405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#0338 | 🇰🇷 South Korea | [2442ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1&sni=s3.huhiuh.space#0339 | 🇭🇰 Hong Kong | [2766ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&obfs=salamander&obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&sni=www.bing.com#0340 | 🇺🇸 United States | [2986ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:8443?insecure=1&sni=tx-hy2#0341 | 🇸🇬 Singapore | [3153ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&insecure=1&allowInsecure=1#0342 | 🌐 CDN77 | [3182ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1#0343 | 🇭🇰 Hong Kong | [3375ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%2523%25e9%25a6%2583%25e5%259a%259f%25e9%25a6%2583%25e5%259a%25a2%257chk%257c%2540wxgqlfx%257c147#0344 | 🇭🇰 Hong Kong | [3462ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%23%E9%A6%83%E5%9A%9F%E9%A6%83%E5%9A%A2%7Chk%7C%40wxgqlfx%7C147#0345 | 🇭🇰 Hong Kong | [3570ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com#0346 | 🌐 CDN77 | [3613ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#0347 | 🇺🇸 United States | [3620ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000?insecure=1&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=rmgyvpn.rest#0348 | 🇧🇷 Brazil | [4067ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#0349 | 🇺🇸 United States | [4125ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com#0350 | 🇭🇰 Hong Kong | [4325ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=www.amazon.com#0351 | 🌐 CDN77 | [4328ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://3edfab95-a259-45f2-846c-3a1ca12c9b60@denys321.duckdns.org:2443?sni=denys321.duckdns.org&fp=firefox#0352 | 🇪🇸 Spain | [4362ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#0353 | 🇭🇰 Hong Kong | [4418ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#0354 | 🇺🇸 United States | [4425ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#0355 | 🇺🇸 United States | [4518ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru#0356 | 🇳🇱 Netherlands | [4547ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#0357 | 🇭🇰 Hong Kong | [4726ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=31.57.248.176#0358 | 🇭🇰 Hong Kong | [4882ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37066?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local#0359 | 🇳🇱 Netherlands | [5171ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-hysteria2://9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW@45.131.65.244:30396?sni=pisulka.jsbox.top&fp=firefox#0360 | 🇩🇪 Germany | [8018ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#0001 | 🇳🇱 Netherlands | [43ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?insecure=1&sni=whatsapp.com#0002 | 🌐 CDN77 | [59ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&insecure=1&allowInsecure=1#0003 | 🌐 CDN77 | [75ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#0004 | 🇳🇱 Netherlands | [111ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37043?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0005 | 🇳🇱 Netherlands | [149ms8.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=viber.com#0006 | 🇳🇱 Netherlands | [185ms2.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37132?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0007 | 🇳🇱 Netherlands | [202ms10.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@31.76.81.191:4443?insecure=1&sni=nl1.obxodvpn.us#0008 | 🇫🇮 Finland | [208ms46.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21054?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0009 | 🇨🇭 Switzerland | [208ms1.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#0010 | 🇷🇺 Russia | [211ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21169?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0011 | 🇫🇷 France | [214ms17.1mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru#0012 | 🇳🇱 Netherlands | [215ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@swe2.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0013 | 🇫🇮 Finland | [221ms110.2mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#0014 | 🇨🇭 Switzerland | [233ms14.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nl1.obxodvpn.us:4443?security=tls&alpn=h3&insecure=0&sni=nl1.obxodvpn.us#0015 | 🇳🇱 Netherlands | [239ms26.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24050?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0016 | 🇳🇱 Netherlands | [241ms10.1mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1:gfhysteria2024@5.129.235.85:443?insecure=1#0017 | 🇳🇱 Netherlands | [247ms2.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@pl1.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0018 | 🇵🇱 Poland | [248ms19.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@191.217.251.225:4443?sni=nl1.obxodvpn.us#0019 | 🇵🇱 Poland | [251ms19.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#0020 | 🇳🇱 Netherlands | [252ms21.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33025?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0021 | 🇨🇭 Switzerland | [257ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://miaoge110@5.45.100.100:51511?insecure=1#0022 | 🇩🇪 Germany | [262ms18.7mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21090?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0023 | 🇨🇭 Switzerland | [264ms1.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33013?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0024 | 🇨🇭 Switzerland | [269ms1.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&sni=www.bing.com#0025 | 🇮🇱 Israel | [274ms9.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443#0026 | 🇳🇱 Netherlands | [275ms22.4mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.239.84:4443?sni=nl1.obxodvpn.us#0027 | 🇪🇪 Estonia | [276ms30.2mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21086?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0028 | 🇨🇭 Switzerland | [277ms1.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33077?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0029 | 🇨🇭 Switzerland | [277ms0.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:8444?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0030 | 🇨🇭 Switzerland | [279ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21158?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0031 | 🇨🇭 Switzerland | [280ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org#0032 | 🇧🇷 Brazil | [284ms5.7mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://miaoge110@5.45.100.100:51511?insecure=1&sni=www.bing.com#0033 | 🇩🇪 Germany | [287ms24.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=5.129.235.85#0034 | 🇳🇱 Netherlands | [290ms14.1mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=tcp-reset-club.net#0035 | 🇳🇱 Netherlands | [294ms24.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33174?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0036 | 🇨🇭 Switzerland | [301ms1.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.152:4444?sni=bl2.nexfile.net#0037 | 🇵🇱 Poland | [305ms15.3mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33141?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0038 | 🇨🇭 Switzerland | [305ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37066?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local#0039 | 🇳🇱 Netherlands | [310ms16.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33042?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0040 | 🇨🇭 Switzerland | [310ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33152?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0041 | 🇨🇭 Switzerland | [313ms1.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21161?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0042 | 🇨🇭 Switzerland | [315ms0.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=tcp-reset-club.net#0043 | 🇳🇱 Netherlands | [317ms27.4mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1&sni=109.235.49.234#0044 | 🇳🇱 Netherlands | [319ms24.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@91.103.140.6:443?sni=fl.solomon-planet.ru#0045 | 🇳🇱 Netherlands | [323ms11.6mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1#0046 | 🇨🇭 Switzerland | [324ms12.6mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=sni-here.com#0047 | 🇳🇱 Netherlands | [327ms7.9mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#0048 | 🇳🇱 Netherlands | [330ms28.1mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#0049 | 🇳🇱 Netherlands | [331ms7.1mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33195?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0050 | 🇨🇭 Switzerland | [335ms0.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.232.62:4443?sni=nl1.obxodvpn.us#0051 | 🇳🇱 Netherlands | [336ms27.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://mhsl@88.99.213.222:14444?insecure=1#0052 | 🇩🇪 Germany | [343ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=13.36.234.11#0053 | 🇫🇷 France | [346ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444?hop_interval=10#0054 | 🇵🇱 Poland | [352ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@fl2.nexfile.net:4444?sni=fl2.nexfile.net&security=tls#0055 | 🇫🇮 Finland | [354ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24044?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0056 | 🇳🇱 Netherlands | [356ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1#0057 | 🇳🇱 Netherlands | [359ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=t.me#0058 | 🇫🇷 France | [360ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21016?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0059 | 🇨🇭 Switzerland | [360ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@swo1.nexfile.net:4444?sni=swo1.nexfile.net&security=tls#0060 | 🇸🇪 Sweden | [364ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@150.251.141.186:4443?sni=nl1.obxodvpn.us#0061 | 🇳🇱 Netherlands | [366ms21.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?#0062 | 🇳🇱 Netherlands | [366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443?sni=promo.betust.net&alpn=h3#0063 | 🇳🇱 Netherlands | [366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21113?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0064 | 🇨🇭 Switzerland | [369ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?allowInsecure=1&downmbps=50&insecure=1&sni=css.rbxcdn.com&type=tcp&upmbps=10#0065 | 🇫🇷 France | [371ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.189.104:4444?sni=pl2.nexfile.net#0066 | 🇵🇱 Poland | [373ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21000?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local&mport=21000-21199,33000-33199#0067 | 🇫🇷 France | [375ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1#0068 | 🇫🇷 France | [380ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?sni=nl-hy-test.tcp-reset-club.net#0069 | 🇳🇱 Netherlands | [384ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8446?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0070 | 🇫🇷 France | [386ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33171?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0071 | 🇨🇭 Switzerland | [386ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#0072 | 🇩🇪 Germany | [388ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443#0073 | 🇫🇷 France | [395ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@31.76.8.20:4443?sni=nl1.obxodvpn.us#0074 | 🇫🇮 Finland | [396ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0075 | 🇳🇱 Netherlands | [400ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443?insecure=1&sni=nl-hy-test.tcp-reset-club.net#0076 | 🇳🇱 Netherlands | [402ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://vpnjey@179.61.138.145:36264?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#0077 | 🇩🇪 Germany | [407ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@179.254.127.159:443?sni=steel7.hadsvpn.com#0078 | 🇩🇪 Germany | [411ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443#0079 | 🇩🇪 Germany | [412ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@109.235.49.234:443?sni=nl-hy-test.tcp-reset-club.net#0080 | 🇳🇱 Netherlands | [412ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8445?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0081 | 🇫🇷 France | [412ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd%3AjX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:8447?insecure=1&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&sni=vpn.local#0082 | 🇫🇷 France | [413ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=t.me#0083 | 🇳🇱 Netherlands | [413ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=bing.com#0084 | 🇩🇪 Germany | [415ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444?sni=bl3.nexfile.net&security=tls#0085 | 🇵🇱 Poland | [423ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://dd50a499-7e43-4589-8490-f3b9c2451473@109.235.49.234:443?insecure=1&sni=tcp-reset-club.net#0086 | 🇳🇱 Netherlands | [430ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#0087 | 🇳🇱 Netherlands | [437ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076?insecure=1&sni=scrap.halyvanedorogo.ru#0088 | 🇵🇱 Poland | [438ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21080?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0089 | 🇨🇭 Switzerland | [439ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=google.com#0090 | 🇳🇱 Netherlands | [440ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3edfab95-a259-45f2-846c-3a1ca12c9b60@76.164.203.38:2443?sni=denys321.duckdns.org#0091 | 🇪🇸 Spain | [445ms14.5mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@13.143.188.156:4444?sni=bl3.nexfile.net#0092 | 🇵🇱 Poland | [448ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@194.76.147.34:443?sni=hys-eu.letsconnectpoint.com#0093 | 🇫🇷 France | [450ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#0094 | 🇩🇪 Germany | [454ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:21182?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0095 | 🇫🇷 France | [457ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadmbd5f18bd:jX4BuciLLIqLvzJZsHpoXtc2@51.77.217.70:33128?sni=vpn.local&obfs=salamander&obfs-password=ChY5QQQT3ZtUdNT8&insecure=1#0096 | 🇫🇷 France | [457ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://d4ca9415f0eac7897472e1e5b86d2e96@promo.betust.net:443#0097 | 🇳🇱 Netherlands | [458ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=140.238.213.114#0098 | 🇨🇭 Switzerland | [462ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@ee2.obxodvpn.us:4443?sni=nl1.obxodvpn.us#0099 | 🇪🇪 Estonia | [464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=www.bing.com#0100 | 🇨🇭 Switzerland | [464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#0101 | 🇧🇷 Brazil | [465ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?insecure=0&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#0102 | 🇩🇪 Germany | [465ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=tcp-reset-club.net#0103 | 🇳🇱 Netherlands | [466ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160?insecure=1&sni=off#0104 | 🇨🇭 Switzerland | [468ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24111?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0105 | 🇳🇱 Netherlands | [470ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076?insecure=1&sni=scrap.halyvanedorogo.ru#0106 | 🇵🇱 Poland | [471ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=off#0107 | 🇷🇺 Russia | [471ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#0108 | 🇫🇷 France | [481ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.226:4444?sni=fl2.nexfile.net#0109 | 🇫🇮 Finland | [481ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@89.105.219.106:8443?sni=speedtestmark.com#0110 | 🇳🇱 Netherlands | [489ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1953e43b-605c-4262-83eb-41a80646b801@87.76.211.161:443?sni=fastlinkdownload.song69.fun#0111 | 🇫🇷 France | [489ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3edfab95-a259-45f2-846c-3a1ca12c9b60@denys321.duckdns.org:2443?sni=denys321.duckdns.org&fp=firefox#0112 | 🇪🇸 Spain | [493ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21178?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0113 | 🇨🇭 Switzerland | [495ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&sni=vpn-fr-001.fastervpn.world#0114 | 🇫🇷 France | [499ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443?sni=steel7.hadsvpn.com&security=tls#0115 | 🇩🇪 Germany | [499ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=match-stream.lovkisport.blog#0116 | 🇷🇺 Russia | [502ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#0117 | 🇫🇷 France | [508ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#0118 | 🇺🇸 United States | [508ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.240.153:4444?sni=swo1.nexfile.net#0119 | 🇸🇪 Sweden | [509ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1#0120 | 🇫🇷 France | [509ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@144.31.239.181:4444?sni=fl2.nexfile.net#0121 | 🇫🇮 Finland | [521ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443?sni=promo.betust.net#0122 | 🇳🇱 Netherlands | [521ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#0123 | 🇫🇷 France | [522ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://64c05afc-ce81-4ba0-b697-afa04da1427e@104.168.6.236:44443?insecure=1&sni=bing.com#0124 | 🇺🇸 United States | [524ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://mhsl@88.99.213.222:14444?insecure=1&sni=88.99.213.222#0125 | 🇩🇪 Germany | [529ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443#0126 | 🇩🇪 Germany | [530ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://dd50a499-7e43-4589-8490-f3b9c2451473@nl-hy-test.tcp-reset-club.net:443?sni=nl-hy-test.tcp-reset-club.net#0127 | 🇳🇱 Netherlands | [531ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://miaoge110@5.45.100.100:51511?insecure=1&sni=5.45.100.100#0128 | 🇩🇪 Germany | [531ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@fl2.nexfile.net:4444?hop_interval=10#0129 | 🇫🇮 Finland | [531ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444#0130 | 🇵🇱 Poland | [534ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#0131 | 🇺🇸 United States | [543ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=www.bing.com#0132 | 🇫🇷 France | [545ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#0133 | 🇩🇪 Germany | [547ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@pl2.nexfile.net:4444?sni=pl2.nexfile.net&security=tls#0134 | 🇵🇱 Poland | [547ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@fr2-cl3.happy-glonaris.top:443?sni=fr2-cl3.happy-glonaris.top#0135 | 🇫🇷 France | [551ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=62.210.7.139#0136 | 🇫🇷 France | [558ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?sni=promo3.betust.net#0137 | 🇺🇸 United States | [568ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124.21freedom.net#0138 | 🇷🇺 Russia | [584ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://c8ed6cd1-6566-4f7a-819e-1c55b2b360c9@153.56.210.134:34121?insecure=1&obfs=salamander&obfs-password=9a33460c-b037-47aa-a606-d04211f4e0ec&sni=www.bing.com#0139 | 🇹🇷 Turkey | [604ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://NL2026hy@147.45.149.88:8443?obfs=salamander&obfs-password=SalamanderNL2026&sni=nl.nobelchat.ru#0140 | 🇳🇱 Netherlands | [620ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=speedtest.tinkoff.ru#0141 | 🇳🇱 Netherlands | [624ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443#0142 | 🇧🇷 Brazil | [631ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls#0143 | 🇩🇪 Germany | [632ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=google.com#0144 | 🇫🇷 France | [641ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1&sni=194.87.118.184#0145 | 🇷🇺 Russia | [651ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b4c8ee9caa74b7ba0a61@scrap.halyvanedorogo.ru:35076#0146 | 🇵🇱 Poland | [652ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444?sni=bl2.nexfile.net&security=tls#0147 | 🇵🇱 Poland | [655ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://7ab3c77e-8fcc-4848-918f-cae3d4eac794@194.87.118.184:2053?insecure=1#0148 | 🇷🇺 Russia | [663ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:37181?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0149 | 🇳🇱 Netherlands | [665ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1#0150 | 🇺🇸 United States | [678ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592#0151 | 🇷🇺 Russia | [680ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#0152 | 🇩🇪 Germany | [681ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&sni=127.0.0.1#0153 | 🇷🇺 Russia | [681ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?insecure=1&sni=bing.com&obfs=&obfs-password=#0154 | 🇺🇸 United States | [703ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=www.bing.com#0155 | 🇺🇸 United States | [713ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=144.24.46.175#0156 | 🇺🇸 United States | [723ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@195.177.94.166:443?sni=fr2-cl3.happy-glonaris.top#0157 | 🇫🇷 France | [726ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24000?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local&mport=24000-24199,37000-37199#0158 | 🇳🇱 Netherlands | [728ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1&sni=off#0159 | 🇺🇸 United States | [729ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@xby.mangshe.xyz:2060?insecure=1&sni=xby.mangshe.xyz#0160 | 🇪🇸 Spain | [738ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?insecure=1#0161 | 🇺🇸 United States | [760ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://pbgLTkd5276SN1sZ@144.24.46.175:8443?insecure=1#0162 | 🇺🇸 United States | [764ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.123266.xyz#0163 | 🇺🇸 United States | [769ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&security=tls#0164 | 🇺🇸 United States | [772ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=speedtest.tinkoff.ru#0165 | 🇺🇸 United States | [772ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1#0166 | 🇭🇰 Hong Kong | [774ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.2#0167 | 🇺🇸 United States | [785ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&sni=192.236.226.182#0168 | 🇺🇸 United States | [788ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443#0169 | 🇺🇸 United States | [789ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=off#0170 | 🇺🇸 United States | [789ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1#0171 | 🇺🇸 United States | [796ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#0172 | 🇺🇸 United States | [801ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=www.bing.com#0173 | 🇺🇸 United States | [801ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=whatsapp.com#0174 | 🇺🇸 United States | [814ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=t.me#0175 | 🇺🇸 United States | [828ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=vk.com%23%F0%9F%8D%8197%40oneclickvpnkeysvless%3A%2F%2Fe13cf851-b4fd-413b-8d49-146e6eb8e5d4%40166.88.35.245%3A80%3Fencryption%3Dnone#0176 | 🇺🇸 United States | [839ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://d042d150716709bb778cc73889cddb02@138.2.89.249:443?insecure=1&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42&sni=www.bing.com#0177 | 🇸🇬 Singapore | [841ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#0178 | 🇺🇸 United States | [841ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=155.248.209.237#0179 | 🇺🇸 United States | [843ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=off#0180 | 🇺🇸 United States | [866ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21151?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0181 | 🇨🇭 Switzerland | [867ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=vk.com#0182 | 🇺🇸 United States | [876ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21021?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0183 | 🇨🇭 Switzerland | [876ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21047?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0184 | 🇨🇭 Switzerland | [901ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#0185 | 🇭🇰 Hong Kong | [935ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#0186 | 🇭🇰 Hong Kong | [938ms2.8mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=127.0.0.1#0187 | 🇭🇰 Hong Kong | [942ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33187?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0188 | 🇨🇭 Switzerland | [953ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1#0189 | 🇭🇰 Hong Kong | [954ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=speedtest.tinkoff.ru#0190 | 🇭🇰 Hong Kong | [959ms2.6mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25d1%2580%25d2%25b9%25d2%25af%25d1%2591%25d1%2580%25d2%25b9%25d2%25af%25d1%2596#0191 | 🇭🇰 Hong Kong | [966ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0192 | 🇭🇰 Hong Kong | [982ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&security=tls&sni=www.bing.com#0193 | 🇭🇰 Hong Kong | [984ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=css.rbxcdn.com#0194 | 🇺🇸 United States | [985ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#0195 | 🇭🇰 Hong Kong | [985ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#0196 | 🇺🇸 United States | [986ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=127.0.0.1#0197 | 🇹🇼 Taiwan | [986ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=off#0198 | 🇹🇼 Taiwan | [986ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=t.me#0199 | 🇭🇰 Hong Kong | [988ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#0200 | 🇭🇰 Hong Kong | [993ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%9F%C2%87#0201 | 🇭🇰 Hong Kong | [995ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%BC%C3%A1%C2%AE%C3%BC%C3%A1#0202 | 🇭🇰 Hong Kong | [998ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%2523%25e9%25a6%2583%25e5%259a%259f%25e9%25a6%2583%25e5%259a%25a2%257chk%257c%2540wxgqlfx%257c147#0203 | 🇭🇰 Hong Kong | [1000ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3#0204 | 🇭🇰 Hong Kong | [1006ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%5Cx9f%5Cx87%C2%A8%C3%B0%5Cx9f%5Cx87%C2%B3#0205 | 🇭🇰 Hong Kong | [1007ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25e2%2581%25bf%25c3%259f%25c2%25ab%25e2%2581%25bf%25c3%259f#0206 | 🇭🇰 Hong Kong | [1010ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%E2%81%BF%C3%9F%C2%AB%E2%81%BF%C3%9F#0207 | 🇭🇰 Hong Kong | [1011ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=www.bing.com#0208 | 🇹🇼 Taiwan | [1012ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=google.com#0209 | 🇭🇰 Hong Kong | [1014ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2#0210 | 🇭🇰 Hong Kong | [1015ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#0211 | 🇸🇬 Singapore | [1021ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%f0%9f%87%a8%f0%9f%87%b3#0212 | 🇹🇼 Taiwan | [1028ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%BC%C3%A1#0213 | 🇭🇰 Hong Kong | [1028ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#0214 | 🇭🇰 Hong Kong | [1029ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%A8%C3%B0%C2%B3#0215 | 🇭🇰 Hong Kong | [1033ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#0216 | 🇭🇰 Hong Kong | [1059ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&sni=www.cloudflare.com#0217 | 🇺🇸 United States | [1060ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252foneclickvpnkeys#0218 | 🇭🇰 Hong Kong | [1066ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#0219 | 🇺🇸 United States | [1067ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?sni=vk.com&insecure=1#0220 | 🇺🇸 United States | [1067ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls&sni=127.0.0.1#0221 | 🇩🇪 Germany | [1067ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=202.146.222.29#0222 | 🇭🇰 Hong Kong | [1070ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1#0223 | 🇯🇵 Japan | [1078ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com%23%E9%A6%83%E5%9A%9F%E9%A6%83%E5%9A%A2%7Chk%7C%40wxgqlfx%7C147#0224 | 🇭🇰 Hong Kong | [1079ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444#0225 | 🇯🇵 Japan | [1083ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1#0226 | 🇰🇷 South Korea | [1085ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2foneclickvpnkeys#0227 | 🇭🇰 Hong Kong | [1086ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1&sni=66.94.121.46#0228 | 🇺🇸 United States | [1089ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https3a2f2ft.me2fwangcai2efa3bfc3bcc3a1#0229 | 🇭🇰 Hong Kong | [1092ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2#0230 | 🇹🇼 Taiwan | [1097ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B0%C2%9F%C2%87%C3%B0%C2%9F%C2%87#0231 | 🇭🇰 Hong Kong | [1100ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://maintell@152.70.237.123:2053?insecure=1&sni=152.70.237.123#0232 | 🇰🇷 South Korea | [1103ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#0233 | 🇰🇷 South Korea | [1106ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=whatsapp.com#0234 | 🇹🇼 Taiwan | [1108ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#0235 | 🇰🇷 South Korea | [1115ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru#0236 | 🇹🇼 Taiwan | [1119ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1#0237 | 🇹🇼 Taiwan | [1121ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=160.187.100.109#0238 | 🇹🇼 Taiwan | [1122ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=off#0239 | 🇸🇬 Singapore | [1122ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25c3%25b0%25c2%259f%25c2%2587%25c2%25a8%25c3%25b0%25c2%259f%25c2%2587%25c2%25b3#0240 | 🇭🇰 Hong Kong | [1123ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https:#0241 | 🇹🇼 Taiwan | [1124ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25d1%2580%25d2%25b9%25d2%25af%25d1%2580%25d2%25b9%25d2%25af#0242 | 🇭🇰 Hong Kong | [1128ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=1#0243 | 🇯🇵 Japan | [1130ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=31.57.248.176#0244 | 🇭🇰 Hong Kong | [1135ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#0245 | 🇯🇵 Japan | [1136ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world%5Cu0026insecure%3D1%5Cu0026allowinsecure%3D1#0246 | 🇹🇼 Taiwan | [1143ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%3a%2f%2ft.me%2fclashv8#0247 | 🇭🇰 Hong Kong | [1147ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#0248 | 🇹🇼 Taiwan | [1148ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2#0249 | 🇹🇼 Taiwan | [1150ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#0250 | 🇰🇷 South Korea | [1154ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%D1%80%D2%B9%D2%AF#0251 | 🇭🇰 Hong Kong | [1154ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=off#0252 | 🇭🇰 Hong Kong | [1155ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@jap2.nexfile.net:4444?headerType=none&encryption=none&sni=jap2.nexfile.net#0253 | 🇯🇵 Japan | [1156ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https#0254 | 🇹🇼 Taiwan | [1157ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=bing.com#0255 | 🇯🇵 Japan | [1158ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=google.com#0256 | 🇺🇸 United States | [1160ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://maintell@152.70.237.123:2053?insecure=1#0257 | 🇰🇷 South Korea | [1165ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=off#0258 | 🇭🇰 Hong Kong | [1169ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252foneclickvpnkeys#0259 | 🇹🇼 Taiwan | [1176ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#0260 | 🇹🇼 Taiwan | [1176ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#0261 | 🇺🇸 United States | [1177ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%A3%BF%C3%BC%C3%A1#0262 | 🇭🇰 Hong Kong | [1177ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#0263 | 🇯🇵 Japan | [1180ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@31.77.29.74:4444?sni=jap2.nexfile.net#0264 | 🇯🇵 Japan | [1187ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0265 | 🇹🇼 Taiwan | [1188ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=t.me#0266 | 🇹🇼 Taiwan | [1190ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1#0267 | 🇸🇬 Singapore | [1193ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0268 | 🇭🇰 Hong Kong | [1197ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%D1%80%D2%B9%D2%AF%D1%91%D1%80%D2%B9%D2%AF%D1%96#0269 | 🇭🇰 Hong Kong | [1197ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=off#0270 | 🇯🇵 Japan | [1205ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%E2%89%A1%C6%92%C3%A7#0271 | 🇭🇰 Hong Kong | [1205ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vk.com#0272 | 🇹🇼 Taiwan | [1207ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world%255cu0026insecure%253d1%255cu0026allowinsecure%253d1#0273 | 🇹🇼 Taiwan | [1216ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%253a#0274 | 🇹🇼 Taiwan | [1217ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%D1%80%D2%B9%D2%AF%D2%B9%D2%AF#0275 | 🇭🇰 Hong Kong | [1218ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=t.me#0276 | 🇭🇰 Hong Kong | [1218ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https://t.me/wangcai2%D1%80%D2%B9%D2%AF%D1%80%D2%B9%D2%AF#0277 | 🇭🇰 Hong Kong | [1221ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=whatsapp.com#0278 | 🇭🇰 Hong Kong | [1222ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2#0279 | 🇭🇰 Hong Kong | [1228ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=httpst.mewangcai2#0280 | 🇭🇰 Hong Kong | [1230ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1#0281 | 🇺🇸 United States | [1235ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%253a%252f%252ft.me%252fclashv8%25f0%259f%2587%25a8%25f0%259f%2587%25b3#0282 | 🇭🇰 Hong Kong | [1235ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#0283 | 🇰🇷 South Korea | [1236ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25ef%25a3%25bf%25c3%25bc%25c3%25a1#0284 | 🇭🇰 Hong Kong | [1236ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=www.bing.com#0285 | 🇯🇵 Japan | [1238ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#0286 | 🇯🇵 Japan | [1238ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=https%3a%2f%2ft.me%2fclashv8%f0%9f%87%a8%f0%9f%87%b3#0287 | 🇭🇰 Hong Kong | [1246ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2#0288 | 🇭🇰 Hong Kong | [1246ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%BF%BD#0289 | 🇭🇰 Hong Kong | [1248ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=103.115.109.49#0290 | 🇹🇼 Taiwan | [1249ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?insecure=1&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#0291 | 🇭🇰 Hong Kong | [1251ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://96ab5cd282733fd4c312a61f972f330a@vp3.yysyy.online:443?insecure=1&sni=vp3.yysyy.online#0292 | 🇯🇵 Japan | [1252ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%A3%BF%C3%BC%C3%A1%C2%AE%EF%A3%BF%C3%BC%C3%A1%E2%89%A5#0293 | 🇭🇰 Hong Kong | [1253ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=t.me#0294 | 🇹🇼 Taiwan | [1254ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#0295 | 🇺🇸 United States | [1258ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=whatsapp.com#0296 | 🇰🇷 South Korea | [1259ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#0297 | 🇯🇵 Japan | [1259ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#0298 | 🇹🇼 Taiwan | [1262ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://i4XPm2Ip7f9IAqbB@3.35.177.133:16001?insecure=1&alpn=h3&sni=kor-ls-8.nebulacloud.win#0299 | 🇰🇷 South Korea | [1265ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152.67.200.82#0300 | 🇰🇷 South Korea | [1266ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=off#0301 | 🇰🇷 South Korea | [1269ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0302 | 🇩🇪 Germany | [1274ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#0303 | 🇰🇷 South Korea | [1280ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1#0304 | 🇯🇵 Japan | [1280ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#0305 | 🇯🇵 Japan | [1285ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://https%3A%2F%2Fxship.top@starlink-ft.251313.xyz:443?insecure=1&sni=xship.top#0306 | 🇺🇸 United States | [1287ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%A3%BF%C3%BC%C3%A1%EF%A3%BF%C3%BC%C3%A1#0307 | 🇭🇰 Hong Kong | [1288ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD#0308 | 🇭🇰 Hong Kong | [1288ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#0309 | 🇰🇷 South Korea | [1289ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW@45.131.65.244:30396?sni=pisulka.jsbox.top&fp=firefox#0310 | 🇩🇪 Germany | [1289ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=vk.com#0311 | 🇭🇰 Hong Kong | [1292ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&allowInsecure=1#0312 | 🇹🇼 Taiwan | [1292ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3a%2f%2ft.me%2fwangcai2%c3%b0%c2%9f%c2%87%c2%a8%c3%b0%c2%9f%c2%87%c2%b3#0313 | 🇭🇰 Hong Kong | [1294ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%EF%BF%BD%EF%BF%BD#0314 | 🇭🇰 Hong Kong | [1302ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?insecure=1&sni=127.0.0.1#0315 | 🇰🇷 South Korea | [1309ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=t.me#0316 | 🇰🇷 South Korea | [1311ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&sni=vpn-de-002.fastervpn.world#0317 | 🇩🇪 Germany | [1314ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#0318 | 🇹🇼 Taiwan | [1314ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=www.bing.com#0319 | 🇰🇷 South Korea | [1327ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160#0320 | 🇰🇷 South Korea | [1334ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?sni=150-230-252-217.liao.kdns.fr#0321 | 🇰🇷 South Korea | [1361ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%C3%B4%C3%B8%CF%89%C3%B4%C3%B8%CF%89%C3%B4%C3%B8%CF%89%C3%B4%C3%B8%CF%89#0322 | 🇭🇰 Hong Kong | [1362ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152.69.231.175:50160?sni=152-69-231-175.liao.kdns.fr#0323 | 🇰🇷 South Korea | [1366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#0324 | 🇰🇷 South Korea | [1366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls&sni=127.0.0.1#0325 | 🇩🇪 Germany | [1370ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=google.com#0326 | 🇰🇷 South Korea | [1375ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#0327 | 🇰🇷 South Korea | [1376ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://9cfc9458e48c028ec03ff86ebc71c744@150-230-252-217.liao.kdns.fr:50160?#0328 | 🇰🇷 South Korea | [1381ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=speedtest.tinkoff.ru#0329 | 🇰🇷 South Korea | [1387ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?sni=152-67-200-82.liao.kdns.fr#0330 | 🇰🇷 South Korea | [1389ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#0331 | 🇯🇵 Japan | [1396ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=vk.com#0332 | 🇰🇷 South Korea | [1402ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#0333 | 🇦🇺 Australia | [1416ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1&sni=8.209.247.109#0334 | 🇯🇵 Japan | [1419ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://b42d90fa667942aebc734d60@158.178.137.129:20000?insecure=1&obfs=salamander&obfs-password=b42d90fa667942aebc734d60&sni=rmgyvpn.rest&mport=20000,20000-30000#0335 | 🇦🇺 Australia | [1441ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0336 | 🇩🇪 Germany | [1503ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&security=tls&sni=127.0.0.1#0337 | 🇩🇪 Germany | [1571ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0338 | 🇩🇪 Germany | [1599ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#0339 | 🇸🇬 Singapore | [1643ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.69.232.199:443?insecure=1&security=tls#0340 | 🇩🇪 Germany | [1671ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&sni=163.192.14.135#0341 | 🇺🇸 United States | [1745ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1&sni=s3.huhiuh.space#0342 | 🇭🇰 Hong Kong | [1806ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443?insecure=1&security=tls#0343 | 🇩🇪 Germany | [1852ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%E2%81%BF%C3%9F#0344 | 🇭🇰 Hong Kong | [1942ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&insecure=1#0345 | 🇩🇪 Germany | [2021ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0346 | 🇩🇪 Germany | [2127ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#0347 | 🇭🇰 Hong Kong | [2188ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#0348 | 🇩🇪 Germany | [2278ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443?insecure=1&security=tls#0349 | 🇩🇪 Germany | [2289ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%E2%89%A1%C6%92%C3%A7%C2%BF%E2%89%A1%C6%92%C3%A7%E2%94%82#0350 | 🇭🇰 Hong Kong | [2365ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&sni=3.64.194.247#0351 | 🇩🇪 Germany | [2439ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&security=tls&sni=127.0.0.1#0352 | 🇩🇪 Germany | [2692ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%253a%252f%252ft.me%252fwangcai2%25d1%2580%25d2%25b9%25d2%25af#0353 | 🇭🇰 Hong Kong | [2747ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#0354 | 🇩🇪 Germany | [2959ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&security=tls#0355 | 🇩🇪 Germany | [2964ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21067?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0356 | 🇨🇭 Switzerland | [3005ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21000?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local&mport=21000-21199,33000-33199#0357 | 🇨🇭 Switzerland | [3023ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33117?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0358 | 🇨🇭 Switzerland | [3126ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.64.194.247:443?insecure=1&sni=127.0.0.1#0359 | 🇩🇪 Germany | [3140ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165:nXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21154?sni=vpn.local&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&insecure=1#0360 | 🇨🇭 Switzerland | [3151ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33092?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0361 | 🇨🇭 Switzerland | [3158ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443?insecure=1&sni=vpn-de-002.fastervpn.world#0362 | 🇩🇪 Germany | [3359ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21147?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0363 | 🇨🇭 Switzerland | [3408ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#0364 | 🇫🇷 France | [3543ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls&sni=127.0.0.1#0365 | 🇩🇪 Germany | [3763ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.203.180:443?insecure=1&security=tls#0366 | 🇩🇪 Germany | [3921ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21084?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0367 | 🇨🇭 Switzerland | [4097ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33044?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0368 | 🇨🇭 Switzerland | [4196ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&insecure=1&allowInsecure=1#0369 | 🌐 CDN77 | [4214ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://CyG0RFxMjzs41uQD4OLuHQ%3D%3D@147.15.108.14:20000?insecure=1&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ%3D%3D&sni=rmgyvpn.rest#0370 | 🇧🇷 Brazil | [4264ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33133?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0371 | 🇨🇭 Switzerland | [4265ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:33130?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0372 | 🇨🇭 Switzerland | [4405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443?insecure=1&obfs=salamander&obfs-password=a39ca173b57ac7021b08bf3e3de9f1f6&sni=www.bing.com#0373 | 🇺🇸 United States | [5056ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm54312235:JdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24062?sni=vpn.local&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&insecure=1#0374 | 🇳🇱 Netherlands | [5180ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://capadm96216165%3AnXUv9sPkKFsDMmhZ7jbE28sw@208.69.78.217:21046?insecure=1&obfs=salamander&obfs-password=mbQXP2ASuHbF6ZPq&sni=vpn.local#0375 | 🇨🇭 Switzerland | [5196ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=css.rbxcdn.com#0376 | 🌐 CDN77 | [5901ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&sni=www.bing.com#0377 | 🇭🇰 Hong Kong | [6540ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1#0378 | 🇭🇰 Hong Kong | [9680ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=www.amazon.com#0379 | 🌐 CDN77 | [11524ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
