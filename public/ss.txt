@@ -2,261 +2,254 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 256 configs · last update: 20:22 30/10/2026
+#announce: t.me/FlareFeedtg · 249 configs · last update: 23:27 30/10/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.88.16:443#0001 | 🇺🇸 United States | [30ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@store.ubi.com:443#0002 | ☁️ Cloudflare | [36ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#0003 | 🇳🇱 Netherlands | [128ms13.6mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080#0004 | 🇳🇱 Netherlands | [131ms15.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#0005 | 🇦🇱 Albania | [139ms8.6mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@69.84.182.16:443#0006 | 🇺🇸 United States | [141ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.43.88.13:2053#0007 | 🇩🇪 Germany | [142ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@172.67.73.14:80#0008 | ☁️ Cloudflare | [143ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#0009 | 🇳🇱 Netherlands | [147ms4.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#0010 | 🇵🇱 Poland | [154ms0.5mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#0011 | 🇳🇱 Netherlands | [165ms12.5mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.41.190:443#0012 | ☁️ Cloudflare | [165ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.18.43.174:443#0013 | ☁️ Cloudflare | [166ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.36.5:443#0014 | ☁️ Cloudflare | [169ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#0015 | 🇳🇱 Netherlands | [170ms5.2mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.67.138.17:443#0016 | ☁️ Cloudflare | [170ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.152.241:443#0017 | ☁️ Cloudflare | [171ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.36.20:443#0018 | ☁️ Cloudflare | [171ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@172.66.42.200:2083#0019 | ☁️ Cloudflare | [171ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.145.158:443#0020 | ☁️ Cloudflare | [172ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.14.127:443#0021 | ☁️ Cloudflare | [173ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.42.54:443#0022 | ☁️ Cloudflare | [190ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#0023 | 🇳🇱 Netherlands | [194ms16.7mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBd1cxZlY2b0REUUtoOHIyem5tcHR2NTl0UGd0NGVIVlRnRmFUcWdLUzJqaVNkaWtKN0d5R0NCWWVoRGFLMzhTOHlNZ0hGZGJKcWNUbVJKU2ZZUzVDRnczNDViTmhGWmE@sql.popmintxo.cc:43385#0024 | 🇳🇱 Netherlands | [197ms1.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#0025 | 🇳🇱 Netherlands | [199ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#0026 | 🇳🇱 Netherlands | [203ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.152.216:443#0027 | ☁️ Cloudflare | [203ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#0028 | 🇳🇱 Netherlands | [203ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#0029 | 🇳🇱 Netherlands | [207ms14.9mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.153.86:443#0030 | ☁️ Cloudflare | [213ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.11:443#0031 | 🇬🇧 United Kingdom | [223ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#0032 | 🇳🇱 Netherlands | [223ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#0033 | 🇳🇱 Netherlands | [226ms4.7mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#0034 | 🇨🇭 Switzerland | [228ms16.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#0035 | 🇳🇱 Netherlands | [235ms8.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#0036 | 🇳🇱 Netherlands | [247ms23.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.54:8080#0037 | 🇳🇱 Netherlands | [250ms7.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.28:8080?type=tcp&amp;security=none&amp;headerType=none#0038 | 🇳🇱 Netherlands | [250ms2.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.12:443#0039 | 🇬🇧 United Kingdom | [258ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#0040 | 🇳🇱 Netherlands | [270ms15.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#0041 | 🇳🇱 Netherlands | [271ms1.7mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.26.4.60:443#0042 | ☁️ Cloudflare | [271ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#0043 | 🇳🇱 Netherlands | [273ms14.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#0044 | 🇳🇱 Netherlands | [275ms14.8mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@104.26.15.21:80#0045 | ☁️ Cloudflare | [280ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#0046 | 🇳🇱 Netherlands | [281ms15.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTphNDkxYTc0Mi01NTUzLTQ0NWItODI5Zi04ZjZhMjI5MjFkNDY=@8.6.112.0:443#0047 | ☁️ Cloudflare | [284ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#0048 | 🇩🇪 Germany | [287ms12.8mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.39.33:443#0049 | ☁️ Cloudflare | [288ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#0050 | 🇳🇱 Netherlands | [289ms19.5mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.145.202:443#0051 | ☁️ Cloudflare | [290ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#0052 | 🇳🇱 Netherlands | [291ms13.9mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.26.5.60:443#0053 | ☁️ Cloudflare | [292ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.25.12:443#0054 | ☁️ Cloudflare | [292ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.21.94.161:443#0055 | ☁️ Cloudflare | [293ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.150.130:443#0056 | ☁️ Cloudflare | [295ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.35.15:443#0057 | ☁️ Cloudflare | [306ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#0058 | 🇳🇴 Norway | [307ms16.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#0059 | 🇳🇱 Netherlands | [315ms2.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#0060 | 🇳🇱 Netherlands | [316ms9.2mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@103.90.72.71:443#0061 | 🇳🇱 Netherlands | [320ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#0062 | 🇳🇱 Netherlands | [324ms7.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#0063 | 🇵🇱 Poland | [330ms13.7mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#0064 | 🇷🇴 Romania | [330ms10.6mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#0065 | 🇳🇱 Netherlands | [332ms12.9mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#0066 | 🇳🇱 Netherlands | [342ms15.1mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#0067 | 🇳🇱 Netherlands | [343ms16.3mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#0068 | 🇬🇧 United Kingdom | [343ms13.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.46:8080?type=tcp&security=none&headerType=none#0069 | 🇳🇱 Netherlands | [343ms10.8mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206U25PU1JmbzBoNm1uV2VoVEdfWGFuZw@51.77.216.96:53567#0070 | 🇫🇷 France | [346ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#0071 | 🇳🇱 Netherlands | [354ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#0072 | 🇳🇱 Netherlands | [355ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#0073 | 🇳🇱 Netherlands | [355ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#0074 | 🇳🇱 Netherlands | [357ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#0075 | 🇳🇱 Netherlands | [364ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#0076 | 🇩🇪 Germany | [365ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#0077 | 🇬🇧 United Kingdom | [366ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#0078 | 🇵🇱 Poland | [370ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#0079 | 🇳🇱 Netherlands | [377ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#0080 | 🇺🇸 United States | [377ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.39:8080?type=tcp&amp;security=none&amp;headerType=none#0081 | 🇳🇱 Netherlands | [379ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#0082 | 🇳🇱 Netherlands | [379ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#0083 | 🇮🇹 Italy | [380ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#0084 | 🇩🇪 Germany | [382ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.10:443#0085 | 🇬🇧 United Kingdom | [385ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#0086 | 🇳🇱 Netherlands | [391ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@afrcloud22.mmv.kr:80#0087 | ☁️ Cloudflare | [394ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#0088 | 🇮🇹 Italy | [397ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.67.70.92:443#0089 | ☁️ Cloudflare | [400ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#0090 | 🇳🇱 Netherlands | [400ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#0091 | 🇺🇸 United States | [405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#0092 | 🇺🇸 United States | [405ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#0093 | 🇳🇱 Netherlands | [406ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRb1lqdmtJWjctYk1JWWZWSTlJelJYVXg1QTFvM2tqNw==@65.21.52.113:53731#0094 | 🇫🇮 Finland | [409ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#0095 | 🇳🇱 Netherlands | [409ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#0096 | 🇳🇱 Netherlands | [412ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#0097 | 🇺🇸 United States | [431ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#0098 | 🇳🇱 Netherlands | [433ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?#0099 | 🇳🇱 Netherlands | [442ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#0100 | 🇧🇷 Brazil | [443ms3.5mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.18:19999#0101 | 🇺🇸 United States | [444ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#0102 | 🇺🇸 United States | [446ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#0103 | 🇮🇹 Italy | [451ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#0104 | 🇳🇱 Netherlands | [452ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#0105 | 🌐 CDN77 | [453ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#0106 | 🇳🇱 Netherlands | [455ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388?#0107 | 🇦🇱 Albania | [458ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@172.66.42.200:8443#0108 | ☁️ Cloudflare | [458ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?#0109 | 🇺🇸 United States | [459ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#0110 | 🇬🇧 United Kingdom | [460ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.178:8080#0111 | 🇳🇱 Netherlands | [462ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#0112 | 🇳🇱 Netherlands | [464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#0113 | 🇳🇱 Netherlands | [464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#0114 | 🇳🇱 Netherlands | [464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#0115 | 🇳🇱 Netherlands | [472ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#0116 | 🇳🇱 Netherlands | [473ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#0117 | 🇳🇱 Netherlands | [474ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#0118 | 🇳🇱 Netherlands | [475ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.147.104:443#0119 | ☁️ Cloudflare | [475ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://2022-blake3-chacha20-poly1305:Cg2Dw4OhdBZhqbeO9ZTA3g%2FGk%2FAvsrYZGhAJeGnQIx4%3D@8.211.196.252:443#0120 | 🇬🇧 United Kingdom | [478ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.877774.xyz:443#0121 | ☁️ Cloudflare | [482ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#0122 | 🇺🇸 United States | [484ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#0123 | 🇨🇦 Canada | [486ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#0124 | 🇺🇸 United States | [495ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#0125 | 🌐 CDN77 | [499ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#0126 | 🇳🇱 Netherlands | [502ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#0127 | 🇸🇨 Seychelles | [513ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#0128 | 🇳🇱 Netherlands | [520ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#0129 | 🇳🇱 Netherlands | [520ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#0130 | 🇺🇸 United States | [523ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#0131 | 🇮🇹 Italy | [527ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#0132 | 🇬🇧 United Kingdom | [527ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#0133 | 🇳🇱 Netherlands | [528ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#0134 | 🇳🇱 Netherlands | [534ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#0135 | 🇨🇦 Canada | [536ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#0136 | 🇳🇱 Netherlands | [544ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#0137 | 🇵🇱 Poland | [546ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#0138 | 🌐 CDN77 | [546ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#0139 | 🇬🇧 United Kingdom | [550ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@178.253.16.185:8388#0140 | 🇪🇪 Estonia | [551ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#0141 | 🇳🇱 Netherlands | [552ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#0142 | 🇳🇱 Netherlands | [554ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#0143 | 🇳🇱 Netherlands | [555ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#0144 | 🇳🇱 Netherlands | [562ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#0145 | 🇨🇦 Canada | [584ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@185.223.57.174:8388#0146 | 🇵🇱 Poland | [585ms0.4mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.090227.xyz:443#0147 | ☁️ Cloudflare | [589ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.107.10:443#0148 | 🇬🇧 United Kingdom | [590ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#0149 | 🇺🇸 United States | [599ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#0150 | 🇳🇱 Netherlands | [606ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@95.85.250.78:443#0151 | 🇫🇮 Finland | [610ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#0152 | 🇳🇱 Netherlands | [611ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#0153 | 🇯🇵 Japan | [626ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#0154 | 🇰🇷 South Korea | [627ms0.2mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@188.239.9.91:443#0155 | 🇸🇬 Singapore | [628ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#0156 | 🇳🇱 Netherlands | [641ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#0157 | 🇺🇸 United States | [657ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ==@130.49.189.158:43558#0158 | 🇦🇱 Albania | [661ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#0159 | 🇳🇱 Netherlands | [666ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#0160 | 🇵🇱 Poland | [678ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#0161 | 🇺🇸 United States | [695ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#0162 | 🇳🇱 Netherlands | [698ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#0163 | 🇳🇱 Netherlands | [728ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.106.10:443#0164 | 🇬🇧 United Kingdom | [731ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#0165 | 🇳🇱 Netherlands | [734ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@49.142.200.31:28017#0166 | 🇰🇷 South Korea | [734ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#0167 | 🇳🇱 Netherlands | [738ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#0168 | 🇺🇸 United States | [740ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#0169 | 🌐 CDN77 | [742ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@47.250.212.59:2053#0170 | 🇲🇾 Malaysia | [746ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#0171 | 🇳🇱 Netherlands | [772ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#0172 | 🇳🇱 Netherlands | [779ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.10:443#0173 | 🇬🇧 United Kingdom | [787ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#0174 | 🇳🇱 Netherlands | [794ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#0175 | 🇮🇹 Italy | [794ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#0176 | 🇳🇱 Netherlands | [797ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#0177 | 🇳🇱 Netherlands | [801ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#0178 | 🇿🇦 South Africa | [804ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#0179 | 🇳🇱 Netherlands | [821ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#0180 | 🇯🇵 Japan | [827ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206U25PU1JmbzBoNm1uV2VoVEdfWGFuZw@node11.botkeep.cloud:53567%20#0181 | 🇫🇷 France | [835ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#0182 | 🇨🇦 Canada | [838ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#0183 | 🇷🇺 Russia | [846ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@staging.lastilhame.monster:49917#0184 | 🇳🇱 Netherlands | [854ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#0185 | 🇳🇱 Netherlands | [854ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#0186 | 🇯🇵 Japan | [864ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMjM1OjQ0Mw==#0187 | 🇳🇱 Netherlands | [880ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#0188 | 🇺🇸 United States | [895ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#0189 | 🇨🇦 Canada | [896ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080?#0190 | 🇳🇱 Netherlands | [921ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#0191 | 🇿🇦 South Africa | [922ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@104.253.216.227:49917#0192 | 🇳🇱 Netherlands | [944ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#0193 | 🇳🇱 Netherlands | [950ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#0194 | 🇮🇹 Italy | [955ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@161.33.38.253:443#0195 | 🇯🇵 Japan | [956ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#0196 | 🇯🇵 Japan | [962ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#0197 | 🇳🇱 Netherlands | [1011ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999#0198 | 🇺🇸 United States | [1039ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#0199 | 🇳🇱 Netherlands | [1049ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#0200 | 🇳🇱 Netherlands | [1094ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.220:8080#0201 | 🇳🇱 Netherlands | [1105ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@36.38.117.86:11965#0202 | 🇰🇷 South Korea | [1112ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#0203 | 🇳🇱 Netherlands | [1127ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@154.16.183.190:443#0204 | 🇭🇰 Hong Kong | [1138ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#0205 | 🇺🇸 United States | [1153ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#0206 | 🇳🇱 Netherlands | [1222ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@121.178.202.91:12380#0207 | 🇰🇷 South Korea | [1222ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#0208 | 🇺🇸 United States | [1223ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#0209 | 🇰🇷 South Korea | [1226ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#0210 | 🇳🇱 Netherlands | [1238ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#0211 | 🇬🇧 United Kingdom | [1240ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#0212 | 🇯🇵 Japan | [1251ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#0213 | 🇺🇸 United States | [1256ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#0214 | 🇳🇱 Netherlands | [1289ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#0215 | 🇳🇱 Netherlands | [1358ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#0216 | 🇳🇱 Netherlands | [1396ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#0217 | 🇮🇹 Italy | [1402ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#0218 | 🇰🇷 South Korea | [1419ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#0219 | 🇳🇱 Netherlands | [1427ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#0220 | 🇩🇪 Germany | [1459ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#0221 | 🇳🇱 Netherlands | [1461ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#0222 | 🇮🇹 Italy | [1473ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@125.138.18.69:11300#0223 | 🇰🇷 South Korea | [1498ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#0224 | 🇳🇱 Netherlands | [1503ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#0225 | 🇳🇱 Netherlands | [1517ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#0226 | 🇺🇸 United States | [1552ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.155.121:18443#0227 | 🇷🇺 Russia | [1582ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443#0228 | 🇸🇬 Singapore | [1606ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#0229 | 🇳🇱 Netherlands | [1650ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#0230 | 🇳🇱 Netherlands | [1666ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#0231 | 🇰🇷 South Korea | [1706ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#0232 | 🇳🇱 Netherlands | [1798ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#0233 | 🇰🇷 South Korea | [1940ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#0234 | 🇸🇬 Singapore | [1971ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#0235 | 🇷🇺 Russia | [2001ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?#0236 | 🇳🇱 Netherlands | [2154ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#0237 | 🇰🇷 South Korea | [2167ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#0238 | 🇳🇱 Netherlands | [2179ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@ams1.rvpn.app:8388#0239 | 🇪🇪 Estonia | [2188ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#0240 | 🇰🇷 South Korea | [2195ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#0241 | 🇨🇦 Canada | [2274ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#0242 | 🇮🇹 Italy | [2292ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#0243 | 🇮🇳 India | [2315ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#0244 | 🇵🇱 Poland | [2391ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@159.194.251.76:8388#0245 | 🇷🇺 Russia | [2672ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#0246 | 🇮🇹 Italy | [2689ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#0247 | 🇮🇹 Italy | [2727ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#0248 | 🇨🇦 Canada | [2768ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBd1cxZlY2b0REUUtoOHIyem5tcHR2NTl0UGd0NGVIVlRnRmFUcWdLUzJqaVNkaWtKN0d5R0NCWWVoRGFLMzhTOHlNZ0hGZGJKcWNUbVJKU2ZZUzVDRnczNDViTmhGWmE=@104.239.12.81:43385#0249 | 🇳🇱 Netherlands | [2809ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#0250 | 🇨🇦 Canada | [3852ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#0251 | 🇳🇱 Netherlands | [4113ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#0252 | 🇺🇸 United States | [4516ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000#0253 | 🇰🇷 South Korea | [4591ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003%20#0254 | 🇨🇦 Canada | [4768ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#0255 | 🇯🇵 Japan | [5443ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:443#0256 | 🇺🇸 United States | [6499ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@104.253.216.227:49917#0001 | 🇳🇱 Netherlands | [96ms0.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#0002 | 🇳🇱 Netherlands | [120ms16.3mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#0003 | 🇩🇪 Germany | [125ms26.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.145.202:443#0004 | ☁️ Cloudflare | [125ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#0005 | 🇮🇹 Italy | [139ms17.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.21.94.161:443#0006 | ☁️ Cloudflare | [152ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#0007 | 🇳🇱 Netherlands | [154ms14.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#0008 | 🇳🇱 Netherlands | [154ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.26.5.60:443#0009 | ☁️ Cloudflare | [155ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.220:8080#0010 | 🇳🇱 Netherlands | [158ms12.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.35.15:443#0011 | ☁️ Cloudflare | [160ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#0012 | 🇬🇧 United Kingdom | [168ms19.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.39.33:443#0013 | ☁️ Cloudflare | [168ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#0014 | 🇳🇱 Netherlands | [177ms15.3mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#0015 | 🇳🇱 Netherlands | [178ms15.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#0016 | 🇳🇱 Netherlands | [179ms12.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#0017 | 🇳🇱 Netherlands | [180ms13.6mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@104.26.15.21:80#0018 | ☁️ Cloudflare | [180ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#0019 | 🇳🇱 Netherlands | [191ms15.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#0020 | 🇮🇹 Italy | [192ms17.4mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.39:8080?type=tcp&amp;security=none&amp;headerType=none#0021 | 🇳🇱 Netherlands | [193ms16.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#0022 | 🇳🇱 Netherlands | [196ms17.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.169:443#0023 | 🇳🇱 Netherlands | [199ms13.3mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.178:8080#0024 | 🇳🇱 Netherlands | [200ms19.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.090227.xyz:443#0025 | ☁️ Cloudflare | [200ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080?#0026 | 🇳🇱 Netherlands | [203ms12.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#0027 | 🇳🇱 Netherlands | [206ms30.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.25.12:443#0028 | ☁️ Cloudflare | [209ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#0029 | 🇳🇱 Netherlands | [213ms17.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#0030 | 🇳🇱 Netherlands | [225ms9.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#0031 | 🇬🇧 United Kingdom | [227ms17.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.106.10:443#0032 | 🇬🇧 United Kingdom | [227ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.150.130:443#0033 | ☁️ Cloudflare | [232ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@178.253.16.185:8388#0034 | 🇪🇪 Estonia | [242ms21.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.67.70.92:443#0035 | ☁️ Cloudflare | [245ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#0036 | 🇳🇱 Netherlands | [248ms19.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#0037 | 🇳🇱 Netherlands | [256ms14.8mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#0038 | 🇳🇱 Netherlands | [258ms13.6mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#0039 | 🇮🇹 Italy | [259ms4.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.26.4.60:443#0040 | ☁️ Cloudflare | [259ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.153.86:443#0041 | ☁️ Cloudflare | [266ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#0042 | 🇳🇱 Netherlands | [267ms19.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@172.64.145.158:443#0043 | ☁️ Cloudflare | [271ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.152.241:443#0044 | ☁️ Cloudflare | [272ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@staging.lastilhame.monster:49917#0045 | 🇳🇱 Netherlands | [277ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.28:8080?type=tcp&amp;security=none&amp;headerType=none#0046 | 🇳🇱 Netherlands | [278ms17.9mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#0047 | 🇵🇱 Poland | [278ms9.4mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#0048 | 🇳🇱 Netherlands | [283ms8.4mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBd1cxZlY2b0REUUtoOHIyem5tcHR2NTl0UGd0NGVIVlRnRmFUcWdLUzJqaVNkaWtKN0d5R0NCWWVoRGFLMzhTOHlNZ0hGZGJKcWNUbVJKU2ZZUzVDRnczNDViTmhGWmE=@104.239.12.81:43385#0049 | 🇳🇱 Netherlands | [284ms0.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#0050 | 🇮🇹 Italy | [285ms16.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#0051 | 🇵🇱 Poland | [286ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#0052 | 🇳🇱 Netherlands | [295ms6.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@104.18.43.174:443#0053 | ☁️ Cloudflare | [295ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.36.20:443#0054 | ☁️ Cloudflare | [297ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTphNDkxYTc0Mi01NTUzLTQ0NWItODI5Zi04ZjZhMjI5MjFkNDY=@8.6.112.0:443#0055 | ☁️ Cloudflare | [297ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#0056 | 🇳🇱 Netherlands | [302ms13.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@162.159.36.5:443#0057 | ☁️ Cloudflare | [302ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#0058 | 🇳🇱 Netherlands | [308ms17.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@172.66.42.200:2083#0059 | ☁️ Cloudflare | [309ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.41.190:443#0060 | ☁️ Cloudflare | [310ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#0061 | 🇳🇱 Netherlands | [311ms16.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@69.84.182.16:443#0062 | 🇺🇸 United States | [311ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@172.67.73.14:80#0063 | ☁️ Cloudflare | [313ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.107.10:443#0064 | 🇬🇧 United Kingdom | [313ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#0065 | 🇳🇱 Netherlands | [315ms17.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#0066 | 🇳🇱 Netherlands | [318ms15.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#0067 | 🇺🇸 United States | [318ms6.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#0068 | 🇳🇱 Netherlands | [327ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#0069 | 🇩🇪 Germany | [329ms18.8mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg@store.ubi.com:443#0070 | ☁️ Cloudflare | [329ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#0071 | 🇳🇱 Netherlands | [334ms17.7mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#0072 | 🇳🇱 Netherlands | [336ms17.2mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080?#0073 | 🇳🇱 Netherlands | [336ms6.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#0074 | 🇳🇱 Netherlands | [339ms15.5mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#0075 | 🇬🇧 United Kingdom | [351ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.14.127:443#0076 | ☁️ Cloudflare | [356ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#0077 | 🇳🇱 Netherlands | [356ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@45.43.88.13:2053#0078 | 🇩🇪 Germany | [358ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.67.138.17:443#0079 | ☁️ Cloudflare | [358ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBd1cxZlY2b0REUUtoOHIyem5tcHR2NTl0UGd0NGVIVlRnRmFUcWdLUzJqaVNkaWtKN0d5R0NCWWVoRGFLMzhTOHlNZ0hGZGJKcWNUbVJKU2ZZUzVDRnczNDViTmhGWmE@sql.popmintxo.cc:43385#0080 | 🇳🇱 Netherlands | [361ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.88.16:443#0081 | 🇺🇸 United States | [374ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.18.42.54:443#0082 | ☁️ Cloudflare | [377ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.10:443#0083 | 🇬🇧 United Kingdom | [378ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#0084 | 🇳🇴 Norway | [381ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#0085 | 🇬🇧 United Kingdom | [384ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#0086 | 🇳🇱 Netherlands | [393ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#0087 | 🇳🇱 Netherlands | [394ms24.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#0088 | 🇳🇱 Netherlands | [404ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#0089 | 🇺🇸 United States | [404ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#0090 | 🇺🇸 United States | [406ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.147.104:443#0091 | ☁️ Cloudflare | [406ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#0092 | 🇺🇸 United States | [408ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#0093 | 🇳🇱 Netherlands | [411ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.11:443#0094 | 🇬🇧 United Kingdom | [416ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#0095 | 🇳🇱 Netherlands | [417ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0=@185.188.104.12:443#0096 | 🇬🇧 United Kingdom | [422ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMjM1OjQ0Mw==#0097 | 🇳🇱 Netherlands | [422ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#0098 | 🇳🇱 Netherlands | [426ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.64.152.216:443#0099 | ☁️ Cloudflare | [427ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#0100 | 🇳🇱 Netherlands | [430ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#0101 | 🇳🇱 Netherlands | [430ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@172.66.42.200:8443#0102 | ☁️ Cloudflare | [433ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#0103 | 🌐 CDN77 | [435ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#0104 | 🌐 CDN77 | [441ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#0105 | 🇨🇭 Switzerland | [444ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#0106 | 🇵🇱 Poland | [444ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#0107 | 🇳🇱 Netherlands | [447ms15.1mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#0108 | 🌐 CDN77 | [454ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#0109 | 🇺🇸 United States | [463ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#0110 | 🇳🇱 Netherlands | [467ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#0111 | 🇺🇸 United States | [476ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080#0112 | 🇳🇱 Netherlands | [477ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#0113 | 🇩🇪 Germany | [482ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.18:19999#0114 | 🇺🇸 United States | [486ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#0115 | 🇳🇱 Netherlands | [490ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#0116 | 🇺🇸 United States | [491ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#0117 | 🇵🇱 Poland | [491ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#0118 | 🇨🇦 Canada | [496ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsc3Uxdi8zaU5FUndERFZ3eEN1NTAzM0tDVXFRT29FbFlRdWw2M2ttcUo4PQ==@130.49.189.158:43558#0119 | 🇦🇱 Albania | [514ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://2022-blake3-chacha20-poly1305:Cg2Dw4OhdBZhqbeO9ZTA3g%2FGk%2FAvsrYZGhAJeGnQIx4%3D@8.211.196.252:443#0120 | 🇬🇧 United Kingdom | [520ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@185.223.57.174:8388#0121 | 🇵🇱 Poland | [520ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:8080?#0122 | 🇳🇱 Netherlands | [528ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#0123 | 🇳🇱 Netherlands | [532ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#0124 | 🇳🇱 Netherlands | [536ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#0125 | 🇺🇸 United States | [546ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#0126 | 🇺🇸 United States | [548ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#0127 | 🇺🇸 United States | [549ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#0128 | 🇳🇱 Netherlands | [555ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#0129 | 🇳🇱 Netherlands | [557ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@alb.rvpn.app:8388#0130 | 🇦🇱 Albania | [560ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#0131 | 🇳🇱 Netherlands | [570ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#0132 | 🌐 CDN77 | [574ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#0133 | 🇮🇹 Italy | [574ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@161.33.38.253:443#0134 | 🇯🇵 Japan | [582ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999#0135 | 🇺🇸 United States | [584ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#0136 | 🇩🇪 Germany | [590ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#0137 | 🇺🇸 United States | [592ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#0138 | 🇺🇸 United States | [595ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999?#0139 | 🇺🇸 United States | [614ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.877774.xyz:443#0140 | ☁️ Cloudflare | [614ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#0141 | 🇳🇱 Netherlands | [620ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#0142 | 🇬🇧 United Kingdom | [630ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#0143 | 🇳🇱 Netherlands | [639ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#0144 | 🇨🇦 Canada | [643ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#0145 | 🇳🇱 Netherlands | [658ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#0146 | 🇳🇱 Netherlands | [666ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#0147 | 🇳🇱 Netherlands | [676ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@125.138.18.69:11300#0148 | 🇰🇷 South Korea | [685ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.10:443#0149 | 🇬🇧 United Kingdom | [686ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@49.142.200.31:28017#0150 | 🇰🇷 South Korea | [694ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#0151 | 🇳🇱 Netherlands | [714ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#0152 | 🇳🇱 Netherlands | [714ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#0153 | 🇺🇸 United States | [741ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTphYWFhYWFiYi00ZGRkLTRlZWUtOWZmZi1mZmZmZmZmZmZmZmY=@afrcloud22.mmv.kr:80#0154 | ☁️ Cloudflare | [745ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091#0155 | 🇰🇷 South Korea | [745ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#0156 | 🇷🇺 Russia | [760ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@95.85.250.78:443#0157 | 🇫🇮 Finland | [767ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#0158 | 🇿🇦 South Africa | [775ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#0159 | 🇳🇱 Netherlands | [777ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#0160 | 🇨🇦 Canada | [778ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#0161 | 🇮🇹 Italy | [779ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@188.239.9.91:443#0162 | 🇸🇬 Singapore | [789ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#0163 | 🇳🇱 Netherlands | [807ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#0164 | 🇯🇵 Japan | [807ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@103.90.72.71:443#0165 | 🇳🇱 Netherlands | [811ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRb1lqdmtJWjctYk1JWWZWSTlJelJYVXg1QTFvM2tqNw==@65.21.52.113:53731#0166 | 🇫🇮 Finland | [830ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#0167 | 🇯🇵 Japan | [832ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#0168 | 🇳🇱 Netherlands | [853ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#0169 | 🇳🇱 Netherlands | [857ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@36.38.117.86:11965#0170 | 🇰🇷 South Korea | [860ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#0171 | 🇯🇵 Japan | [867ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443#0172 | 🇸🇬 Singapore | [868ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#0173 | 🇿🇦 South Africa | [872ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#0174 | 🇰🇷 South Korea | [881ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@141.164.45.187:8000#0175 | 🇰🇷 South Korea | [882ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#0176 | 🇳🇱 Netherlands | [886ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.46:8080?type=tcp&security=none&headerType=none#0177 | 🇳🇱 Netherlands | [887ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#0178 | 🇳🇱 Netherlands | [891ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#0179 | 🇳🇱 Netherlands | [895ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#0180 | 🇳🇱 Netherlands | [896ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@154.16.183.190:443#0181 | 🇭🇰 Hong Kong | [897ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#0182 | 🇯🇵 Japan | [909ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#0183 | 🇳🇱 Netherlands | [915ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#0184 | 🇳🇱 Netherlands | [947ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#0185 | 🇳🇱 Netherlands | [948ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#0186 | 🇳🇱 Netherlands | [954ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#0187 | 🇳🇱 Netherlands | [957ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#0188 | 🇸🇨 Seychelles | [984ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ejJPQl9ndkZ2cEtnakZpOHM5Q3Z3@pol.rvpn.app:8388#0189 | 🇵🇱 Poland | [1025ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#0190 | 🇳🇱 Netherlands | [1026ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MkE2QXN5Wi1yQWxsejB3YktIeldB@ams1.rvpn.app:8388#0191 | 🇪🇪 Estonia | [1030ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#0192 | 🇺🇸 United States | [1044ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#0193 | 🇳🇱 Netherlands | [1105ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@47.250.212.59:2053#0194 | 🇲🇾 Malaysia | [1108ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ==@139.84.166.47:8388#0195 | 🇮🇳 India | [1125ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#0196 | 🇳🇱 Netherlands | [1145ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#0197 | 🇳🇱 Netherlands | [1185ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#0198 | 🇷🇴 Romania | [1224ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#0199 | 🇳🇱 Netherlands | [1243ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#0200 | 🇳🇱 Netherlands | [1266ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#0201 | 🇳🇱 Netherlands | [1271ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#0202 | 🇳🇱 Netherlands | [1313ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#0203 | 🇳🇱 Netherlands | [1320ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#0204 | 🇳🇱 Netherlands | [1335ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoVFRnN2x3UU16cGFGN0tYcFkzQTh3@130.49.189.54:8388?#0205 | 🇦🇱 Albania | [1352ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#0206 | 🇯🇵 Japan | [1390ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#0207 | 🇳🇱 Netherlands | [1401ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#0208 | 🇰🇷 South Korea | [1546ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@121.178.202.91:12380#0209 | 🇰🇷 South Korea | [1548ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#0210 | 🇰🇷 South Korea | [1585ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#0211 | 🇮🇹 Italy | [1590ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#0212 | 🇰🇷 South Korea | [1594ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#0213 | 🇳🇱 Netherlands | [1650ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#0214 | 🇳🇱 Netherlands | [1661ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#0215 | 🇨🇦 Canada | [1684ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#0216 | 🇺🇸 United States | [1689ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#0217 | 🇰🇷 South Korea | [1751ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.140:443#0218 | 🇵🇱 Poland | [1777ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#0219 | 🇳🇱 Netherlands | [1786ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#0220 | 🇰🇷 South Korea | [1801ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#0221 | 🇳🇱 Netherlands | [1898ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#0222 | 🇮🇹 Italy | [2032ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.54:8080#0223 | 🇳🇱 Netherlands | [2059ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#0224 | 🇮🇹 Italy | [2071ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#0225 | 🇮🇹 Italy | [2108ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#0226 | 🇳🇱 Netherlands | [2126ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#0227 | 🇳🇱 Netherlands | [2144ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#0228 | 🇳🇱 Netherlands | [2196ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#0229 | 🇨🇦 Canada | [2297ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#0230 | 🇳🇱 Netherlands | [2385ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#0231 | 🇮🇹 Italy | [2392ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#0232 | 🇳🇱 Netherlands | [2456ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#0233 | 🇳🇱 Netherlands | [2522ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#0234 | 🇳🇱 Netherlands | [2610ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#0235 | 🇳🇱 Netherlands | [2614ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.155.121:18443#0236 | 🇷🇺 Russia | [2802ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#0237 | 🇳🇱 Netherlands | [2975ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?#0238 | 🇳🇱 Netherlands | [3545ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#0239 | 🇨🇦 Canada | [3580ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#0240 | 🇷🇺 Russia | [3673ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#0241 | 🇺🇸 United States | [3721ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#0242 | 🇮🇳 India | [3827ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#0243 | 🇰🇷 South Korea | [3974ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#0244 | 🇳🇱 Netherlands | [4062ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.155.113:5601#0245 | 🇨🇦 Canada | [4120ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#0246 | 🇳🇱 Netherlands | [4893ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#0247 | 🇯🇵 Japan | [4967ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@159.194.251.76:8388#0248 | 🇷🇺 Russia | [5724ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#0249 | 🇬🇧 United Kingdom | [6155ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
