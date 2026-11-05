@@ -1,0 +1,204 @@
+{
+  "name": "FlareFeed",
+  "version": "1.0.0",
+  "description": "Независимый бесплатный проект с автоматически обновляемыми подписками для VPN/прокси-клиентов. VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC.",
+  "homepage": "https://vless.svinakraft.workers.dev/",
+  "language": "ru-RU",
+  "license": "MIT",
+  "author": {
+    "name": "svinakraft-maker",
+    "url": "https://github.com/svinakraft-maker"
+  },
+  "created": "2026-11-05",
+  "update_interval": "PT1H",
+  "update_interval_human": "примерно каждый час",
+  "format": "text/plain; charset=utf-8",
+  "line_format": "one proxy configuration per line",
+  "authentication": "none",
+  "cors": "https://vless.svinakraft.workers.dev/* (text/plain and JSON; enabled by worker.js)",
+  "last_update_note": "Read the #announce line in any subscription file for the exact build time and config count.",
+  "subscriptions": [
+    {
+      "id": "mobile",
+      "name": "MOBILE",
+      "file": "fastest.txt",
+      "url": "https://vless.svinakraft.workers.dev/fastest.txt",
+      "description": "100 самых быстрых серверов, отсортированных по пингу и скорости. Лёгкий файл для телефона, Happ и v2rayTun.",
+      "count_approx": 100,
+      "size_kb_approx": 27,
+      "recommended_for": ["mobile", "Happ", "v2rayTun", "v2rayNG"],
+      "protocols": ["vless", "vmess", "trojan", "hysteria2", "hysteria"]
+    },
+    {
+      "id": "all",
+      "name": "ALL",
+      "file": "podpiska.txt",
+      "url": "https://vless.svinakraft.workers.dev/podpiska.txt",
+      "description": "Полный список всех живых конфигов после проверки. Для ПК, роутеров и клиентов, которым нужен максимум выбора.",
+      "count_approx": 2700,
+      "size_kb_approx": 660,
+      "recommended_for": ["desktop", "routers", "power users"],
+      "protocols": ["vless", "vmess", "trojan", "shadowsocks", "hysteria2", "hysteria", "tuic", "ssr"]
+    },
+    {
+      "id": "top500",
+      "name": "TOP 500 SECURE",
+      "file": "Top500.txt",
+      "url": "https://vless.svinakraft.workers.dev/Top500.txt",
+      "description": "500 конфигов с приоритетом защищённых транспортов Reality, TLS и QUIC. Для сетей с агрессивной фильтрацией.",
+      "count_approx": 500,
+      "size_kb_approx": 130,
+      "recommended_for": ["mobile networks", "restricted networks", "LTE"],
+      "protocols": ["vless", "trojan", "hysteria2", "hysteria", "vmess", "tuic"]
+    }
+  ],
+  "protocol_subscriptions": [
+    {
+      "id": "vless",
+      "name": "VLESS",
+      "file": "vless.txt",
+      "url": "https://vless.svinakraft.workers.dev/vless.txt",
+      "count_approx": 950,
+      "transports": ["Reality", "XHTTP", "gRPC", "TCP"]
+    },
+    {
+      "id": "hysteria2",
+      "name": "Hysteria2",
+      "file": "hysteria2.txt",
+      "url": "https://vless.svinakraft.workers.dev/hysteria2.txt",
+      "count_approx": 720,
+      "transports": ["QUIC", "Salamander obfs"]
+    },
+    {
+      "id": "trojan",
+      "name": "Trojan",
+      "file": "trojan.txt",
+      "url": "https://vless.svinakraft.workers.dev/trojan.txt",
+      "count_approx": 590,
+      "transports": ["TLS", "TCP", "SNI"]
+    },
+    {
+      "id": "shadowsocks",
+      "name": "Shadowsocks",
+      "file": "ss.txt",
+      "url": "https://vless.svinakraft.workers.dev/ss.txt",
+      "count_approx": 290,
+      "transports": ["AEAD", "SIP003"]
+    },
+    {
+      "id": "vmess",
+      "name": "VMess",
+      "file": "vmess.txt",
+      "url": "https://vless.svinakraft.workers.dev/vmess.txt",
+      "count_approx": 200,
+      "transports": ["AEAD", "TCP", "WebSocket"]
+    }
+  ],
+  "mirrors": {
+    "note": "Replace {file} with podpiska.txt, fastest.txt or Top500.txt. Content is identical.",
+    "hosts": [
+      {
+        "id": "cloudflare",
+        "name": "Cloudflare Workers",
+        "primary": true,
+        "url_template": "https://vless.svinakraft.workers.dev/{file}"
+      },
+      {
+        "id": "github_raw",
+        "name": "GitHub Raw",
+        "url_template": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "jsdelivr",
+        "name": "jsDelivr",
+        "url_template": "https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/{file}"
+      },
+      {
+        "id": "gh_proxy",
+        "name": "gh-proxy.org",
+        "url_template": "https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "ghfast",
+        "name": "ghfast.top",
+        "url_template": "https://ghfast.top/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "ghproxy_net",
+        "name": "ghproxy.net",
+        "url_template": "https://ghproxy.net/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "hk_gh_proxy",
+        "name": "hk.gh-proxy.org",
+        "url_template": "https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "edgeone_gh_proxy",
+        "name": "edgeone.gh-proxy.org",
+        "url_template": "https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      },
+      {
+        "id": "cdn_gh_proxy",
+        "name": "cdn.gh-proxy.org",
+        "url_template": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}"
+      }
+    ]
+  },
+  "clients": [
+    {
+      "name": "Happ",
+      "platforms": ["iOS", "Android"],
+      "url": "https://www.happ.su/",
+      "note": "App Store / Google Play"
+    },
+    {
+      "name": "v2rayTun",
+      "platforms": ["iOS", "Android", "Windows", "macOS"],
+      "url": "https://v2raytun.com/"
+    },
+    {
+      "name": "v2rayNG",
+      "platforms": ["Android"],
+      "url": "https://github.com/2dust/v2rayNG"
+    },
+    {
+      "name": "v2rayN",
+      "platforms": ["Windows", "Linux", "macOS"],
+      "url": "https://github.com/2dust/v2rayN"
+    },
+    {
+      "name": "NekoBox",
+      "platforms": ["Android", "Windows"],
+      "url": "https://github.com/MatsuriDayo/NekoBoxForAndroid"
+    },
+    {
+      "name": "Hiddify",
+      "platforms": ["iOS", "Android", "Windows", "macOS", "Linux"],
+      "url": "https://github.com/hiddify/hiddify-app"
+    },
+    {
+      "name": "sing-box",
+      "platforms": ["iOS", "Android", "Windows", "macOS", "Linux"],
+      "url": "https://github.com/SagerNet/sing-box"
+    },
+    {
+      "name": "Shadowrocket",
+      "platforms": ["iOS", "macOS"],
+      "url": "https://apps.apple.com/app/shadowrocket/id932747118"
+    },
+    {
+      "name": "Streisand",
+      "platforms": ["iOS", "macOS"],
+      "url": "https://apps.apple.com/app/streisand/id6450534064"
+    }
+  ],
+  "machine_readable": {
+    "llms": "https://vless.svinakraft.workers.dev/llms.txt",
+    "llms_full": "https://vless.svinakraft.workers.dev/llms-full.txt",
+    "this_manifest": "https://vless.svinakraft.workers.dev/subscriptions.json",
+    "sitemap": "https://vless.svinakraft.workers.dev/sitemap.xml",
+    "robots": "https://vless.svinakraft.workers.dev/robots.txt"
+  },
+  "disclaimer": "FlareFeed — независимый информационный проект, не связанный с Cloudflare Inc. или разработчиками клиентов. Публичные конфиги предоставляются как есть, без гарантий. Не используйте их для банковских операций и чувствительных данных. Используйте только в законных целях и в соответствии с законодательством вашей страны."
+}

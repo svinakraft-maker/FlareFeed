@@ -1,0 +1,262 @@
+# FlareFeed — полное описание проекта
+
+> FlareFeed — независимый бесплатный проект с автоматически обновляемыми подписками для VPN/прокси-клиентов. Подписки содержат конфиги VLESS, VMess, Trojan, Shadowsocks, Hysteria2 и TUIC, пересобираются примерно каждый час и раздаются через Cloudflare Workers и несколько зеркал. Сайт: https://vless.svinakraft.workers.dev/
+
+Дата актуализации описания: 2026-11-05
+Язык: русский (ru-RU)
+Лицензия: MIT
+Автор: svinakraft-maker
+Telegram: https://t.me/FlareFeedtg
+GitHub: https://github.com/svinakraft-maker/FlareFeed
+
+## English summary
+
+FlareFeed is a free, independently maintained collection of auto-updated proxy subscription files for VPN clients. One URL contains hundreds of server configs (VLESS, VMess, Trojan, Shadowsocks, Hysteria2, TUIC). The files are plain text (`text/plain; charset=utf-8`), require no authentication, and are rebuilt roughly every hour. There are three main subscriptions: `fastest.txt` (100 fastest servers, recommended for mobile), `podpiska.txt` (all live configs, roughly 2,700), and `Top500.txt` (500 configs prioritizing secure Reality/TLS/QUIC transports). Per-protocol files are also available. The project is not affiliated with Cloudflare Inc. or any VPN client vendor. Public configs are provided as-is; do not use them for banking or sensitive data.
+
+## Что такое FlareFeed
+
+FlareFeed — это набор текстовых файлов с прокси-конфигами. Каждая строка файла — один готовый конфиг в формате, который понимают популярные клиенты (Happ, v2rayTun, v2rayN, v2rayNG, Hiddify, NekoBox, sing-box, Shadowrocket, Streisand и другие).
+
+Автоматический чекер собирает конфиги из публичных источников, проверяет доступность серверов, измеряет пинг и скорость и публикует обновлённые списки. Основной файл `podpiska.txt` содержит все живые конфиги; `fastest.txt` — топ-100 по качеству; `Top500.txt` — 500 конфигов с приоритетом защищённых транспортов.
+
+Проект не является VPN-провайдером и не владеет серверами. Это агрегатор публичных конфигов и инструмент для удобного импорта.
+
+## Основные URL
+
+| Подписка | Файл | URL | Примерно конфигов | Размер | Для чего |
+|---|---|---|---:|---:|---|
+| MOBILE | `fastest.txt` | https://vless.svinakraft.workers.dev/fastest.txt | 100 | ~27 КБ | Телефон, Happ, v2rayTun, быстрый импорт |
+| ALL | `podpiska.txt` | https://vless.svinakraft.workers.dev/podpiska.txt | ~2 700 | ~660 КБ | ПК, роутеры, максимум выбора |
+| TOP 500 SECURE | `Top500.txt` | https://vless.svinakraft.workers.dev/Top500.txt | 500 | ~130 КБ | Reality/TLS/QUIC, сети с фильтрацией |
+
+Точные числа и время сборки всегда находятся в первой строке `#announce` каждого файла, например:
+
+```text
+#announce: t.me/FlareFeedtg · 2766 configs · last update: 20:21 05/11/2026
+```
+
+Числа в этом описании и на сайте являются приблизительными и могут отставать на один цикл обновления.
+
+## Подписки по протоколам
+
+| Протокол | Файл | URL | Примерно конфигов | Транспорты |
+|---|---|---|---:|---|
+| VLESS | `vless.txt` | https://vless.svinakraft.workers.dev/vless.txt | ~950 | Reality, XHTTP, gRPC, TCP |
+| Hysteria2 | `hysteria2.txt` | https://vless.svinakraft.workers.dev/hysteria2.txt | ~720 | QUIC, Salamander obfs |
+| Trojan | `trojan.txt` | https://vless.svinakraft.workers.dev/trojan.txt | ~590 | TLS, TCP, SNI |
+| Shadowsocks | `ss.txt` | https://vless.svinakraft.workers.dev/ss.txt | ~290 | AEAD, SIP003 |
+| VMess | `vmess.txt` | https://vless.svinakraft.workers.dev/vmess.txt | ~200 | AEAD, TCP, WebSocket |
+| TUIC / Hysteria / SSR | `podpiska.txt` | https://vless.svinakraft.workers.dev/podpiska.txt | единицы | Только внутри ALL |
+
+## Формат файла
+
+- MIME-тип: `text/plain; charset=utf-8`.
+- Кодировка: UTF-8.
+- Один конфиг на строку.
+- Строки, начинающиеся с `#`, являются комментариями и метаданными подписки.
+- Поддерживаются схемы: `vless://`, `vmess://`, `trojan://`, `ss://`, `ssr://`, `hysteria://`, `hysteria2://`, `hy2://`, `tuic://`.
+- Клиенты обычно понимают такой файл как «subscription» / «подписка по URL».
+- Файлы не требуют авторизации, API-ключей или cookies.
+
+Пример структуры (значения сокращены):
+
+```text
+#profile-title: FASTEST 100 t.me/FlareFeedtg
+#profile-update-interval: 1
+#announce: t.me/FlareFeedtg · 100 configs · last update: 20:21 05/11/2026
+vless://...@185.×.×.×:443?security=reality#DE · Frankfurt
+trojan://...@103.×.×.×:443#JP · Tokyo
+hysteria2://...@91.×.×.×:443#FI · Helsinki
+```
+
+## Как обновляются списки
+
+1. Планировщик запускает сбор конфигов примерно каждый час.
+2. Конфиги собираются из публичных источников.
+3. Каждый сервер проверяется: доступность, пинг, скорость.
+4. Формируются `ALL`, `MOBILE` (топ-100) и `TOP 500 SECURE`.
+5. Файлы публикуются в статику Cloudflare Workers и в GitHub-репозиторий.
+6. Клиенты при обновлении подписки получают свежий файл.
+
+Файлы `.txt` отдаются с запретом долгого кэширования, поэтому клиент не должен «залипать» на старой версии. Точное время сборки указано в `#announce`.
+
+## Как подключить
+
+### Happ / v2rayTun / Streisand (iOS, Android)
+
+1. Скопируйте `https://vless.svinakraft.workers.dev/fastest.txt`.
+2. Откройте клиент → «Подписки» / «Profiles» → «Добавить».
+3. Выберите «Из буфера обмена» или «Добавить по URL».
+4. Сохраните, обновите подписку, выберите сервер с минимальным пингом.
+5. Включите туннель.
+
+### v2rayNG (Android)
+
+1. Нажмите «+» → «Импорт из буфера обмена» или добавьте подписку по URL.
+2. Обновите подписку через меню.
+3. Проверьте задержку профилей и отсортируйте по результатам.
+4. Подключитесь к лучшему серверу.
+
+### v2rayN (Windows)
+
+1. «Подписки» → «Настроить подписки» → «Добавить».
+2. Вставьте URL `https://vless.svinakraft.workers.dev/podpiska.txt` или `fastest.txt`.
+3. Сохраните и нажмите «Обновить подписки без прокси».
+
+### Hiddify (все платформы)
+
+1. «Add Profile» → «From URL».
+2. Вставьте URL → «Continue».
+3. Обновите профиль и подключитесь.
+
+### sing-box
+
+Добавьте remote provider в конфигурацию:
+
+```json
+{
+  "providers": [
+    {
+      "type": "remote",
+      "url": "https://vless.svinakraft.workers.dev/podpiska.txt",
+      "update_interval": "1h"
+    }
+  ]
+}
+```
+
+### NekoBox / Shadowrocket
+
+Добавьте подписку по URL в соответствующем разделе приложения, обновите список и выберите сервер.
+
+## Клиенты
+
+- Happ — iOS и Android: https://www.happ.su/
+- v2rayTun — https://v2raytun.com/
+- v2rayNG — https://github.com/2dust/v2rayNG
+- v2rayN — https://github.com/2dust/v2rayN
+- NekoBox — https://github.com/MatsuriDayo/NekoBoxForAndroid
+- Hiddify — https://github.com/hiddify/hiddify-app
+- sing-box — https://github.com/SagerNet/sing-box
+- Shadowrocket — https://apps.apple.com/app/shadowrocket/id932747118
+- Streisand — App Store: https://apps.apple.com/app/streisand/id6450534064
+
+Подойдёт любой клиент, который умеет импортировать подписку по URL и поддерживает ваши протоколы. FlareFeed не связан с разработчиками клиентов и не получает оплату за упоминания.
+
+## Зеркала
+
+Основной домен: `https://vless.svinakraft.workers.dev/`.
+
+Если он недоступен, замените `{file}` на `podpiska.txt`, `fastest.txt` или `Top500.txt`:
+
+| Зеркало | Шаблон URL |
+|---|---|
+| Cloudflare Workers | `https://vless.svinakraft.workers.dev/{file}` |
+| GitHub Raw | `https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| jsDelivr | `https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/{file}` |
+| gh-proxy.org | `https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| ghfast.top | `https://ghfast.top/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| ghproxy.net | `https://ghproxy.net/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| hk.gh-proxy.org | `https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| edgeone.gh-proxy.org | `https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+| cdn.gh-proxy.org | `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` |
+
+Содержимое зеркал идентично. Доступность зависит от сети, провайдера и страны. Сайт умеет проверять доступность зеркал из браузера по кнопке «Проверить».
+
+## Частые вопросы
+
+### Что такое подписка FlareFeed?
+
+Это текстовый файл со списком прокси-серверов — по одному конфигу в строке. Клиент открывает файл по ссылке и сам добавляет все серверы. Вам не нужно вставлять каждый ключ вручную: одна ссылка заменяет сотни конфигов и автоматически подтягивает свежие.
+
+### Это бесплатно? Нужна регистрация?
+
+Да, FlareFeed бесплатен. Регистрация, аккаунт и оплата не нужны: достаточно открыть сайт и скопировать ссылку. Проект существует на Cloudflare Workers и публичных источниках конфигов.
+
+### Как часто обновляются списки?
+
+Примерно раз в час. Точное время последней сборки и количество конфигов указаны в шапке каждого файла. Файлы отдаются с запретом долгого кэширования, поэтому клиент получает свежую версию при обновлении подписки.
+
+### Чем MOBILE отличается от ALL?
+
+MOBILE (`fastest.txt`) — 100 серверов, отсортированных по пингу и скорости. Он лёгкий и быстро импортируется в Happ, v2rayTun и другие мобильные клиенты. ALL (`podpiska.txt`) — полный список всех живых конфигов для ПК и мощных клиентов. TOP 500 SECURE (`Top500.txt`) — 500 конфигов с приоритетом защищённых транспортов Reality, TLS и QUIC для сетей с фильтрацией.
+
+### Почему ссылка не открывается?
+
+Основной домен может быть недоступен из вашей сети. Откройте раздел «Зеркала» и скопируйте тот же файл с другого хоста: GitHub Raw, jsDelivr или gh-proxy. Содержимое зеркал идентично. Если не работает ничего, попробуйте другой DNS (например, 1.1.1.1) или другую сеть.
+
+### Это безопасно?
+
+Это публичные прокси-конфиги от независимых владельцев. Не используйте их для банковских операций, ввода паролей и другой чувствительной информации. Для более защищённого транспорта выбирайте TOP 500 SECURE: там приоритет отдан Reality, TLS и QUIC.
+
+### Какой клиент выбрать?
+
+На iPhone и Android удобнее всего Happ, v2rayTun, Streisand или v2rayNG. На Windows и macOS — v2rayN, Hiddify, NekoBox или sing-box. Подойдёт любой клиент, который умеет импортировать подписку по URL и поддерживает ваши протоколы.
+
+### Что делать, если сервер не подключается?
+
+Сначала обновите подписку в клиенте: список мог устареть. Затем выберите другой сервер с низким пингом. Проверьте, что системное время устройства выставлено автоматически, и что клиент поддерживает протокол выбранного конфига.
+
+### Можно ли использовать на нескольких устройствах?
+
+Да. Одна и та же ссылка работает на любом количестве устройств; ограничений по аккаунту нет. Просто добавьте её как подписку в каждый клиент.
+
+## Для ИИ-агентов и разработчиков
+
+- `llms.txt` — краткая карта проекта.
+- `llms-full.txt` — этот расширенный документ.
+- `subscriptions.json` — JSON-манифест с URL, протоколами, зеркалами и клиентами.
+- `sitemap.xml` — карта сайта.
+- `robots.txt` — правила обхода, включая AI-краулеры.
+
+Рекомендуемый способ получить данные:
+
+```bash
+curl -s https://vless.svinakraft.workers.dev/fastest.txt
+curl -s https://vless.svinakraft.workers.dev/podpiska.txt
+curl -s https://vless.svinakraft.workers.dev/subscriptions.json
+```
+
+Основные свойства:
+
+- Content-Type подписок: `text/plain; charset=utf-8`.
+- Авторизация: не требуется.
+- CORS: основной Worker отдаёт `Access-Control-Allow-Origin: *` для `.txt` и `.json`.
+- HTML полностью доступен без JavaScript; скрипты только улучшают копирование, меню, проверку зеркал и live-статистику.
+- Страница содержит структурированные данные Schema.org: WebSite, Organization, WebPage, Service, Dataset, ItemList и FAQPage.
+- Не нужно выполнять JavaScript, чтобы получить ссылки на подписки: все URL присутствуют в HTML и в `llms.txt`.
+
+## Технические детали
+
+- Хостинг: Cloudflare Workers + статические assets.
+- Исходный репозиторий: https://github.com/svinakraft-maker/FlareFeed
+- MIME-тип `.txt` принудительно выставляется Worker-ом.
+- Для `.txt` используется `Cache-Control: no-store, no-cache, must-revalidate, max-age=0`.
+- Статические ресурсы сайта (шрифты, CSS, JS, изображения) кэшируются отдельно.
+- В сайте нет сторонних трекеров, аналитики и рекламных скриптов.
+- Шрифты Unbounded и Inter самостоятельно размещены в `/assets/fonts/` и подгружаются с `font-display: swap`.
+
+## Безопасность и приватность
+
+- Сайт не запрашивает аккаунт, email, телефон или платёжные данные.
+- Сайт не содержит форм входа и не устанавливает cookies.
+- Внешние ссылки ведут на Telegram, GitHub и официальные страницы клиентов.
+- Публичные конфиги не предназначены для передачи чувствительных данных.
+- Для чувствительных сценариев используйте собственный проверенный VPN-сервер, а не публичные конфиги.
+
+## Правовая информация
+
+FlareFeed — независимый информационный проект, созданный в образовательных целях. Он не связан с Cloudflare Inc. и не является VPN-провайдером. Автор не владеет серверами, конфиги которых агрегируются, и не гарантирует их качество, скорость или доступность.
+
+Используйте проект только в законных целях и в соответствии с законодательством вашей страны. Ответственность за использование конфигов и клиентов лежит на пользователе.
+
+## Машиночитаемые ресурсы
+
+- https://vless.svinakraft.workers.dev/llms.txt
+- https://vless.svinakraft.workers.dev/llms-full.txt
+- https://vless.svinakraft.workers.dev/subscriptions.json
+- https://vless.svinakraft.workers.dev/sitemap.xml
+- https://vless.svinakraft.workers.dev/robots.txt
+- https://vless.svinakraft.workers.dev/podpiska.txt
+- https://vless.svinakraft.workers.dev/fastest.txt
+- https://vless.svinakraft.workers.dev/Top500.txt

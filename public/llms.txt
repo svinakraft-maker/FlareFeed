@@ -1,0 +1,105 @@
+# FlareFeed
+
+> FlareFeed — независимый бесплатный проект с автоматически обновляемыми подписками для VPN/прокси-клиентов. Одна ссылка содержит список серверов VLESS, VMess, Trojan, Shadowsocks, Hysteria2 и TUIC; файлы пересобираются примерно каждый час и отдаются как обычный текст `text/plain`.
+
+Сайт: https://vless.svinakraft.workers.dev/
+Язык: русский (ru-RU)
+Лицензия: MIT
+Обновление: примерно каждый час (`PT1H`)
+Авторизация: не требуется
+Формат подписок: `text/plain; charset=utf-8`, один конфиг на строку
+Последнее обновление этого описания: 2026-11-05
+
+## Подписки
+
+- [MOBILE — fastest.txt](https://vless.svinakraft.workers.dev/fastest.txt): 100 самых быстрых серверов, отсортированных по пингу и скорости. Рекомендуется для телефона, Happ, v2rayTun и других мобильных клиентов. Примерный размер — 27 КБ.
+- [ALL — podpiska.txt](https://vless.svinakraft.workers.dev/podpiska.txt): полный список всех живых конфигов после проверки. Около 2 700 серверов, все протоколы. Для ПК, роутеров и мощных клиентов. Примерный размер — 660 КБ.
+- [TOP 500 SECURE — Top500.txt](https://vless.svinakraft.workers.dev/Top500.txt): 500 конфигов с приоритетом защищённых транспортов Reality, TLS и QUIC. Для сетей с фильтрацией и мобильного интернета. Примерный размер — 130 КБ.
+
+Точное количество конфигов и время последней сборки указаны в первой строке `#announce` каждого файла. Числа на сайте и в этом описании могут отставать на один цикл.
+
+## Подписки по протоколам
+
+- [VLESS](https://vless.svinakraft.workers.dev/vless.txt) — около 950 конфигов; Reality, XHTTP, gRPC, TCP.
+- [Hysteria2](https://vless.svinakraft.workers.dev/hysteria2.txt) — около 720 конфигов; QUIC, Salamander obfs.
+- [Trojan](https://vless.svinakraft.workers.dev/trojan.txt) — около 590 конфигов; TLS, TCP, SNI.
+- [Shadowsocks](https://vless.svinakraft.workers.dev/ss.txt) — около 290 конфигов; AEAD, SIP003.
+- [VMess](https://vless.svinakraft.workers.dev/vmess.txt) — около 200 конфигов; AEAD, TCP, WebSocket.
+- TUIC, Hysteria (v1) и SSR доступны только внутри `ALL` (`podpiska.txt`).
+
+## Как использовать
+
+1. Скопируйте URL нужной подписки.
+2. В клиенте откройте раздел «Подписки» / «Profiles» → «Добавить» → «Из буфера обмена» (или «Добавить по URL»).
+3. Сохраните, обновите подписку и выберите сервер с минимальным пингом.
+
+Для автоматизации:
+
+```bash
+curl -s https://vless.svinakraft.workers.dev/fastest.txt | head -n 8
+```
+
+## Клиенты
+
+- Happ — iOS, Android: https://www.happ.su/
+- v2rayTun — https://v2raytun.com/
+- v2rayNG — https://github.com/2dust/v2rayNG
+- v2rayN — https://github.com/2dust/v2rayN
+- NekoBox — https://github.com/MatsuriDayo/NekoBoxForAndroid
+- Hiddify — https://github.com/hiddify/hiddify-app
+- sing-box — https://github.com/SagerNet/sing-box
+- Shadowrocket — https://apps.apple.com/app/shadowrocket/id932747118
+- Streisand — App Store: https://apps.apple.com/app/streisand/id6450534064
+
+Подойдёт любой клиент, который импортирует подписку по URL и поддерживает нужный протокол.
+
+## Зеркала
+
+Если основной домен недоступен, тот же файл можно получить с зеркал. Замените `{file}` на `podpiska.txt`, `fastest.txt` или `Top500.txt`:
+
+- `https://vless.svinakraft.workers.dev/{file}` — основной, Cloudflare Workers.
+- `https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — GitHub Raw.
+- `https://cdn.jsdelivr.net/gh/svinakraft-maker/FlareFeed@main/public/{file}` — jsDelivr.
+- `https://gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — gh-proxy.
+- `https://ghfast.top/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — ghfast.
+- `https://ghproxy.net/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — ghproxy.net.
+- `https://hk.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — hk.gh-proxy.
+- `https://edgeone.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — edgeone.gh-proxy.
+- `https://cdn.gh-proxy.org/https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/{file}` — cdn.gh-proxy.
+
+Содержимое зеркал идентично. Доступность зеркал зависит от сети и может меняться.
+
+## Частые вопросы
+
+**Что такое подписка?**  
+Текстовый файл со списком прокси-конфигов, по одному на строку. Клиент читает его по URL и сам добавляет все серверы; вручную копировать ключи не нужно.
+
+**Это бесплатно?**  
+Да. Регистрация, аккаунт и оплата не требуются.
+
+**Как часто обновляются списки?**  
+Примерно раз в час. Точное время и количество — в строке `#announce` каждого файла. Для `.txt` отключено долгое кэширование.
+
+**Чем MOBILE отличается от ALL?**  
+MOBILE — 100 самых быстрых серверов и лёгкий импорт. ALL — полный список для ПК и мощных клиентов. TOP 500 SECURE — приоритет защищённым транспортам Reality, TLS и QUIC.
+
+**Почему ссылка не открывается?**  
+Попробуйте зеркало из списка выше, другой DNS (например, 1.1.1.1) или другую сеть. Основной домен может быть недоступен у провайдера.
+
+**Это безопасно?**  
+Это публичные конфиги от независимых владельцев. Не используйте их для банковских операций, паролей и чувствительных данных. Для более защищённого транспорта выбирайте TOP 500 SECURE.
+
+**Можно ли использовать на нескольких устройствах?**  
+Да, одна ссылка работает на любом количестве устройств.
+
+## Машиночитаемые ресурсы
+
+- [llms.txt](https://vless.svinakraft.workers.dev/llms.txt) — этот файл.
+- [llms-full.txt](https://vless.svinakraft.workers.dev/llms-full.txt) — расширенное описание, формат, FAQ и контекст.
+- [subscriptions.json](https://vless.svinakraft.workers.dev/subscriptions.json) — JSON-манифест подписок, протоколов, зеркал и клиентов.
+- [sitemap.xml](https://vless.svinakraft.workers.dev/sitemap.xml) — карта сайта.
+- [robots.txt](https://vless.svinakraft.workers.dev/robots.txt) — правила обхода для поисковых и AI-краулеров.
+
+## Дисклеймер
+
+FlareFeed — независимый информационный проект, не связанный с Cloudflare Inc. или разработчиками клиентов. Конфиги предоставляются «как есть», без гарантий скорости и доступности. Используйте только в законных целях и в соответствии с законодательством вашей страны.
