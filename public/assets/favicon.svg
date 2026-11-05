@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="FlareFeed">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffc487"/>
+      <stop offset=".45" stop-color="#ffa040"/>
+      <stop offset="1" stop-color="#ff5f00"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#g)"/>
+  <path d="M18.6 3.5 9 17.6h6.2L13.6 28.5 23.5 14.3h-6.5l1.6-10.8Z" fill="#1a0900"/>
+</svg>
