@@ -1,7 +1,15 @@
 /* =========================================================
-   FlareFeed · globe-init.js
+   FlareFeed · globe-init.js  (v3 · live data)
    Wires the 3D globe section: lazy load, list, filters,
    sorting, counters, keyboard access.
+
+   Data flow:
+     1. Render instantly from the static /geo.json snapshot so
+        the section is never empty (fast first paint).
+     2. Fetch the live subscriptions (podpiska.txt / fastest.txt
+        / Top500.txt), parse country + ping + speed, and refresh
+        markers, list and counters with current numbers.
+        Numbers / countries therefore never go stale.
    ========================================================= */
 (function () {
   'use strict';
@@ -19,6 +27,133 @@
   var state = { sort: 'n', filter: 'all', data: null, list: [] };
   var globe = null;
   var started = false;
+
+  /* ---------------- live subscription parsing ----------------
+     podpiska.txt -> ALL     (every verified config)
+     fastest.txt  -> MOBILE  (top 100 low-latency)
+     Top500.txt   -> SECURE  (top 500 protected)
+     A config line looks like:
+       vless://…#0001 | 🇨🇦 Canada | [316ms11.2mbps] | 🏴 Black | TG: @FlareFeedtg
+  ------------------------------------------------------------ */
+  var SUBSCRIPTIONS = [
+    { url: '/podpiska.txt', key: 'all' },
+    { url: '/fastest.txt', key: 'mobile' },
+    { url: '/Top500.txt', key: 'secure' }
+  ];
+
+  var STATS_RE = /\[\s*(\d+)\s*ms\s*([\d.]+)\s*mbps\s*\]/i;
+  var FLAG_RE = /([\u{1F1E6}-\u{1F1FF}]{2})/u;
+
+  var NAME_TO_CC = {
+    'cloudflare': 'CF', 'usa': 'US', 'united states': 'US',
+    'hong kong': 'HK', 'hongkong': 'HK', 'south korea': 'KR',
+    'korea': 'KR', 'russia': 'RU', 'uk': 'GB', 'united kingdom': 'GB',
+    'vietnam': 'VN', 'viet nam': 'VN', 'czechia': 'CZ', 'taiwan': 'TW',
+    'china': 'CN', 'netherlands': 'NL', 'germany': 'DE', 'france': 'FR',
+    'japan': 'JP', 'singapore': 'SG', 'canada': 'CA', 'india': 'IN',
+    'turkey': 'TR', 'türkiye': 'TR', 'uae': 'AE', 'emirates': 'AE',
+    'moldova': 'MD'
+  };
+
+  var COUNTRY_META = {};
+  var PROTO_RE = /^([a-z0-9]+):\/\//i;
+
+  function buildMeta(geo) {
+    COUNTRY_META = {};
+    var countries = (geo && geo.countries) || [];
+    countries.forEach(function (c) {
+      COUNTRY_META[c.cc] = { ru: c.ru, en: c.en, lat: c.lat, lon: c.lon };
+    });
+  }
+
+  function flagToCc(flag) {
+    return Array.from(flag).map(function (ch) {
+      return String.fromCharCode(ch.codePointAt(0) - 0x1F1E6 + 65);
+    }).join('');
+  }
+
+  function parseSubscriptions(text, key, acc, proto) {
+    var lines = text.split('\n');
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i];
+      if (!line || line.charAt(0) === '#' || line.indexOf('://') < 0) continue;
+
+      var pm = line.match(PROTO_RE);
+      if (pm) proto[pm[1].toLowerCase()] = 1;
+
+      var hash = line.indexOf('#');
+      var remark = hash >= 0 ? line.slice(hash + 1) : '';
+
+      var cc = null;
+      var fm = remark.match(FLAG_RE);
+      if (fm) cc = flagToCc(fm[1]);
+      if (!cc && remark.indexOf('\u2601') >= 0) cc = 'CF';
+      if (!cc) {
+        var low = remark.toLowerCase();
+        for (var name in NAME_TO_CC) {
+          if (low.indexOf(name) >= 0) { cc = NAME_TO_CC[name]; break; }
+        }
+      }
+      if (!cc) cc = 'UN';
+
+      var sm = remark.match(STATS_RE);
+      var ms = sm ? parseInt(sm[1], 10) : null;
+      var mbps = sm ? parseFloat(sm[2]) : null;
+
+      var row = acc[cc];
+      if (!row) row = acc[cc] = { n: 0, all: 0, mobile: 0, secure: 0, msSum: 0, msN: 0, mbps: 0 };
+      row[key] += 1;
+      row.n += 1;
+      if (ms != null && ms > 0) { row.msSum += ms; row.msN += 1; }
+      if (mbps != null && mbps > row.mbps) row.mbps = mbps;
+    }
+    return acc;
+  }
+
+  function mergeLiveCounters(acc) {
+    var out = [];
+    Object.keys(acc).forEach(function (cc) {
+      var meta = COUNTRY_META[cc];
+      if (!meta) return; /* no coordinates → cannot plot */
+      var row = acc[cc];
+      out.push({
+        cc: cc, ru: meta.ru, en: meta.en, lat: meta.lat, lon: meta.lon,
+        n: row.n, all: row.all, mobile: row.mobile, secure: row.secure,
+        ms: row.msN ? Math.round(row.msSum / row.msN) : null,
+        mbps: row.mbps ? Math.round(row.mbps * 10) / 10 : null
+      });
+    });
+    out.sort(function (a, b) { return b.n - a.n; });
+    return out;
+  }
+
+  function fetchText(url) {
+    return fetch(url, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) throw new Error(url + ' -> ' + r.status);
+      return r.text();
+    });
+  }
+
+  function refreshFromLive() {
+    return Promise.all(SUBSCRIPTIONS.map(function (s) {
+      return fetchText(s.url).then(function (txt) {
+        return { key: s.key, txt: txt };
+      }).catch(function () {
+        return { key: s.key, txt: null };
+      });
+    })).then(function (results) {
+      var acc = {};
+      var proto = {};
+      var got = 0;
+      results.forEach(function (r) {
+        if (r.txt == null) return;
+        got += 1;
+        parseSubscriptions(r.txt, r.key, acc, proto);
+      });
+      if (!got) throw new Error('no live subscription available');
+      return { countries: mergeLiveCounters(acc), protocols: proto };
+    });
+  }
 
   /* ---------------- helpers ---------------- */
   function fmt(n) {
@@ -122,12 +257,10 @@
     if (!el) return;
     to = Number(to) || 0;
     var finalText = to.toLocaleString('ru-RU') + (suffix || '');
-    // cancel any in-flight animation for this element
     if (el.__countRaf) { cancelAnimationFrame(el.__countRaf); el.__countRaf = null; }
     el.classList.remove('is-loading');
 
-    // Always commit the real value first: the count-up is decoration only,
-    // so a throttled/absent RAF can never leave a wrong number on screen.
+    // Always commit the real value first: count-up is decoration only.
     el.textContent = finalText;
 
     if (to === 0) return;
@@ -145,7 +278,6 @@
       el.__countRaf = requestAnimationFrame(tick);
     }
     el.__countRaf = requestAnimationFrame(tick);
-    // safety: guarantee the exact final value even if the RAF loop never finishes
     setTimeout(function () {
       if (el.__countRaf) { cancelAnimationFrame(el.__countRaf); el.__countRaf = null; }
       el.textContent = finalText;
@@ -205,10 +337,40 @@
       }
     });
 
-    globe.load('/geo.json', '/globe.json').then(function () {
+    globe.load('/geo.json', '/globe.json').then(function (geo) {
       globe.resize();
       globe.start();
       window.__flareGlobe = globe;
+
+      /* snapshot rendered → now refresh from the live subscriptions */
+      buildMeta(geo);
+      var staticTotal = 0;
+      (geo.countries || []).forEach(function (c) { staticTotal += c.n || 0; });
+
+      refreshFromLive().then(function (live) {
+        if (!live.countries.length) return;
+        /* mutate the globe's OWN geo object — onData is fed from
+           globe.geo, not from the local variable returned by load() */
+        var target = globe.geo || geo;
+        target.countries = live.countries;
+        target.countries_total = live.countries.length;
+        target.total_all = live.countries.reduce(function (s, c) { return s + (c.all || 0); }, 0);
+        if (live.protocols && Object.keys(live.protocols).length) {
+          target.protocols = live.protocols;
+        }
+        target.live = true;
+        target.generated_at = new Date().toISOString();
+
+        /* rebuild markers; buildMarkers() itself calls onData,
+           which refreshes the list and every counter */
+        globe.buildMarkers();
+        globe.resize();
+        window.__flareGlobeLive = true;
+        shell.classList.add('is-live');
+      }).catch(function (err) {
+        /* keep the static snapshot; never blank the section */
+        if (window.console) console.warn('[globe] live refresh failed, using snapshot', err);
+      });
     }).catch(function (err) {
       listEl.innerHTML = '<li class="globe-list-empty">Не удалось загрузить данные карты.</li>';
       Array.prototype.forEach.call(
@@ -250,52 +412,39 @@
     var zo = document.getElementById('globeZoomOut');
     var sp = document.getElementById('globeSpin');
     if (zi) zi.addEventListener('click', function () {
-      globe.tZoom = Math.min(3.4, globe.tZoom * 1.22);
+      globe.tZoom = Math.min(3.4, (globe.tZoom || globe.zoom || 1) * 1.18);
+      if (globe.zoom != null) globe.zoom = globe.tZoom;
     });
     if (zo) zo.addEventListener('click', function () {
-      globe.tZoom = Math.max(1, globe.tZoom / 1.22);
+      globe.tZoom = Math.max(0.55, (globe.tZoom || globe.zoom || 1) / 1.18);
+      if (globe.zoom != null) globe.zoom = globe.tZoom;
     });
     if (sp) sp.addEventListener('click', function () {
-      globe.autoSpin = !globe.autoSpin;
-      sp.classList.toggle('is-on', globe.autoSpin);
-    });
-
-    window.addEventListener('resize', function () {
-      clearTimeout(boot._rz);
-      boot._rz = setTimeout(function () { globe.resize(); }, 140);
+      globe.spin = !globe.spin;
+      sp.classList.toggle('is-on', globe.spin);
     });
   }
 
-  /* Lazy start: animate once the section is near the viewport.
-     Safety net: always boot after a short delay so a missed observer
-     callback (hidden tab, nested frame, no-IO browser) can never leave
-     the section permanently empty. */
-  var booted = false;
-  function bootOnce() {
-    if (booted) return;
-    booted = true;
-    boot();
-  }
-
-  if ('IntersectionObserver' in window) {
-    var io = new IntersectionObserver(function (entries) {
-      entries.forEach(function (e) {
-        if (e.isIntersecting) { bootOnce(); io.disconnect(); }
-      });
-    }, { rootMargin: '260px 0px' });
-    io.observe(shell);
-    setTimeout(function () {
-      if (!booted && isNearViewport()) bootOnce();
-    }, 1200);
-    // hard fallback: never leave the section empty
-    setTimeout(bootOnce, 6000);
-  } else {
-    bootOnce();
-  }
-
+  /* ---------------- lazy start ---------------- */
   function isNearViewport() {
     var r = shell.getBoundingClientRect();
     var vh = window.innerHeight || document.documentElement.clientHeight || 0;
     return r.top < vh + 300 && r.bottom > -300;
+  }
+
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        if (entries[i].isIntersecting) { io.disconnect(); boot(); return; }
+      }
+    }, { rootMargin: '300px 0px' });
+    io.observe(shell);
+    /* fallback: always bootstrap, even if the observer never fires */
+    setTimeout(function () {
+      if (!started && isNearViewport()) boot();
+    }, 2500);
+    setTimeout(function () { if (!started) boot(); }, 6000);
+  } else {
+    boot();
   }
 })();
