@@ -47,7 +47,7 @@
 <!-- Fonts: self-hosted, subset, preloaded -->
 <link rel="preload" href="/assets/fonts/unbounded-lat.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/inter-cyr.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=20261105">
+<link rel="stylesheet" href="/assets/style.css?v=20261106">
 
 <script type="application/ld+json">
 {
@@ -287,6 +287,8 @@
       <a href="#subs">Подписки</a>
       <a href="#protocols">Протоколы</a>
       <a href="#mirrors">Зеркала</a>
+      <a href="#map">Карта</a>
+      <a href="#pipeline">Конвейер</a>
       <a href="#how">Подключение</a>
       <a href="#faq">FAQ</a>
     </nav>
@@ -310,6 +312,8 @@
     <a href="#subs">Подписки</a>
     <a href="#protocols">Протоколы</a>
     <a href="#mirrors">Зеркала</a>
+    <a href="#map">Карта мира</a>
+    <a href="#pipeline">Конвейер</a>
     <a href="#how">Подключение</a>
     <a href="#faq">FAQ</a>
     <a href="#ai">Для ИИ и разработчиков</a>
@@ -784,6 +788,217 @@
     </div>
   </section>
 
+    <!-- ==================== GLOBAL MAP ==================== -->
+  <section class="wrap section globe-section" id="map" aria-labelledby="mapTitle">
+    <div class="section-head">
+      <div>
+        <p class="section-kicker">04 — Карта мира</p>
+        <h2 class="section-title" id="mapTitle">Где живут эти <em>конфиги</em></h2>
+      </div>
+      <p class="section-lead">
+        Каждая точка на глобусе — страна, из которой реально отвечает хотя бы один узел
+        подписки. Размер точки пропорционален числу конфигов, яркость — числу рабочих
+        узлов в текущем наборе. Вращайте глобус мышью, приближайте колесом, наведите
+        курсор на точку или выберите страну из списка справа — камера сама подлетит к ней.
+      </p>
+    </div>
+
+    <div class="globe-shell" id="globeShell">
+      <div class="globe-stage">
+        <canvas id="globeCanvas" width="900" height="660"
+                role="img"
+                aria-label="Трёхмерный глобус с точками стран, в которых найдены рабочие VPN-конфиги"></canvas>
+
+        <div class="globe-toolbar" role="group" aria-label="Фильтр набора конфигов">
+          <button type="button" class="globe-filter is-on" data-globe-filter="all">
+            Все<small id="gfAll">—</small>
+          </button>
+          <button type="button" class="globe-filter" data-globe-filter="mobile">
+            Мобильные<small id="gfMobile">—</small>
+          </button>
+          <button type="button" class="globe-filter" data-globe-filter="secure">
+            Top 500<small id="gfSecure">—</small>
+          </button>
+        </div>
+
+        <div class="globe-zoom" role="group" aria-label="Масштаб">
+          <button type="button" id="globeZoomIn" aria-label="Приблизить">+</button>
+          <button type="button" id="globeZoomOut" aria-label="Отдалить">−</button>
+          <button type="button" id="globeSpin" class="is-on" aria-label="Автовращение" title="Автовращение">⟳</button>
+        </div>
+
+        <div class="globe-readout" id="globeReadout" aria-live="polite">
+          <span class="globe-readout-dot"></span>
+          <span id="globeReadoutText">Наведите курсор на точку, чтобы увидеть страну</span>
+        </div>
+      </div>
+
+      <aside class="globe-panel">
+        <div class="globe-panel-head">
+          <h3>Страны в подписке</h3>
+          <span class="globe-badge" id="globeCount">—</span>
+        </div>
+
+        <div class="globe-sorts" role="group" aria-label="Сортировка стран">
+          <button type="button" class="globe-sort is-on" data-sort="n">По количеству</button>
+          <button type="button" class="globe-sort" data-sort="ms">По пингу</button>
+          <button type="button" class="globe-sort" data-sort="mbps">По скорости</button>
+        </div>
+
+        <ul class="globe-list" id="globeList">
+          <li class="globe-list-empty">Загрузка данных…</li>
+        </ul>
+
+        <div class="globe-legend">
+          <p><span class="globe-dot-lg"></span> много конфигов</p>
+          <p><span class="globe-dot-sm"></span> мало конфигов</p>
+          <p><span class="globe-dot-mid"></span> есть рабочие узлы</p>
+        </div>
+      </aside>
+    </div>
+
+    <div class="globe-facts">
+      <article class="fact-card">
+        <span class="fact-num" id="factCountries">—</span>
+        <span class="fact-label">стран с рабочими узлами</span>
+        <p>Проверка идёт с одного хоста, поэтому одна и та же страна может показывать разное
+           число живых конфигов в разное время суток.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-num" id="factConfigs">—</span>
+        <span class="fact-label">конфигов в полном наборе</span>
+        <p>Это результат последнего обхода: адреса, которые ответили и прошли глубокую проверку
+           на всех контрольных целях.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-num" id="factProtocols">—</span>
+        <span class="fact-label">протоколов одновременно</span>
+        <p>VLESS, VMess, Trojan, Shadowsocks, Hysteria2 и TUIC живут в одной подписке — клиент
+           сам выбирает подходящий транспорт.</p>
+      </article>
+      <article class="fact-card">
+        <span class="fact-num" id="factTop">—</span>
+        <span class="fact-label">латентность лучшего узла</span>
+        <p>Самый низкий пинг среди всех стран. Значение измеряется до узла, а не до сайта,
+           поэтому реальная скорость зависит от вашего провайдера.</p>
+      </article>
+    </div>
+  </section>
+
+    <!-- ==================== PIPELINE ==================== -->
+  <section class="wrap section" id="pipeline" aria-labelledby="pipelineTitle">
+    <div class="section-head">
+      <div>
+        <p class="section-kicker">05 — Конвейер</p>
+        <h2 class="section-title" id="pipelineTitle">Как адрес становится <em>рабочим конфигом</em></h2>
+      </div>
+      <p class="section-lead">
+        Между публикацией в Telegram и строкой в вашей подписке лежит шесть шагов.
+        Ниже — реальная последовательность: сначала дешёвая проверка отсекает мёртвое,
+        потом дорогая подтверждает живое. Порядок важен: если поменять местами третий и
+        четвёртый шаг, обход начнёт тратить часы на адреса, которые уже не отвечают.
+      </p>
+    </div>
+
+    <ol class="pipe" id="pipe">
+      <li class="pipe-step is-active" data-step="0">
+        <span class="pipe-idx">01</span>
+        <h3>Сбор</h3>
+        <p>Парсер забирает публикации из источников каждые несколько минут и вытаскивает
+           из них ссылки: <code>vless://</code>, <code>vmess://</code>, <code>trojan://</code>,
+           <code>ss://</code>, <code>hysteria2://</code>, <code>tuic://</code>.</p>
+        <span class="pipe-tag">без запуска клиента</span>
+      </li>
+      <li class="pipe-step" data-step="1">
+        <span class="pipe-idx">02</span>
+        <h3>Разбор и дедупликация</h3>
+        <p>Из каждой ссылки достаются адрес, порт, транспорт и параметры безопасности.
+           Дубликаты схлопываются по отпечатку, поэтому одна и та же нода, разосланная
+           десятью каналами, занимает одну строку.</p>
+        <span class="pipe-tag">md5-отпечаток</span>
+      </li>
+      <li class="pipe-step" data-step="2">
+        <span class="pipe-idx">03</span>
+        <h3>Быстрый отсев</h3>
+        <p>Сначала дешёвая проверка: открывается TCP-соединение и измеряется время отклика.
+           Всё, что молчит дольше таймаута или вообще не отвечает, дальше не идёт —
+           это экономит основную часть времени обхода.</p>
+        <span class="pipe-tag">только сокет</span>
+      </li>
+      <li class="pipe-step" data-step="3">
+        <span class="pipe-idx">04</span>
+        <h3>Глубокая проверка</h3>
+        <p>Уцелевшие адреса проверяются по-настоящему: поднимается соединение и делается
+           запрос к контрольным целям. Конфиг считается живым, только если ответ получен
+           от каждой из них.</p>
+        <span class="pipe-tag">5 контрольных целей</span>
+      </li>
+      <li class="pipe-step" data-step="4">
+        <span class="pipe-idx">05</span>
+        <h3>Замер и сортировка</h3>
+        <p>Для живых узлов замеряется задержка и пропускная способность. По этим числам
+           строятся три набора: полный, мобильный (самые быстрые) и Top 500
+           (самые устойчивые).</p>
+        <span class="pipe-tag">пинг + скорость</span>
+      </li>
+      <li class="pipe-step" data-step="5">
+        <span class="pipe-idx">06</span>
+        <h3>Публикация</h3>
+        <p>Готовые списки раскладываются по файлам и зеркалам. Каждый прогон обновляет
+           те же адреса, поэтому ссылка на подписку не меняется — клиент сам подтянет
+           новую версию при следующей синхронизации.</p>
+        <span class="pipe-tag">каждый час</span>
+      </li>
+    </ol>
+
+    <div class="pipe-terminal" aria-hidden="true">
+      <div class="pipe-term-bar">
+        <span></span><span></span><span></span>
+        <em>прогон — журнал</em>
+      </div>
+      <pre id="pipeLog" class="pipe-term-body"></pre>
+    </div>
+  </section>
+
+  <!-- ==================== WHY ==================== -->
+  <section class="wrap section" id="why" aria-labelledby="whyTitle">
+    <div class="section-head">
+      <div>
+        <p class="section-kicker">06 — Принципы</p>
+        <h2 class="section-title" id="whyTitle">Что мы делаем и чего <em>не делаем</em></h2>
+      </div>
+      <p class="section-lead">
+        Проект существует, потому что искать рабочие адреса вручную — это часы перебора.
+        Здесь всё сводится к одной ссылке, которую нужно обновлять раз в сутки. Ниже —
+        границы: что технически возможно, а что остаётся за пределами.
+      </p>
+    </div>
+
+    <div class="why-grid">
+      <article class="why-card why-do">
+        <h3>Что есть</h3>
+        <ul>
+          <li>Публичный список живых адресов — без регистрации и почты.</li>
+          <li>Три набора под разные задачи: полный, мобильный, устойчивый.</li>
+          <li>Несколько зеркал, чтобы одна блокировка не ломала доступ.</li>
+          <li>Единая подписка: клиент сам подтягивает свежие узлы.</li>
+          <li>Открытый формат — ссылку можно проверить в любой момент.</li>
+        </ul>
+      </article>
+
+      <article class="why-card why-dont">
+        <h3>Чего нет</h3>
+        <ul>
+          <li>Своей серверной инфраструктуры: узлы принадлежат не нам.</li>
+          <li>Гарантий скорости: она зависит от вашего провайдера и часа суток.</li>
+          <li>Хранения истории: проверка идёт с одного хоста и не ведёт профили.</li>
+          <li>Рекламы и платных тарифов — оплачивать здесь нечего.</li>
+          <li>Обещаний «вечного» узла: адреса живут дни и недели, это норма.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
   <section class="wrap section" id="how" aria-labelledby="howTitle">
     <div class="section-head">
       <div>
@@ -990,5 +1205,8 @@
 <div class="toast" id="toast" role="status" aria-live="polite" aria-atomic="true"></div>
 
 <script src="/assets/app.js?v=20261105" defer></script>
+<script src="/assets/globe.js?v=20261106" defer></script>
+<script src="/assets/globe-init.js?v=20261106" defer></script>
+<script src="/assets/pipeline.js?v=20261106" defer></script>
 </body>
 </html>
