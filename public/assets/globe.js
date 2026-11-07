@@ -124,11 +124,18 @@
   Globe.prototype.buildMarkers = function () {
     var countries = (this.geo && this.geo.countries) || [];
     var key = this.filter === 'mobile' ? 'mobile' : (this.filter === 'secure' ? 'secure' : 'all');
-    var list = countries.map(function (c) {
+    /* Every country with live configs stays in `all` so the filters,
+       the list and the totals add up. Only countries with real
+       coordinates become globe markers. */
+    var all = countries.map(function (c) {
       return { cc: c.cc, ru: c.ru, en: c.en, lat: c.lat, lon: c.lon, n: c[key] || 0,
                ms: c.ms, mbps: c.mbps, all: c.all, mobile: c.mobile, secure: c.secure };
     }).filter(function (c) { return c.n > 0; });
-    list.sort(function (a, b) { return b.n - a.n; });
+    all.sort(function (a, b) { return b.n - a.n; });
+
+    var list = all.filter(function (c) {
+      return c.lat != null && c.lon != null && isFinite(c.lat) && isFinite(c.lon);
+    });
 
     var maxN = list.length ? list[0].n : 1;
     var lonR, latR, cl;
@@ -144,7 +151,7 @@
     // per-country lookup for borders
     this.byCc = {};
     list.forEach(function (c) { this.byCc[c.cc] = c; }, this);
-    if (this.hooks.onData) this.hooks.onData(this.geo, list, key);
+    if (this.hooks.onData) this.hooks.onData(this.geo, all, key);
   };
 
   Globe.prototype.setFilter = function (f) {
