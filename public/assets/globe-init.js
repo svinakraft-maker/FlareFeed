@@ -56,6 +56,23 @@
   };
 
   var COUNTRY_META = {};
+  /* Fallback labels for countries that may appear in live data but
+     are missing from the geo snapshot (so they carry no coordinates). */
+  var COUNTRY_NAMES = {
+    CF: 'Cloudflare', UN: 'Неизвестно', AL: 'Albania', SK: 'Slovakia',
+    GR: 'Greece', NZ: 'New Zealand', LT: 'Lithuania', LV: 'Latvia',
+    EE: 'Estonia', FI: 'Finland', SE: 'Sweden', NO: 'Norway',
+    DK: 'Denmark', PL: 'Poland', RO: 'Romania', BG: 'Bulgaria',
+    HU: 'Hungary', AT: 'Austria', CH: 'Switzerland', BE: 'Belgium',
+    IE: 'Ireland', PT: 'Portugal', ES: 'Spain', IT: 'Italy',
+    RS: 'Serbia', HR: 'Croatia', SI: 'Slovenia', UA: 'Ukraine',
+    KZ: 'Kazakhstan', BY: 'Belarus', GE: 'Georgia', AM: 'Armenia',
+    AZ: 'Azerbaijan', IL: 'Israel', SA: 'Saudi Arabia', QA: 'Qatar',
+    KW: 'Kuwait', IR: 'Iran', PK: 'Pakistan', BD: 'Bangladesh',
+    TH: 'Thailand', MY: 'Malaysia', ID: 'Indonesia', PH: 'Philippines',
+    AU: 'Australia', AR: 'Argentina', BR: 'Brazil', CL: 'Chile',
+    MX: 'Mexico', ZA: 'South Africa', NG: 'Nigeria', EG: 'Egypt'
+  };
   var PROTO_RE = /^([a-z0-9]+):\/\//i;
 
   function buildMeta(geo) {
@@ -113,11 +130,17 @@
   function mergeLiveCounters(acc) {
     var out = [];
     Object.keys(acc).forEach(function (cc) {
-      var meta = COUNTRY_META[cc];
-      if (!meta) return; /* no coordinates → cannot plot */
+      /* Countries missing from the geo snapshot still have live
+         configs. Keep them in the list and in every counter; only
+         the globe marker is skipped when coordinates are unknown. */
+      var meta = COUNTRY_META[cc] || {};
       var row = acc[cc];
       out.push({
-        cc: cc, ru: meta.ru, en: meta.en, lat: meta.lat, lon: meta.lon,
+        cc: cc,
+        ru: meta.ru || COUNTRY_NAMES[cc] || cc,
+        en: meta.en || COUNTRY_NAMES[cc] || cc,
+        lat: meta.lat != null ? meta.lat : null,
+        lon: meta.lon != null ? meta.lon : null,
         n: row.n, all: row.all, mobile: row.mobile, secure: row.secure,
         ms: row.msN ? Math.round(row.msSum / row.msN) : null,
         mbps: row.mbps ? Math.round(row.mbps * 10) / 10 : null
