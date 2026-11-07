@@ -230,6 +230,105 @@
   });
 
   /* ---------- live stats from the subscription header ---------- */
+
+  /* Reads only the leading comment block of a subscription file.
+     The header carries both the exact config count and the build
+     time, so a few KB are enough — we never download the whole file. */
+  function readAnnounce(url, options) {
+    return window.fetch(url + '?ts=' + Date.now(), options).then(function (response) {
+      if (!response.ok || !response.body || !response.body.getReader) return null;
+
+      var reader = response.body.getReader();
+      var decoder = new TextDecoder();
+      var text = '';
+
+      function readChunk() {
+        return reader.read().then(function (chunk) {
+          if (chunk.value) text += decoder.decode(chunk.value, { stream: true });
+          if (chunk.done || /#announce:[^\n]*/.test(text) || text.length > 12000) {
+            try { reader.cancel(); } catch (error) {}
+            return text;
+          }
+          return readChunk();
+        });
+      }
+
+      return readChunk();
+    }).catch(function () {
+      return null;
+    });
+  }
+
+  function parseAnnounce(header) {
+    if (!header) return null;
+    var announceMatch = header.match(/#announce:[^\n]*/i);
+    if (!announceMatch) return null;
+    var announce = announceMatch[0];
+    var countMatch = announce.match(/(\d[\d\s]*)\s+configs/i);
+    var dateMatch = announce.match(/last update:\s*([^\n]+)/i);
+    return {
+      count: countMatch ? parseInt(countMatch[1].replace(/\s/g, ''), 10) : 0,
+      date: dateMatch && dateMatch[1] ? dateMatch[1].trim() : null
+    };
+  }
+
+  function fmtCount(n) {
+    return new Intl.NumberFormat('ru-RU').format(n).replace(/\u00A0|\u202F/g, ' ');
+  }
+
+  function setLive(attr, value) {
+    if (value === null || value === undefined || value === '') return;
+    $$('[data-live="' + attr + '"]').forEach(function (node) {
+      node.textContent = value;
+    });
+  }
+
+  /* Per-protocol files carry their own #announce header with an exact count.
+     Counting the lines client-side would require downloading up to ~380 KB
+     each; the header is authoritative and nearly free. */
+  var PROTOCOL_FILES = [
+    { id: 'vless', file: '/vless.txt' },
+    { id: 'hysteria2', file: '/hysteria2.txt' },
+    { id: 'trojan', file: '/trojan.txt' },
+    { id: 'ss', file: '/ss.txt' },
+    { id: 'vmess', file: '/vmess.txt' }
+  ];
+
+  /* Subscription cards: exact counts and real file sizes. */
+  var CARD_FILES = [
+    { id: 'mobile', file: '/fastest.txt' },
+    { id: 'all', file: '/podpiska.txt' },
+    { id: 'secure', file: '/Top500.txt' }
+  ];
+
+  function fmtSize(bytes) {
+    if (!bytes) return null;
+    return Math.max(1, Math.round(bytes / 1024));
+  }
+
+  function loadFileFacts(options) {
+    /* HEAD gives the byte size cheaply; the header read gives the count. */
+    CARD_FILES.forEach(function (card) {
+      window.fetch(card.file + '?ts=' + Date.now(), { method: 'HEAD', cache: 'no-store', credentials: 'same-origin' })
+        .then(function (r) {
+          if (!r.ok) return;
+          var len = parseInt(r.headers.get('content-length') || '0', 10);
+          if (len > 0) setLive(card.id + '-size', String(fmtSize(len)));
+        })
+        .catch(function () {});
+    });
+  }
+
+  function loadProtocolStats(options) {
+    PROTOCOL_FILES.forEach(function (p) {
+      readAnnounce(p.file, options).then(function (header) {
+        var parsed = parseAnnounce(header);
+        if (!parsed || !parsed.count) return;
+        setLive('proto-' + p.id, '~' + fmtCount(parsed.count));
+      });
+    });
+  }
+
   function loadLiveStats() {
     if (!window.fetch || !window.TextDecoder || location.protocol === 'file:') return;
     if (navigator.connection && navigator.connection.saveData) return;
@@ -243,6 +342,9 @@
 
     var options = { cache: 'no-store', credentials: 'same-origin' };
     if (controller) options.signal = controller.signal;
+
+    loadProtocolStats(options);
+    loadFileFacts(options);
 
     window.fetch('/podpiska.txt?ts=' + Date.now(), options).then(function (response) {
       if (!response.ok || !response.body || !response.body.getReader) return;
@@ -272,10 +374,9 @@
         var count = countMatch ? parseInt(countMatch[1].replace(/\s/g, ''), 10) : 0;
 
         if (count > 0) {
-          var formatted = new Intl.NumberFormat('ru-RU').format(count).replace(/\u00A0|\u202F/g, ' ');
-          $$('[data-live="count"]').forEach(function (node) {
-            node.textContent = formatted;
-          });
+          var formatted = fmtCount(count);
+          setLive('count', formatted);
+          setLive('all-count', formatted);
           var liveCount = $('#liveCount');
           if (liveCount) liveCount.textContent = formatted + ' конфигов';
         }
@@ -295,6 +396,20 @@
       });
     }).catch(function () {
       /* Keep the static fallback: the page must never depend on this request. */
+    });
+
+    /* MOBILE card + hero terminal reflect the fastest.txt build. */
+    readAnnounce('/fastest.txt', options).then(function (header) {
+      var parsed = parseAnnounce(header);
+      if (!parsed) return;
+      if (parsed.count) setLive('mobile-count', fmtCount(parsed.count));
+      if (parsed.date) setLive('mobile-date', parsed.date);
+    });
+
+    /* SECURE card reflects the Top500.txt build. */
+    readAnnounce('/Top500.txt', options).then(function (header) {
+      var parsed = parseAnnounce(header);
+      if (parsed && parsed.count) setLive('secure-count', fmtCount(parsed.count));
     });
   }
 
