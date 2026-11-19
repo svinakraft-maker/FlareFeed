@@ -2,16 +2,14 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 11 configs · last update: 19:31 19/11/2026
+#announce: t.me/FlareFeedtg · 9 configs · last update: 19:37 19/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru3.net&type=tcp#0001 | 🌐 Unknown | [695ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com&path=/#0002 | 🌐 Unknown | [1155ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#0003 | 🌐 Unknown | [1160ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vmess://eyJhZGQiOiIxNzIuNjQuMTQ1LjkzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0Ijo0NDMsInBzIjoiMDAwNCB8IPCfjJAgVW5rbm93biB8IFsxMjYybXMwLjBtYnBzXSB8IPCfj7QgQmxhY2sgfCBURzogQEZsYXJlRmVlZHRnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIn0=#0004 | 🌐 Unknown | [1262ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0005 | 🌐 Unknown | [1344ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.85:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=mother-earth.fyi#0006 | 🌐 Unknown | [1801ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0007 | 🌐 Unknown | [1809ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#0008 | 🌐 Unknown | [1922ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&sni=www.unlockyourfuturefindyourperfectcareer.com&path=%2f#0009 | 🌐 Unknown | [2562ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#0010 | 🌐 Unknown | [2713ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.64.254:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#0011 | 🌐 Unknown | [3506ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&sni=www.unlockyourfuturefindyourperfectcareer.com&path=%2f#0001 | 🌐 Unknown | [924ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com&path=/#0002 | 🌐 Unknown | [1277ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0003 | 🌐 Unknown | [1455ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.64.254:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#0004 | 🌐 Unknown | [1551ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#0005 | 🌐 Unknown | [1736ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#0006 | 🌐 Unknown | [1889ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0007 | 🌐 Unknown | [2484ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru3.net&type=tcp#0008 | 🌐 Unknown | [2844ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#0009 | 🌐 Unknown | [3406ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
