@@ -2,8 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 3 configs · last update: 21:18 19/11/2026
+#announce: t.me/FlareFeedtg · 2 configs · last update: 00:23 20/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#0001 | 🌐 Unknown | [838ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0002 | 🌐 Unknown | [1755ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0003 | 🌐 Unknown | [2545ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0001 | 🌐 Unknown | [1298ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0002 | 🌐 Unknown | [1305ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
