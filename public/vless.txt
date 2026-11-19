@@ -2,15 +2,15 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 10 configs · last update: 19:41 19/11/2026
+#announce: t.me/FlareFeedtg · 10 configs · last update: 19:42 19/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?security=none&type=ws&path=%2Fusserver&host=uspanel.unixzone.us&packetEncoding=xudp&sni=uspanel.unixzone.us#0001 | 🌐 Unknown | [1142ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&type=ws#0002 | 🌐 Unknown | [1543ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#0003 | 🌐 Unknown | [1663ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#0004 | 🌐 Unknown | [1766ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#0005 | 🌐 Unknown | [2149ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0006 | 🌐 Unknown | [2294ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#0007 | 🌐 Unknown | [2630ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#0008 | 🌐 Unknown | [3325ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.64.254:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#0009 | 🌐 Unknown | [3458ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0010 | 🌐 Unknown | [4490ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0001 | 🌐 Unknown | [283ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?path=%2Fvless&security=none&type=ws#0002 | 🌐 Unknown | [403ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0003 | 🌐 Unknown | [498ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#0004 | 🌐 Unknown | [750ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@uspanel.unixzone.us:30016?security=none&type=ws&path=%2Fusserver&host=uspanel.unixzone.us&packetEncoding=xudp&sni=uspanel.unixzone.us#0005 | 🌐 Unknown | [762ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=firefox&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#0006 | 🌐 Unknown | [1197ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=chrome&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&encryption=none#0007 | 🌐 Unknown | [1229ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.64.254:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#0008 | 🌐 Unknown | [1231ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#0009 | 🌐 Unknown | [1237ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.235:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru3.net&type=tcp#0010 | 🌐 Unknown | [2700ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
