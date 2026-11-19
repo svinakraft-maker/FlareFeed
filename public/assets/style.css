@@ -424,6 +424,88 @@ body.menu-open{overflow:hidden}
   .mobile-nav,.menu-backdrop{display:none!important}
 }
 
+/* ---------- splash ---------- */
+.splash{
+  position:relative;
+  display:grid;
+  grid-template-rows:1fr auto auto;
+  align-items:center;
+  min-height:100svh;
+  padding:max(24px,4vh) max(16px,2vw);
+  overflow:hidden;
+  background:var(--bg);
+  border-bottom:1px solid var(--line);
+}
+.splash-word{
+  position:relative;
+  width:100%;
+  margin:auto;
+  font-family:var(--display);
+  font-size:14.35vw;
+  font-weight:800;
+  line-height:.82;
+  letter-spacing:-.085em;
+  text-align:center;
+  white-space:nowrap;
+  color:var(--orange-2);
+  filter:none;
+}
+.splash-word span{display:inline}
+@supports (background-clip:text){
+  .splash-word{
+    background-image:linear-gradient(104deg,#ff681c 16%,#ffc17d 34%,#d86724 42%,#3b1e12 49%,#110806 51%,#3b1e12 53%,#d86724 58%,#ffa348 70%,#ff681c 86%);
+    background-size:240% 100%;
+    background-position:100% 50%;
+    background-clip:text;
+    color:transparent;
+  }
+  @media (prefers-reduced-motion:no-preference){
+    .splash-word{animation:splash-flare 7s ease-in-out infinite alternate}
+  }
+}
+@keyframes splash-flare{
+  from{background-position:100% 50%}
+  to{background-position:0% 50%}
+}
+.splash-note{
+  position:relative;
+  margin:0;
+  padding-top:24px;
+  color:var(--muted);
+  font-size:clamp(14px,1.5vw,20px);
+  letter-spacing:.02em;
+  text-align:center;
+}
+.splash-down{
+  position:relative;
+  justify-self:center;
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  margin-top:24px;
+  padding:10px 18px;
+  border:1px solid rgba(255,106,0,.45);
+  border-radius:999px;
+  color:var(--orange-2);
+  font-family:var(--mono);
+  font-size:12px;
+  text-decoration:none;
+}
+.splash-down::after{content:"↓";font-size:15px}
+.splash-down:hover{background:rgba(255,106,0,.1)}
+@media(max-width:600px){
+  .splash-word{
+    font-size:23.5vw;
+    line-height:.86;
+    letter-spacing:-.065em;
+  }
+  .splash-word span{display:block}
+  .splash-note{padding-top:18px}
+}
+@media(forced-colors:active){
+  .splash-word{background-image:none;color:CanvasText;filter:none}
+}
+
 /* ---------- hero ---------- */
 .hero{
   position:relative;
@@ -457,19 +539,6 @@ body.menu-open{overflow:hidden}
   line-height:.9;
   letter-spacing:-.065em;
   color:#fff;
-}
-.hero-title .brand{
-  display:block;
-  white-space:nowrap;
-  text-shadow:0 0 70px rgba(255,255,255,.09);
-}
-.hero-title .brand em{
-  font-style:normal;
-  background:linear-gradient(100deg,#ff5a00,#ffa040 36%,#ffe3b8 50%,#ffa040 64%,#ff5a00);
-  -webkit-background-clip:text;
-  background-clip:text;
-  color:transparent;
-  filter:drop-shadow(0 0 36px rgba(255,106,0,.32));
 }
 .hero-subtitle{
   display:block;
