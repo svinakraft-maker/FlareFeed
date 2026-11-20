@@ -2,12 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 7 configs · last update: 06:22 20/11/2026
+#announce: t.me/FlareFeedtg · 5 configs · last update: 09:22 20/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0001 | 🌐 Unknown | [270ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0002 | 🌐 Unknown | [384ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#0003 | 🌐 Unknown | [786ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE4MDAwLCJwcyI6IjAwMDQgfCDwn4yQIFVua25vd24gfCBbODMxbXMwLjBtYnBzXSB8IPCfj7QgQmxhY2sgfCBURzogQEZsYXJlRmVlZHRnIiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9#0004 | 🌐 Unknown | [831ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0005 | 🌐 Unknown | [1243ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0006 | 🌐 Unknown | [1247ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#0007 | 🌐 Unknown | [1548ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0001 | 🌐 Unknown | [461ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE4MDAwLCJwcyI6IjAwMDIgfCDwn4yQIFVua25vd24gfCBbODQ3bXMwLjBtYnBzXSB8IPCfj7QgQmxhY2sgfCBURzogQEZsYXJlRmVlZHRnIiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9#0002 | 🌐 Unknown | [847ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#0003 | 🌐 Unknown | [1216ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&path=/#0004 | 🌐 Unknown | [1232ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0005 | 🌐 Unknown | [2492ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
