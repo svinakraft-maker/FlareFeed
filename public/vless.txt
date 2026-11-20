@@ -2,9 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 4 configs · last update: 03:20 20/11/2026
+#announce: t.me/FlareFeedtg · 4 configs · last update: 06:22 20/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0001 | 🌐 Unknown | [277ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0002 | 🌐 Unknown | [434ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#0003 | 🌐 Unknown | [715ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#0004 | 🌐 Unknown | [1109ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=/vless&host=138.124.70.41&packetEncoding=xudp&sni=138.124.70.41&encryption=none#0001 | 🌐 Unknown | [270ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?security=none&type=ws&path=%2Fvless&host=5.178.109.174&packetEncoding=none&sni=5.178.109.174#0002 | 🌐 Unknown | [384ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#0003 | 🌐 Unknown | [786ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#0004 | 🌐 Unknown | [1548ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
