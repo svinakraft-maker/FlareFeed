@@ -2,8 +2,24 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 3 configs · last update: 15:40 21/11/2026
+#announce: t.me/FlareFeedtg · 19 configs · last update: 18:46 21/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-trojan://5398a62d-6fae-465d-8ffe-19418a8b561e@154.212.135.229:32770?sni=hkhy.jiasu.one#0001 | 🇸🇨 Seychelles | [1489ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://5398a62d-6fae-465d-8ffe-19418a8b561e@b-cm.jiasu.one:20306?allowInsecure=0&peer=tr02.jiasu.one&sni=tr02.jiasu.one#0002 | 🇯🇵 Japan | [2583ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://5398a62d-6fae-465d-8ffe-19418a8b561e@b-cm.jiasu.one:51480?allowInsecure=0&peer=de01.200913.xyz&sni=de01.200913.xyz#0003 | 🇯🇵 Japan | [4309ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://LSS6HLnp7IeEEJUcox@uk-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#0001 | 🇬🇧 United Kingdom | [345ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://HAB6WFjL2pKev0cN3ML1hz6V4pj1_S00@170.168.5.123:8228?security=tls&sni=nl100.marshonet.store&alpn=h2&type=grpc&serviceName=trgrpc&grpc-service-name=trgrpc&mode=gun&fp=chrome#0002 | 🇷🇺 Russia | [417ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://d2adff89-5143-4d67-921f-3478464de5bb@38.180.240.150:443?security=tls&sni=fr.freeguard.org&allowInsecure=1&fp=chrome&type=tcp#0003 | 🇫🇷 France | [740ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#0004 | 🇮🇷 Iran, Islamic Republic of | [836ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://ASoZeIVwzX4w4wxwig@78.142.194.39:443?security=tls&sni=nl-1.tr202605.com&type=tcp&allowInsecure=1#0005 | 🇳🇱 Netherlands | [866ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#0006 | 🇦🇺 Australia | [1114ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#0007 | 🇳🇬 Nigeria | [1346ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-es7501.shopingggg.ir:443?security=tls&insecure=0&host=%2&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#0008 | 🇪🇸 Spain | [1531ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://d306137cdbd55eac0d79ca7d1e3904a4@tyy129.magiclampcloud.com:59443?allowInsecure=0&sni=tyy129.magiclampcloud.com&type=tcp#0009 | 🇨🇳 China | [1804ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://j8HSz13mcSpcbzQD-jxhNt3T99NLzgMB@nl4.275.axolab.org:443?sni=nl4.275.axolab.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp#0010 | 🇳🇱 Netherlands | [1896ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?sni=checkout.skog.lalibobi.online&type=tcp#0011 | 🇸🇪 Sweden | [1899ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a04.taipeicitygovernment.com.ua:3462?sni=45.32.28.232&type=tcp#0012 | 🇹🇼 Taiwan | [2029ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org&allowInsecure=1&fp=chrome&type=tcp#0013 | 🇺🇸 United States | [2203ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#0014 | 🇦🇺 Australia | [2457ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://1a4dbf8b75346468b85c8d7f70c0cc75@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#0015 | 🇨🇳 China | [2626ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://q6UYkw9nUn6MYZz8Sp@sg-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#0016 | 🇸🇬 Singapore | [2914ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://7b561e94-42f3-4f92-979c-4cf97c328025@xjp.ziqiyun.xyz:443?security=tls#0017 | 🇺🇸 United States | [3223ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://RJbtIstwtcU5buDY3r@nl-4.tr202604.com:443?security=none&type=tcp#0018 | 🇳🇱 Netherlands | [3289ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://93618d74a3bcf47c8cfbbe678bb29b08@ja304.magiclampcloud.cn:59443?security=none&type=tcp&sni=ja304.magiclampcloud.cn#0019 | 🇨🇳 China | [3825ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
