@@ -2,14 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 9 configs · last update: 15:06 21/11/2026
+#announce: t.me/FlareFeedtg · 8 configs · last update: 15:40 21/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#0001 | 🇷🇺 Russia | [545ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://4fabeed0-790e-9724-8f12-138ed31ac60e@178.20.28.5:8443?encryption=none&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&serviceName=TunService&sni=res.cdn.office.net&type=grpc#0002 | 🇩🇪 Germany | [623ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?type=ws&headerType=none&security=tls&encryption=none&sni=volumestyle.komediyatorg.net&fp=firefox&path=%2Fmedia%2Fws%2F#0003 | 🇫🇮 Finland | [1126ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#0004 | 🇧🇷 Brazil | [1188ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#0005 | 🇧🇷 Brazil | [1235ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?type=ws&security=false&path=%2Fplatform103&host=platform103.halalkhor.info&sni=platform103.golnamakcert.top&fp=chrome#0006 | 🇧🇷 Brazil | [1259ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?path=%2Fplatform103&security=none&type=ws#0007 | 🇧🇷 Brazil | [1300ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lyhk.mihoyo.site&type=tcp#0008 | 🇭🇰 Hong Kong | [1847ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-vless://ff8fc3f9-0c1b-4a6f-97cb-ed1cde4de62d@168.110.21.56:18454?security=none&type=tcp#0009 | 🇯🇵 Japan | [2969ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#0001 | 🇷🇺 Russia | [532ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?type=ws&headerType=none&security=tls&encryption=none&sni=volumestyle.komediyatorg.net&fp=firefox&path=%2Fmedia%2Fws%2F#0002 | 🇫🇮 Finland | [863ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&sni=platform103.halalkhor.info&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#0003 | 🇧🇷 Brazil | [1028ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?&security=false&fp=chrome&type=ws&headerType=none&host=platform103.halalkhor.info&path=%2Fplatform103#0004 | 🇧🇷 Brazil | [1083ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@178.20.28.5:8443?encryption=none&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&serviceName=TunService&sni=res.cdn.office.net&type=grpc#0005 | 🇩🇪 Germany | [1260ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?type=ws&security=false&path=%2Fplatform103&host=platform103.halalkhor.info&sni=platform103.golnamakcert.top&fp=chrome#0006 | 🇧🇷 Brazil | [1301ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?path=%2Fplatform103&security=none&type=ws#0007 | 🇧🇷 Brazil | [1491ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lyhk.mihoyo.site&type=tcp#0008 | 🇭🇰 Hong Kong | [1723ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
