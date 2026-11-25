@@ -2,63 +2,62 @@
 #profile-update-interval: 1
 #support-url: https://t.me/FlareFeedtg
 #profile-web-page-url: https://github.com/svinakraft-maker/FlareFeed
-#announce: t.me/FlareFeedtg · 58 configs · last update: 22:20 25/11/2026
+#announce: t.me/FlareFeedtg · 57 configs · last update: 01:15 26/11/2026
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
-trojan://qV2wW%20mxlLFpREM4sw4LOInVEWufCl55nkhIulUTwyI%3D@178.105.168.171:2123?sni=qapartners.sec.samsung.com&type=tcp#0001 | 🇩🇪 Germany | [140ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#0002 | 🇸🇪 Sweden | [252ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#0003 | 🇷🇺 Russia | [330ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://pjqRC5wfEFhYTyiaKF@ee-1.tr202604.com:443?sni=ee-1.tr202604.com&allowInsecure=1&type=tcp%20#0004 | 🇪🇪 Estonia | [373ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?sni=ua.freeguard.org&peer=ua.freeguard.org&security=tls#0005 | 🇺🇦 Ukraine | [403ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://2ee85121-31de-4581-a492-eb00f606e392@23.95.14.5:443?security=tls&headerType=none&type=tcp&sni=rc9.freeguard.org#0006 | 🇺🇸 United States | [443ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=none&type=tcp&sni=sj6.freeguard.org&allowInsecure=1#0007 | 🇺🇸 United States | [564ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?path=%2F&security=none&type=tcp#0008 | 🇺🇸 United States | [565ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://828b96278358962c945c18913e3ce5b7@ja304.magiclampcloud.cn:59443?sni=ja304.magiclampcloud.cn&type=tcp#0009 | 🇨🇳 China | [578ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://ee633fac24a4a265077aa7290e3d29d0@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0010 | 🇨🇳 China | [606ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@scottie.golfland.club:443?type=tcp&allowInsecure=1#0011 | 🇦🇺 Australia | [642ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://f12507bcc9bbae297ed77b94d9232ae6@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#0012 | 🇨🇳 China | [682ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://7547490bb96d371033b58baf91772254@tyy129.magiclampcloud.com:59443?type=tcp#0013 | 🇨🇳 China | [692ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://4c1511d220e1437b234fa40571c43810@118.253.167.243:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#0014 | 🇨🇳 China | [694ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#0015 | 🇺🇸 United States | [727ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://094a90dd5480ed7702597be34aeaacf7@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#0016 | 🇨🇳 China | [727ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://6fac6920d85a061cc5bb88ea80e6a703@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0017 | 🇨🇳 China | [728ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://4c1511d220e1437b234fa40571c43810@118.253.167.243:59443?security=none&type=tcp&sni=tyy129.magiclampcloud.com&allowInsecure=1#0018 | 🇨🇳 China | [731ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com&path=%2f#0019 | 🇺🇸 United States | [752ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://483bb26f72bf7e77f40ab78e4b319e49@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0020 | 🇨🇳 China | [758ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?security=tls&sni=resources.browseseniorrolesandenhanceyourcareertoday.com#0021 | 🇺🇸 United States | [759ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none&path=/#0022 | 🇺🇸 United States | [769ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://8560843d8550aa368674c3bf0d4d3ad8@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0023 | 🇨🇳 China | [777ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a08.taipeicitygovernment.ivano-frankivsk.ua:3462?sni=45.32.28.232&type=tcp#0024 | 🇹🇼 Taiwan | [837ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#0025 | 🇺🇸 United States | [860ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443?sni=www.baidu.com&peer=www.baidu.com&security=tls#0026 | 🇭🇰 Hong Kong | [872ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#0027 | 🇺🇸 United States | [913ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#0028 | 🇺🇸 United States | [918ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@01a.seoulcityhall.com.ua:2051?security=none&type=tcp&sni=45.32.28.232#0029 | 🇰🇷 South Korea | [940ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?allowInsecure=1&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#0030 | 🇺🇸 United States | [1034ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&fp=chrome&allowInsecure=0#0031 | 🇿🇦 South Africa | [1037ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=none&type=tcp&sni=kr.freeguard.org#0032 | 🇰🇷 South Korea | [1105ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?sni=blog.browseseniorrolesandenhanceyourcareertoday.com&peer=blog.browseseniorrolesandenhanceyourcareertoday.com&security=tls#0033 | 🇺🇸 United States | [1114ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@157.254.38.210:20129?security=tls&sni=hk.catxstar.com&type=tcp&fp=android#0034 | 🇺🇸 United States | [1126ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&sni=kr.freeguard.org&type=tcp&allowInsecure=0#0035 | 🇰🇷 South Korea | [1129ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#0036 | 🇰🇷 South Korea | [1133ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#0037 | 🇰🇷 South Korea | [1216ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#0038 | 🇰🇷 South Korea | [1244ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#0039 | 🇦🇺 Australia | [1286ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&sni=exploredigitaljobplatformandfindonlinework.com#0040 | 🇸🇬 Singapore | [1432ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#0041 | 🇺🇸 United States | [1524ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#0042 | 🇺🇸 United States | [1610ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?sni=resources.discovergreatjobsandadvanceyourcareer.com&peer=resources.discovergreatjobsandadvanceyourcareer.com&security=tls#0043 | 🇪🇸 Spain | [1670ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com&type=tcp&headerType=none&path=/#0044 | 🇺🇸 United States | [1956ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=none&type=tcp&sni=exploredigitaljobplatformandfindonlinework.com&allowInsecure=1#0045 | 🇸🇬 Singapore | [2299ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&host=/%&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#0046 | 🇺🇸 United States | [2371ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#0047 | 🇹🇼 Taiwan | [2392ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&sni=api.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none#0048 | 🇺🇸 United States | [3583ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.222:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=yourultimateprofessionalcareerhub.com&fp=chrome#0049 | 🇨🇭 Switzerland | [3903ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#0050 | 🇺🇸 United States | [3939ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#0051 | 🇺🇸 United States | [4182ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.nextjobopportunityandclaimyouridealrole.com#0052 | 🇺🇸 United States | [4337ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#0053 | 🇨🇭 Switzerland | [4419ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com#0054 | 🇺🇸 United States | [4453ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&sni=api.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none&path=/#0055 | 🇺🇸 United States | [4486ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com&type=tcp&headerType=none&path=/#0056 | 🇺🇸 United States | [4931ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#0057 | 🇺🇸 United States | [5179ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#0058 | 🇺🇸 United States | [5706ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?allowInsecure=1&sni=learn.yourultimateprofessionalcareerhub.com#0001 | 🇨🇭 Switzerland | [136ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com#0002 | 🇳🇱 Netherlands | [218ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://LSS6HLnp7IeEEJUcox@nl-1.tr202607.com:443?type=tcp&amp;security=tls&amp;headerType=none&amp;allowInsecure=1#0003 | 🇳🇱 Netherlands | [219ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://AG4yPUSazj57DBFnKG@de-2.tr202604.com:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#0004 | 🇩🇪 Germany | [225ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?allowInsecure=1&insecure=1&security=tls&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#0005 | 🇳🇱 Netherlands | [279ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?sni=ra-p1.victorycloud.ru&peer=ra-p1.victorycloud.ru&security=tls#0006 | 🇵🇱 Poland | [376ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#0007 | 🇺🇸 United States | [401ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@152.53.80.195:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=abr2.freeguard.org#0008 | 🇺🇸 United States | [437ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&path=%2f#0009 | 🇨🇦 Canada | [454ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#0010 | 🇨🇦 Canada | [478ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@leviko-ca6908.shopingggg.ir:443?allowInsecure=1&sni=blog.connectingpeoplewithgreatjobs.com#0011 | 🇨🇦 Canada | [541ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#0012 | 🇺🇸 United States | [555ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?path=%2F&security=none&type=tcp#0013 | 🇺🇸 United States | [576ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com&type=tcp&headerType=none&path=/#0014 | 🇺🇸 United States | [577ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?allowInsecure=1&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#0015 | 🇺🇸 United States | [593ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#0016 | 🇺🇸 United States | [593ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.50:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.nextjobopportunityandclaimyouridealrole.com#0017 | 🇺🇸 United States | [597ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?sni=ja262.magiclampcloud.cn&type=tcp#0018 | 🇨🇳 China | [599ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&sni=learn.nextjobopportunityandclaimyouridealrole.com&type=tcp&headerType=none&path=/#0019 | 🇺🇸 United States | [601ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://a74c18e385d4df373ae7871c331cc88b@tyy129.magiclampcloud.com:59443?sni=tyy129.magiclampcloud.com&type=tcp#0020 | 🇨🇳 China | [622ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#0021 | 🇺🇸 United States | [627ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://7a5054478a34abfa1ca881874d3c5f62@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#0022 | 🇨🇳 China | [647ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?type=tcp&security=none#0023 | 🇺🇸 United States | [661ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&insecure=0&host=/%&headerType=none&type=tcp&allowInsecure=0&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com#0024 | 🇺🇸 United States | [674ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://7e62aec6f4a54b44cd439321c825d71b@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#0025 | 🇨🇳 China | [677ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://c300410095914c66daa846d8a5c92747@tyy129.magiclampcloud.com:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#0026 | 🇨🇳 China | [687ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&sni=api.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none#0027 | 🇺🇸 United States | [694ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?security=tls&sni=resources.browseseniorrolesandenhanceyourcareertoday.com#0028 | 🇺🇸 United States | [722ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#0029 | 🇺🇸 United States | [723ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://7141b5f0592f2e7f459ea2e8cfcd8a84@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#0030 | 🇨🇳 China | [728ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://JshEyCTWuC@48.102.138.153:22374?type=tcp&security=none#0031 | 🇺🇸 United States | [730ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://c30973184a30818b4a19c8b247cc3cd4@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0032 | 🇨🇳 China | [732ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#0033 | 🇺🇸 United States | [736ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#0034 | 🇹🇼 Taiwan | [748ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://18844@zxcvbn@49.212.204.123:443?type=tcp&sni=os-tr-5.cats22.net&allowInsecure=1#0035 | 🇯🇵 Japan | [757ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#0036 | 🇺🇸 United States | [763ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#0037 | 🇺🇸 United States | [765ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://7834a6df93542db17c9a6be4e27d6059@ja262.magiclampcloud.cn:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#0038 | 🇨🇳 China | [766ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com&path=%2f#0039 | 🇺🇸 United States | [775ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none&path=/#0040 | 🇺🇸 United States | [781ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&fp=chrome#0041 | 🇺🇸 United States | [806ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?sni=blog.browseseniorrolesandenhanceyourcareertoday.com&peer=blog.browseseniorrolesandenhanceyourcareertoday.com&security=tls#0042 | 🇺🇸 United States | [836ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#0043 | 🇹🇼 Taiwan | [836ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#0044 | 🇺🇸 United States | [907ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com&type=tcp&fp=chrome&allowInsecure=0#0045 | 🇿🇦 South Africa | [983ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#0046 | 🇺🇸 United States | [991ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com#0047 | 🇺🇸 United States | [991ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&path=%2F#0048 | ☁️ Cloudflare | [1004ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#0049 | 🇺🇸 United States | [1141ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?encryption=chacha20#0050 | 🇰🇷 South Korea | [1176ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&sni=ikr200.zxom.eu.org#0051 | 🇰🇷 South Korea | [1233ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://463f7453753f4d47@ikr200.zxom.eu.org:20045?sni=ikr200.zxom.eu.org&type=tcp&fp=chrome#0052 | 🇰🇷 South Korea | [1253ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&sni=api.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none&path=/#0053 | 🇺🇸 United States | [1464ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?sni=resources.discovergreatjobsandadvanceyourcareer.com&peer=resources.discovergreatjobsandadvanceyourcareer.com&security=tls#0054 | 🇪🇸 Spain | [1720ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com#0055 | 🇳🇱 Netherlands | [2180ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#0056 | 🇨🇭 Switzerland | [3943ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&sni=exploredigitaljobplatformandfindonlinework.com#0057 | 🇸🇬 Singapore | [4875ms0.0mbps] | 🏴 Black | TG: @FlareFeedtg
